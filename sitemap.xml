@@ -2,14 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://unchaineddev.github.io/blog/</loc>
+    <lastmod>2023-09-10T09:42:30+05:30</lastmod>
+  </url><url>
+    <loc>http://unchaineddev.github.io/blog/solving-captcha/</loc>
+    <lastmod>2023-09-10T09:42:30+05:30</lastmod>
+  </url><url>
     <loc>http://unchaineddev.github.io/</loc>
     <lastmod>2022-11-14T18:25:39+05:30</lastmod>
   </url><url>
     <loc>http://unchaineddev.github.io/contact/</loc>
   </url><url>
     <loc>http://unchaineddev.github.io/gallery/</loc>
-  </url><url>
-    <loc>http://unchaineddev.github.io/blog/</loc>
   </url><url>
     <loc>http://unchaineddev.github.io/categories/</loc>
   </url><url>

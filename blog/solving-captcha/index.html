@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="hello, friend.">
+    
+    <link rel="shortcut icon" href="http://unchaineddev.github.io/favicon.ico">
+    
+    <link rel="stylesheet" href="/css/style.min.css">
+
+    
+    <link rel="icon" href="/image/favicon.ico" type="/image" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/image/apple-touch-icon.png">
+    <link rel="icon" type="image" sizes="32x32" href="/image/favicon-32x32.png">
+    <link rel="icon" type="image" sizes="16x16" href="/image/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest.json">
+
+    <title>solving captcha</title>
+
+</head>
+<body><header id="banner">
+	<h2><a href="http://unchaineddev.github.io">Yusuf&#39;s Webpage</a></h2>
+	<br>
+    <nav>
+        <ul>
+            <li>
+                <a href="/software/" title="">software</a>
+            </li><li>
+                <a href="/blog/" title="">blog</a>
+            </li><li>
+                <a href="/contact/" title="">contact</a>
+            </li><li>
+                <a href="/gallery/" title="">pics</a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main id="content">
+<article>
+    <header id="post-header">
+        <h1>solving captcha</h1>
+        <div>
+                <time>September 10, 2023</time>
+            </div>
+    </header><p><br>
+solving captcha programatically is a pain in the ass. me and this other dude at work took about two weeks to solve version 2 of google recaptcha which we learned later, was an enterprise versioned captcha. i did not understand what that meant, until i read between the lines of the docs.</p>
+<p>this blog is a simple sidenote on how to solve recaptcha (v2) with 2captcha API. you can read the docs<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>, which btw, is amazing.</p>
+<center>
+
+<link rel="stylesheet" href=/css/hugo-easy-gallery.css />
+<div class="box" style="max-width:250px">
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/img/blog-img/recaptchav2.gif" />
+    </div>
+    <a href="/img/blog-img/recaptchav2.gif" itemprop="contentUrl"></a>
+  </figure>
+</div>
+
+</center>
+<h1 id="prequisities">prequisities</h1>
+<ul>
+<li>2captcha API key</li>
+<li>install requests<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup></li>
+</ul>
+<h4 id="step-1">step 1:</h4>
+<p><br>
+right click around the captcha area &ndash;&gt; inspect element</p>
+<center>
+
+
+<div class="box" style="max-width:350px">
+  <figure class="photoswipe" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/img/blog-img/inspectelement.png" />
+    </div>
+    <a href="/img/blog-img/inspectelement.png" itemprop="contentUrl"></a>
+  </figure>
+</div>
+
+</center>
+<h4 id="step-2">step 2:</h4>
+<p><br>
+find the &ldquo;data-sitekey&rdquo; parameter and copy the value. this will be the &lsquo;googlekey&rsquo; value.</p>
+<center>
+
+
+<div class="box" style="max-width:600px">
+  <figure class="photoswipe" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/img/blog-img/sitekey_recaptcha.png" />
+    </div>
+    <a href="/img/blog-img/sitekey_recaptcha.png" itemprop="contentUrl"></a>
+  </figure>
+</div>
+
+</center>
+<h4 id="step-3">step 3:</h4>
+<p><br>
+send a http GET request to submit a captcha.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#f92672">import</span> requests  <span style="color:#75715e">#pip install requests</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>API_KEY <span style="color:#f92672">=</span> <span style="color:#e6db74">&#39;1abc234de56fab7c89012d3&#39;</span>
+</span></span><span style="display:flex;"><span>URL <span style="color:#f92672">=</span> <span style="color:#e6db74">&#39;http://2captcha.com/in.php&#39;</span>
+</span></span><span style="display:flex;"><span>SITE <span style="color:#f92672">=</span> <span style="color:#e6db74">&#39;https://site-with-captcha.com&#39;</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>response <span style="color:#f92672">=</span> requests<span style="color:#f92672">.</span>get(URL, 
+</span></span><span style="display:flex;"><span>    params <span style="color:#f92672">=</span> {
+</span></span><span style="display:flex;"><span>        <span style="color:#e6db74">&#39;key&#39;</span>: API_KEY, 
+</span></span><span style="display:flex;"><span>        <span style="color:#e6db74">&#39;method&#39;</span>: <span style="color:#e6db74">&#39;userrecaptcha&#39;</span>, 
+</span></span><span style="display:flex;"><span>        <span style="color:#e6db74">&#39;googlekey&#39;</span>: <span style="color:#e6db74">&#39;key-from-step2&#39;</span>,
+</span></span><span style="display:flex;"><span>        <span style="color:#e6db74">&#39;pageurl&#39;</span> : SITE
+</span></span><span style="display:flex;"><span>    })
+</span></span></code></pre></div><h4 id="step-4">step 4:</h4>
+<p><br>
+if you came this far, you <em>will</em>  get the ID of your captcha as plain text, like:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>OK|<span style="color:#ae81ff">2122988149</span>
+</span></span></code></pre></div><p>if you get an error message, <strong>do not proceed</strong> to the next step.
+refer the <a href="https://2captcha.com/2captcha-api#error_handling">documentation</a> if you get any errors.</p>
+<h4 id="step-5">step 5:</h4>
+<p><br>
+make a 15-20 seconds timeout and then, submit another GET request:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span>URL <span style="color:#f92672">=</span> <span style="color:#e6db74">&#39;http://2captcha.com/res.php&#39;</span>
+</span></span><span style="display:flex;"><span>response <span style="color:#f92672">=</span> requests<span style="color:#f92672">.</span>get(URL,
+</span></span><span style="display:flex;"><span>    params <span style="color:#f92672">=</span> {
+</span></span><span style="display:flex;"><span>        <span style="color:#e6db74">&#39;key&#39;</span>:API_KEY,
+</span></span><span style="display:flex;"><span>        <span style="color:#e6db74">&#39;action&#39;</span>: get,
+</span></span><span style="display:flex;"><span>        <span style="color:#e6db74">&#39;id&#39;</span>: <span style="color:#ae81ff">2122988149</span>
+</span></span><span style="display:flex;"><span>    })
+</span></span></code></pre></div><p>if captcha is already solved, server will respond with a randomly generated token. if it does not, you can repeat your request in 5 seconds.</p>
+<h4 id="step-6">step 6:</h4>
+<p><br>
+in developer&rsquo;s console, find the textarea with id=&ldquo;g-recaptcha-response&rdquo;, and send the received code.</p>
+<center>
+
+
+<div class="box" style="max-width:600px">
+  <figure class="photoswipe" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/img/blog-img/g_recaptcha_response.png" />
+    </div>
+    <a href="/img/blog-img/g_recaptcha_response.png" itemprop="contentUrl"></a>
+  </figure>
+</div>
+
+</center>
+<p>i used selenium to send the code back like so:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span>driver<span style="color:#f92672">.</span>execute_script(<span style="color:#e6db74">&#34;&#34;&#34;
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">    document.getElementById(
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">        &#34;g-recaptcha-response&#34;
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">        ).innerText=&#39;2122988149&#39;;
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">    &#34;&#34;&#34;</span>)
+</span></span></code></pre></div><p>Then you can submit the captcha response, and recaptcha will be solved.</p>
+<p><strong>Note:</strong>  there is a high possibility these steps won&rsquo;t work. if you are looking for a direct method, you can find it <a href="https://github.com/2captcha/2captcha-python/blob/master/examples/recaptcha_v2.py">here</a></p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p><a href="https://2captcha.com/2captcha-api#solving_captchas">https://2captcha.com/2captcha-api#solving_captchas</a>&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p><a href="https://pypi.org/project/requests/">https://pypi.org/project/requests/</a>&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+</article>
+
+        </main><style>svg{fill:#1c71d8}</style><path d="M0 64C0 46.3 14.3 32 32 32c229.8 0 416 186.2 416 416c0 17.7-14.3 32-32 32s-32-14.3-32-32C384 253.6 226.4 96 32 96C14.3 96 0 81.7 0 64zM0 416a64 64 0 1 1 128 0A64 64 0 1 1 0 416zM32 160c159.1 0 288 128.9 288 288c0 17.7-14.3 32-32 32s-32-14.3-32-32c0-123.7-100.3-224-224-224c-17.7 0-32-14.3-32-32s14.3-32 32-32z"/></svg>
+
+
+
+
+<footer id="footer">
+    <span class="copyright">
+        Copyright © 2023 yusuf
+    </span>
+    <a href="/index.xml" target="_blank" rel="noopener noreferrer" class="rss-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" height="1.25em" viewBox="0 0 448 512"><style>svg{fill:#d9017a}</style><path d="M0 64C0 46.3 14.3 32 32 32c229.8 0 416 186.2 416 416c0 17.7-14.3 32-32 32s-32-14.3-32-32C384 253.6 226.4 96 32 96C14.3 96 0 81.7 0 64zM0 416a64 64 0 1 1 128 0A64 64 0 1 1 0 416zM32 160c159.1 0 288 128.9 288 288c0 17.7-14.3 32-32 32s-32-14.3-32-32c0-123.7-100.3-224-224-224c-17.7 0-32-14.3-32-32s14.3-32 32-32z"/></svg>
+    </a>
+</footer>
+
+<style>
+    .copyright {
+        margin-right: 10px;  
+    }
+</style>
+</body>
+</html>
