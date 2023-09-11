@@ -3,7 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://unchaineddev.github.io/blog/</loc>
-    <lastmod>2023-09-10T09:42:30+05:30</lastmod>
+    <lastmod>2023-09-11T20:32:32+05:30</lastmod>
+  </url><url>
+    <loc>http://unchaineddev.github.io/blog/proxy-auth/</loc>
+    <lastmod>2023-09-11T20:32:32+05:30</lastmod>
   </url><url>
     <loc>http://unchaineddev.github.io/blog/solving-captchas/</loc>
     <lastmod>2023-09-10T09:42:30+05:30</lastmod>
@@ -13,6 +16,8 @@
   </url><url>
     <loc>http://unchaineddev.github.io/</loc>
     <lastmod>2022-11-14T18:25:39+05:30</lastmod>
+  </url><url>
+    <loc>http://unchaineddev.github.io/braindump/</loc>
   </url><url>
     <loc>http://unchaineddev.github.io/contact/</loc>
   </url><url>
