@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
   <channel>
     <title>selenium on Yusuf&#39;s Webpage</title>
-    <link>http://unchaineddev.github.io/tags/selenium/</link>
+    <link>https://unchaineddev.github.io/tags/selenium/</link>
     <description>Recent content in selenium on Yusuf&#39;s Webpage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 11 Sep 2023 20:32:32 +0530</lastBuildDate>
     
-	<atom:link href="http://unchaineddev.github.io/tags/selenium/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://unchaineddev.github.io/tags/selenium/index.xml" rel="self" type="application/rss+xml" />
     
     
     
