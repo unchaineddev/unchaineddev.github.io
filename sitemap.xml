@@ -3,15 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://unchaineddev.github.io/blog/</loc>
-    <lastmod>2023-09-18T08:36:10+05:30</lastmod>
+    <lastmod>2023-09-26T08:16:04+05:30</lastmod>
+  </url><url>
+    <loc>https://unchaineddev.github.io/blog/custom-domain/</loc>
+    <lastmod>2023-09-26T08:16:04+05:30</lastmod>
+  </url><url>
+    <loc>https://unchaineddev.github.io/tags/</loc>
+    <lastmod>2023-09-26T08:16:04+05:30</lastmod>
+  </url><url>
+    <loc>https://unchaineddev.github.io/tags/web/</loc>
+    <lastmod>2023-09-26T08:16:04+05:30</lastmod>
   </url><url>
     <loc>https://unchaineddev.github.io/tags/linux/</loc>
     <lastmod>2023-09-18T08:36:10+05:30</lastmod>
   </url><url>
     <loc>https://unchaineddev.github.io/blog/mpv-scripts/</loc>
-    <lastmod>2023-09-18T08:36:10+05:30</lastmod>
-  </url><url>
-    <loc>https://unchaineddev.github.io/tags/</loc>
     <lastmod>2023-09-18T08:36:10+05:30</lastmod>
   </url><url>
     <loc>https://unchaineddev.github.io/tags/film/</loc>
@@ -45,6 +51,8 @@
     <loc>https://unchaineddev.github.io/gallery/</loc>
   </url><url>
     <loc>https://unchaineddev.github.io/categories/</loc>
+  </url><url>
+    <loc>https://unchaineddev.github.io/tags/literature/</loc>
   </url><url>
     <loc>https://unchaineddev.github.io/library/</loc>
   </url><url>
