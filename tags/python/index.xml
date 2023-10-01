@@ -1,37 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>python on Yusuf&#39;s Webpage</title>
     <link>https://unchaineddev.github.io/tags/python/</link>
     <description>Recent content in python on Yusuf&#39;s Webpage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Sep 2023 20:32:32 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 11 Sep 2023 20:32:32 +0530</lastBuildDate><atom:link href="https://unchaineddev.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>setting up proxies in selenium</title>
+      <link>https://unchaineddev.github.io/blog/proxy-auth/</link>
+      <pubDate>Mon, 11 Sep 2023 20:32:32 +0530</pubDate>
+      
+      <guid>https://unchaineddev.github.io/blog/proxy-auth/</guid>
+      <description>this is a sample configuration of using proxies with IP authentication, using selenium and python.
+sample code CHROMEDRIVER_PATH = /path/to/chromedriver PROXY = &amp;#34;23.23.23.23:3128&amp;#34; # IP:PORT URL = &amp;#39;https://example.com&amp;#39; from seleniumwire import webdriver from selenium.webdriver.chrome.options import Options from selenium.webdriver.chrome.service import Service options = Options() options.add_argument(&amp;#39;--proxy-server=%s&amp;#39; % PROXY) s = Service(CHROMEDRIVER_PATH) driver = webdriver.Chrome(service=s, options=options) driver.get(URL) what if the connection is insecure? install this certificate
+or get the certificate using: python -m seleniumwire extractcert after the certificate is installed,</description>
+    </item>
     
-	<atom:link href="https://unchaineddev.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+    <item>
+      <title>solving captchas</title>
+      <link>https://unchaineddev.github.io/blog/solving-captchas/</link>
+      <pubDate>Sun, 10 Sep 2023 09:42:30 +0530</pubDate>
+      
+      <guid>https://unchaineddev.github.io/blog/solving-captchas/</guid>
+      <description>solving captcha programatically is a pain in the ass. me and this other dude at work took about two weeks to solve version 2 of google recaptcha which we learned later, was an enterprise versioned captcha. i did not understand what that meant, until i read between the lines of the docs.
+this blog is a simple sidenote on how to solve recaptcha (v2) with 2captcha API. you can read the docs1, which btw, is amazing.</description>
+    </item>
     
   </channel>
 </rss>

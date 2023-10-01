@@ -1,37 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>selenium on Yusuf&#39;s Webpage</title>
     <link>https://unchaineddev.github.io/tags/selenium/</link>
     <description>Recent content in selenium on Yusuf&#39;s Webpage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Sep 2023 20:32:32 +0530</lastBuildDate>
-    
-	<atom:link href="https://unchaineddev.github.io/tags/selenium/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+    <lastBuildDate>Mon, 11 Sep 2023 20:32:32 +0530</lastBuildDate><atom:link href="https://unchaineddev.github.io/tags/selenium/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>setting up proxies in selenium</title>
+      <link>https://unchaineddev.github.io/blog/proxy-auth/</link>
+      <pubDate>Mon, 11 Sep 2023 20:32:32 +0530</pubDate>
+      
+      <guid>https://unchaineddev.github.io/blog/proxy-auth/</guid>
+      <description>this is a sample configuration of using proxies with IP authentication, using selenium and python.
+sample code CHROMEDRIVER_PATH = /path/to/chromedriver PROXY = &amp;#34;23.23.23.23:3128&amp;#34; # IP:PORT URL = &amp;#39;https://example.com&amp;#39; from seleniumwire import webdriver from selenium.webdriver.chrome.options import Options from selenium.webdriver.chrome.service import Service options = Options() options.add_argument(&amp;#39;--proxy-server=%s&amp;#39; % PROXY) s = Service(CHROMEDRIVER_PATH) driver = webdriver.Chrome(service=s, options=options) driver.get(URL) what if the connection is insecure? install this certificate
+or get the certificate using: python -m seleniumwire extractcert after the certificate is installed,</description>
+    </item>
     
   </channel>
 </rss>

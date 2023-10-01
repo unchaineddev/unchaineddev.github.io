@@ -1,36 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>literature on Yusuf&#39;s Webpage</title>
     <link>https://unchaineddev.github.io/tags/literature/</link>
     <description>Recent content in literature on Yusuf&#39;s Webpage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 01 Oct 2023 00:19:03 +0530</lastBuildDate><atom:link href="https://unchaineddev.github.io/tags/literature/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Story Of My Experiments With Truth</title>
+      <link>https://unchaineddev.github.io/blog/gandhi/</link>
+      <pubDate>Sun, 01 Oct 2023 00:19:03 +0530</pubDate>
+      
+      <guid>https://unchaineddev.github.io/blog/gandhi/</guid>
+      <description>In hindsight it might seem like we are not affected by history, however, for the most part we are. Take a currency note for instance. Did you ever reflect on the man behind the note? His truths, legacy, philosophy, or principles for that matter, that left an indelible mark on our history.
+Today, I want to share my review on Gandhi&amp;rsquo;s biography, &amp;ldquo;The Story Of My Experiments With Truth&amp;rdquo;. There are 5 parts in his book, and I will go over all the key learnings from the Mahatma himself.</description>
+    </item>
     
-	<atom:link href="https://unchaineddev.github.io/tags/literature/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+    <item>
+      <title>My Personal Library</title>
+      <link>https://unchaineddev.github.io/library/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unchaineddev.github.io/library/</guid>
+      <description>This page contains a list of books from my personal library. While I don&amp;rsquo;t consider myself to be a book hoarder, I do have a reasonable number to display them here.
+if you have any questions or want to recommend or review any book, you can do that here
+the books are categorized by genre, and each genre is arranged chronologically based on the author&amp;rsquo;s name.
+Fiction Adiga, Arvind &amp;ndash; The White Tiger Alcott, Louisa May &amp;ndash; Little Women Archer, Jeffrey &amp;ndash; A Prisoner of Birth Austen, Jane &amp;ndash; Pride and Prejudice Bond, Ruskin &amp;ndash; The Blue Umbrella Bond, Ruskin &amp;ndash; The Girl on the Train Brontë, Charlotte &amp;ndash; Jane Eyre Brontë, Emily &amp;ndash; Wuthering heights Christie, Agatha &amp;ndash; The Murder on the Links Christie, Agatha &amp;ndash; The Mysterious Affair at Styles Christie, Agatha &amp;ndash; Where the light lasts Coelho, Paulo &amp;ndash; Adultery Coelho, Paulo &amp;ndash; The Devil and Miss Prym Coelho, Paulo &amp;ndash; The Spy Coelho, Paulo &amp;ndash; Veronica Decides to Die Conrad, Joseph &amp;ndash; Heart of Darkness Dickens, Charles &amp;ndash; A Christmas Carol Dostoyevsky, Fyodor &amp;ndash; Crime and Punishment Doyle, Arthur Conan &amp;ndash; The Complete Novels of Sherlock Holmes Doyle, Aruthur Conan &amp;ndash; The Hound of the Baskervilles Fitzgerald, Scott F.</description>
+    </item>
     
   </channel>
 </rss>

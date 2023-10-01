@@ -1,37 +1,85 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Yusuf&#39;s Webpage</title>
     <link>https://unchaineddev.github.io/blog/</link>
     <description>Recent content in Blogs on Yusuf&#39;s Webpage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Sep 2023 08:16:04 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 01 Oct 2023 00:19:03 +0530</lastBuildDate><atom:link href="https://unchaineddev.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Story Of My Experiments With Truth</title>
+      <link>https://unchaineddev.github.io/blog/gandhi/</link>
+      <pubDate>Sun, 01 Oct 2023 00:19:03 +0530</pubDate>
+      
+      <guid>https://unchaineddev.github.io/blog/gandhi/</guid>
+      <description>In hindsight it might seem like we are not affected by history, however, for the most part we are. Take a currency note for instance. Did you ever reflect on the man behind the note? His truths, legacy, philosophy, or principles for that matter, that left an indelible mark on our history.
+Today, I want to share my review on Gandhi&amp;rsquo;s biography, &amp;ldquo;The Story Of My Experiments With Truth&amp;rdquo;. There are 5 parts in his book, and I will go over all the key learnings from the Mahatma himself.</description>
+    </item>
     
-	<atom:link href="https://unchaineddev.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>custom domain for github pages</title>
+      <link>https://unchaineddev.github.io/blog/custom-domain/</link>
+      <pubDate>Tue, 26 Sep 2023 08:16:04 +0530</pubDate>
+      
+      <guid>https://unchaineddev.github.io/blog/custom-domain/</guid>
+      <description>There are far more problems in the world than setting up a custom domain. it&amp;rsquo;s ridiculous how a simple thing is made so complicated that any new user would break their head trying to make it work.
+in this blog, i will share how to set up a custom domain using github pages.
+i already had github pages1 set up, and i bought a domain from hostinger. if you haven&amp;rsquo;t purchased a domain, you can get it here, and if you are lazy to create a static page on your own, you can use one of these templates.</description>
+    </item>
     
+    <item>
+      <title>mpv scripts</title>
+      <link>https://unchaineddev.github.io/blog/mpv-scripts/</link>
+      <pubDate>Mon, 18 Sep 2023 08:36:10 +0530</pubDate>
+      
+      <guid>https://unchaineddev.github.io/blog/mpv-scripts/</guid>
+      <description>in this blog, i will share a list of no-nonense scripts for mpv.
+if you are not using mpv, and using something else &amp;ndash; here are few reasons why you must consider it:
+lightweight customizable with scripting support relatively easy to setup and use faster than vlc Scripts mpv chapters mpv thumbnails script 1. mpv chapters1 Display chapters and allow you to jump to them with a mouse click. as easy as saving the file in your scripts/ folder.</description>
+    </item>
     
+    <item>
+      <title>jawan - a review</title>
+      <link>https://unchaineddev.github.io/blog/jawan/</link>
+      <pubDate>Thu, 14 Sep 2023 19:27:10 +0530</pubDate>
+      
+      <guid>https://unchaineddev.github.io/blog/jawan/</guid>
+      <description>last thursday, i went to watch the socio-political action thriller, &amp;ldquo;Jawan&amp;rdquo;.
+there were two compelling reasons i couldn&amp;rsquo;t afford to miss this film: first, my unwavering admiration for the superstar Shah Rukh Khan, and second, my curiosity about the unique mummified look that had been teased.
+apart from this, there was the film&amp;rsquo;s antagonist played by our very own Makkal Selvan, whose outstanding portrayal of &amp;ldquo;Michael Vedanayagam&amp;rdquo; in the web series Farzi had left a lasting impression on me.</description>
+    </item>
     
+    <item>
+      <title>setting up proxies in selenium</title>
+      <link>https://unchaineddev.github.io/blog/proxy-auth/</link>
+      <pubDate>Mon, 11 Sep 2023 20:32:32 +0530</pubDate>
+      
+      <guid>https://unchaineddev.github.io/blog/proxy-auth/</guid>
+      <description>this is a sample configuration of using proxies with IP authentication, using selenium and python.
+sample code CHROMEDRIVER_PATH = /path/to/chromedriver PROXY = &amp;#34;23.23.23.23:3128&amp;#34; # IP:PORT URL = &amp;#39;https://example.com&amp;#39; from seleniumwire import webdriver from selenium.webdriver.chrome.options import Options from selenium.webdriver.chrome.service import Service options = Options() options.add_argument(&amp;#39;--proxy-server=%s&amp;#39; % PROXY) s = Service(CHROMEDRIVER_PATH) driver = webdriver.Chrome(service=s, options=options) driver.get(URL) what if the connection is insecure? install this certificate
+or get the certificate using: python -m seleniumwire extractcert after the certificate is installed,</description>
+    </item>
     
+    <item>
+      <title>solving captchas</title>
+      <link>https://unchaineddev.github.io/blog/solving-captchas/</link>
+      <pubDate>Sun, 10 Sep 2023 09:42:30 +0530</pubDate>
+      
+      <guid>https://unchaineddev.github.io/blog/solving-captchas/</guid>
+      <description>solving captcha programatically is a pain in the ass. me and this other dude at work took about two weeks to solve version 2 of google recaptcha which we learned later, was an enterprise versioned captcha. i did not understand what that meant, until i read between the lines of the docs.
+this blog is a simple sidenote on how to solve recaptcha (v2) with 2captcha API. you can read the docs1, which btw, is amazing.</description>
+    </item>
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+    <item>
+      <title>first blog</title>
+      <link>https://unchaineddev.github.io/blog/firstblog/</link>
+      <pubDate>Mon, 04 Sep 2023 21:46:50 +0530</pubDate>
+      
+      <guid>https://unchaineddev.github.io/blog/firstblog/</guid>
+      <description>in the vast expanse of the internet, i have constructed a small place of my own &amp;ndash; a webpage, with a philosophy of its own.
+so if you don&amp;rsquo;t know me, let me tell you, i like simple stuff. and strangely enough i chose not to make this site super responsive with a shit-load of javascript. oh yes, if you have not guessed it already, i used a static site generator for this page.</description>
+    </item>
     
   </channel>
 </rss>
