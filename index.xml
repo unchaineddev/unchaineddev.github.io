@@ -8,6 +8,17 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 14 Nov 2022 18:25:39 +0530</lastBuildDate><atom:link href="https://unchaineddev.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Activate Virtual Environments in Powershell</title>
+      <link>https://unchaineddev.github.io/venv/</link>
+      <pubDate>Mon, 02 Oct 2023 21:27:10 +0530</pubDate>
+      
+      <guid>https://unchaineddev.github.io/venv/</guid>
+      <description>I love the simplicity of Linux and Bash. Probably why I prefer it over the unneccesary complexities of powershell. Nonetheless I am using it to familiarize myself with the commands.
+I was using Git Bash that ships with git for Windows, until I discovered the power of Windows Terminal1, an exceptional terminal emulator that enhanced my &amp;ldquo;Windows experience.&amp;rdquo;
+I like the seamless integration between different shells and its customizability, in contrast to the uninspiring blue powershell.</description>
+    </item>
+    
+    <item>
       <title>The Story Of My Experiments With Truth</title>
       <link>https://unchaineddev.github.io/blog/gandhi/</link>
       <pubDate>Sun, 01 Oct 2023 00:19:03 +0530</pubDate>
@@ -88,7 +99,7 @@ so if you don&amp;rsquo;t know me, let me tell you, i like simple stuff. and str
       
       <guid>https://unchaineddev.github.io/braindump/</guid>
       <description>all my braindumps are listed here.
-11-09-2023 &amp;mdash; setting up proxies (IP authentication) with selenium and python </description>
+02-10-2023 &amp;mdash; Activate Virtual Environments in Powershell 11-09-2023 &amp;mdash; setting up proxies (IP authentication) with Selenium and Python </description>
     </item>
     
     <item>
@@ -107,7 +118,9 @@ so if you don&amp;rsquo;t know me, let me tell you, i like simple stuff. and str
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://unchaineddev.github.io/gallery/</guid>
-      <description>On the way to Barbie!</description>
+      <description>On the way to one of the best films of 2023: Barbie. On the way to Barbie!
+Matching Shoes
+Another great film of this year was Oppenheimer, but I don&amp;rsquo;t like my picture as much as this.</description>
     </item>
     
     <item>
