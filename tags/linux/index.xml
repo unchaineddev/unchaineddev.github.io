@@ -6,7 +6,17 @@
     <description>Recent content in linux on Yusuf&#39;s Webpage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Sep 2023 08:36:10 +0530</lastBuildDate><atom:link href="https://unchaineddev.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Nov 2023 19:46:04 +0530</lastBuildDate><atom:link href="https://unchaineddev.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Archiving Files Using Tar</title>
+      <link>https://unchaineddev.github.io/blog/archiving-files-using-tar/</link>
+      <pubDate>Thu, 09 Nov 2023 19:46:04 +0530</pubDate>
+      
+      <guid>https://unchaineddev.github.io/blog/archiving-files-using-tar/</guid>
+      <description>I like archiving files and directories, mostly due to local storage constraints. Creating backups of files and saving them in tarballs or 7zips has become second nature to me. However I have realized I have been doing it wrong all along. I&amp;rsquo;ve predominantly relied on GUI methods, only to discover that the command line method is so straightforward that even a caveman could do it.
+This is a short note for me, and for you in case you would want to compress or extract archived files using the command line.</description>
+    </item>
+    
     <item>
       <title>mpv scripts</title>
       <link>https://unchaineddev.github.io/blog/mpv-scripts/</link>

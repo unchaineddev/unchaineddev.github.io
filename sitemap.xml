@@ -2,16 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://unchaineddev.github.io/blog/archiving-files-using-tar/</loc>
+    <lastmod>2023-11-09T19:46:04+05:30</lastmod>
+  </url><url>
+    <loc>https://unchaineddev.github.io/blog/</loc>
+    <lastmod>2023-11-09T19:46:04+05:30</lastmod>
+  </url><url>
+    <loc>https://unchaineddev.github.io/tags/linux/</loc>
+    <lastmod>2023-11-09T19:46:04+05:30</lastmod>
+  </url><url>
+    <loc>https://unchaineddev.github.io/tags/</loc>
+    <lastmod>2023-11-09T19:46:04+05:30</lastmod>
+  </url><url>
     <loc>https://unchaineddev.github.io/blog/70-hours-per-week/</loc>
     <lastmod>2023-11-01T06:02:19+05:30</lastmod>
   </url><url>
-    <loc>https://unchaineddev.github.io/blog/</loc>
-    <lastmod>2023-11-01T06:02:19+05:30</lastmod>
-  </url><url>
     <loc>https://unchaineddev.github.io/tags/lifestyle/</loc>
-    <lastmod>2023-11-01T06:02:19+05:30</lastmod>
-  </url><url>
-    <loc>https://unchaineddev.github.io/tags/</loc>
     <lastmod>2023-11-01T06:02:19+05:30</lastmod>
   </url><url>
     <loc>https://unchaineddev.github.io/blog/support-for-palestine/</loc>
@@ -37,9 +43,6 @@
   </url><url>
     <loc>https://unchaineddev.github.io/tags/web/</loc>
     <lastmod>2023-09-26T08:16:04+05:30</lastmod>
-  </url><url>
-    <loc>https://unchaineddev.github.io/tags/linux/</loc>
-    <lastmod>2023-09-18T08:36:10+05:30</lastmod>
   </url><url>
     <loc>https://unchaineddev.github.io/blog/mpv-scripts/</loc>
     <lastmod>2023-09-18T08:36:10+05:30</lastmod>
