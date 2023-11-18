@@ -6,7 +6,18 @@
     <description>Recent content in Blogs on Yusuf&#39;s Webpage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Nov 2023 19:46:04 +0530</lastBuildDate><atom:link href="https://unchaineddev.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Nov 2023 20:00:52 +0530</lastBuildDate><atom:link href="https://unchaineddev.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Json Dump(s) vs Load(s)</title>
+      <link>https://unchaineddev.github.io/blog/json-dumps-vs-loads/</link>
+      <pubDate>Fri, 17 Nov 2023 20:00:52 +0530</pubDate>
+      
+      <guid>https://unchaineddev.github.io/blog/json-dumps-vs-loads/</guid>
+      <description>Do you often google the difference between json.dump(s) and json.loads(s) while working with json data in Python?
+Well then, this will be your quick guide to distinguish these functions.
+Quite literally, json.load() and json.loads() loads json into your program, while json.dump() and json.dumps() dump data in JSON. Why the extra &amp;ldquo;s&amp;rdquo; though ? That&amp;rsquo;s because json.dumps() and json.loads() deal with JSON data in the form of a string. Remember: s for string</description>
+    </item>
+    
     <item>
       <title>Archiving Files Using Tar</title>
       <link>https://unchaineddev.github.io/blog/archiving-files-using-tar/</link>
