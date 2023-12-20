@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="alternate" type="application/rss+xml" href="https://unchaineddev.github.io/feed.xml" title="Yusuf&#39;s Webpage">
+    <meta name="description" content="hello, friend.">
+    
+    <link rel="shortcut icon" href="https://unchaineddev.github.io/favicon.ico">
+    
+    <link rel="stylesheet" href="/css/style.min.css">
+
+    
+    <link rel="icon" href="/image/favicon.ico" type="/image" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/image/apple-touch-icon.png">
+    <link rel="icon" type="image" sizes="32x32" href="/image/favicon-32x32.png">
+    <link rel="icon" type="image" sizes="16x16" href="/image/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest.json">
+
+    <title>Django Project Structure</title>
+
+</head>
+<body><header id="banner">
+    
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HYRGKSP2LR"></script>
+<script>
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-HYRGKSP2LR', { 'anonymize_ip': false });
+}
+</script>
+
+    <link rel="alternate"
+      type="application/rss+xml"
+      href="https://unchaineddev.github.io/index.xml"
+      title="Yusuf&#39;s Webpage">
+
+	<h2><a href="https://unchaineddev.github.io">Yusuf&#39;s Webpage</a></h2>
+	<br>
+    <nav>
+        <ul>
+            <li>
+                <a href="/software/" title="">uses</a>
+            </li><li>
+                <a href="/gallery/" title="">gallery</a>
+            </li><li>
+                <a href="/blog/" title="">blog</a>
+            </li><li>
+                <a href="/contact/" title="">contact</a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main id="content">
+<article>
+    <header id="post-header">
+        <h1>Django Project Structure</h1>
+        <div>
+                <time>December 16, 2023</time>
+            </div>
+    </header><p>I love the Python Programming Language, and its most popular Web Framework - Django. In fact I love it so much that it is reflected in my pseudonym. I am no expert django dev, however I understand the design. this blog post unravels the intricacies of Django&rsquo;s structural design.</p>
+<h1 id="design">Design</h1>
+<p>Django follows a Model-View-Template (MVT) architectural design pattern.</p>
+<ul>
+<li>
+<p><strong>Model</strong>: Defines the data structure of the application. Models are used to interact with the database.</p>
+</li>
+<li>
+<p><strong>View</strong>: Handles user requests, processes data from the model, and renders templates.</p>
+</li>
+<li>
+<p><strong>Template</strong>: Handles how data is displayed. Typically written in HTML with Django template language.</p>
+</li>
+</ul>
+<h1 id="project--app">Project &amp; App</h1>
+<ul>
+<li><strong>Project</strong>: A Django project is the entire web application.</li>
+<li><strong>App</strong>: A module within a project that performs a specific function.</li>
+</ul>
+<h1 id="typical-project-structure">Typical Project Structure</h1>
+<pre tabindex="0"><code>myproject/
+├── manage.py
+├── myproject/
+│   ├── __init__.py
+│   ├── settings.py
+│   ├── urls.py
+│   └── wsgi.py
+├── myapp/
+│   ├── migrations/
+│   ├── __init__.py
+│   ├── admin.py
+│   ├── apps.py
+│   ├── models.py
+│   ├── tests.py
+│   └── views.py
+└── static/
+└── templates/
+</code></pre><p>&ndash; <strong>manage.py</strong>: A command-line utility for interacting with the project, such as running development servers, creating database tables, creating superusers, making migrations, etc.</p>
+<p>&ndash; <strong>myproject/</strong>: Named after the core project. contains global urls, settings.</p>
+<p>&ndash; <b>__init__.py</b> - empty file that indicates that this directory should be treated as a Python Package.</p>
+<p>&ndash; <strong>settings.py</strong>: global configuration settings for the project, including database connections, static files, middleware, and more.</p>
+<p>&ndash; <strong>urls.py</strong>:  Defines the URL patterns for the project.</p>
+<p>&ndash; <strong>wsgi.py</strong>: configuration for the WSGI server, which is responsible for serving the web application.</p>
+<p>&ndash; <strong>asgi.py</strong>: similar to WSGI, but it performs some additional functions</p>
+<h1 id="app-structure">App Structure</h1>
+<p>─ <strong>migrations/</strong>: propagating changes you make to your models</p>
+<p>─ <strong>admin.py</strong>: file used to display the admin panel, connect models to the panel and make changes to admin interface.</p>
+<p>─ <strong>apps.py</strong>: configures the Django app.</p>
+<p>─ <strong>models.py</strong>: To create models so that we can query data.</p>
+<p>─ <strong>tests.py</strong>: contains code for application testing.</p>
+<p>─ <strong>views.py</strong>: Python functions that takes http requests and returns http response.</p>
+<h1 id="static">Static</h1>
+<p>&ndash; stores images, CSS, or JS files.</p>
+<h1 id="templates">Templates</h1>
+<p>&ndash; a HTML document or a Python string mark-up using the Django template language.</p>
+</article>
+
+        </main><style>svg{fill:#1c71d8}</style><path d="M0 64C0 46.3 14.3 32 32 32c229.8 0 416 186.2 416 416c0 17.7-14.3 32-32 32s-32-14.3-32-32C384 253.6 226.4 96 32 96C14.3 96 0 81.7 0 64zM0 416a64 64 0 1 1 128 0A64 64 0 1 1 0 416zM32 160c159.1 0 288 128.9 288 288c0 17.7-14.3 32-32 32s-32-14.3-32-32c0-123.7-100.3-224-224-224c-17.7 0-32-14.3-32-32s14.3-32 32-32z"/></svg>
+
+
+
+
+<footer id="footer">
+    <span class="copyright">
+        Copyright © 2023 yusuf
+    </span>
+    <a href="/index.xml" target="_blank" rel="noopener noreferrer" class="rss-icon">
+        <svg xmlns="https://www.w3.org/2000/svg" height="1.25em" viewBox="0 0 448 512"><style>svg{fill:#d9017a}</style><path d="M0 64C0 46.3 14.3 32 32 32c229.8 0 416 186.2 416 416c0 17.7-14.3 32-32 32s-32-14.3-32-32C384 253.6 226.4 96 32 96C14.3 96 0 81.7 0 64zM0 416a64 64 0 1 1 128 0A64 64 0 1 1 0 416zM32 160c159.1 0 288 128.9 288 288c0 17.7-14.3 32-32 32s-32-14.3-32-32c0-123.7-100.3-224-224-224c-17.7 0-32-14.3-32-32s14.3-32 32-32z"/></svg>
+    </a>
+</footer>
+
+<style>
+    .copyright {
+        margin-right: 10px;  
+    }
+</style>
+</body>
+</html>

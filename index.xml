@@ -8,6 +8,17 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 14 Nov 2022 18:25:39 +0530</lastBuildDate><atom:link href="https://unchaineddev.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Django Project Structure</title>
+      <link>https://unchaineddev.github.io/blog/django-structure/</link>
+      <pubDate>Sat, 16 Dec 2023 20:00:39 +0530</pubDate>
+      
+      <guid>https://unchaineddev.github.io/blog/django-structure/</guid>
+      <description>I love the Python Programming Language, and its most popular Web Framework - Django. In fact I love it so much that it is reflected in my pseudonym. I am no expert django dev, however I understand the design. this blog post unravels the intricacies of Django&amp;rsquo;s structural design.
+Design Django follows a Model-View-Template (MVT) architectural design pattern.
+Model: Defines the data structure of the application. Models are used to interact with the database.</description>
+    </item>
+    
+    <item>
       <title>Json Dump(s) vs Load(s)</title>
       <link>https://unchaineddev.github.io/blog/json-dumps-vs-loads/</link>
       <pubDate>Fri, 17 Nov 2023 20:00:52 +0530</pubDate>
@@ -161,6 +172,16 @@ so if you don&amp;rsquo;t know me, let me tell you, i like simple stuff. and str
       <guid>https://unchaineddev.github.io/gallery/</guid>
       <description>On the way to one of the best films of 2023. Barbie. &amp;#34;Life&amp;#39;s always a fairytale with you!✨&amp;#34;
 Another great film of this year was Oppenheimer, but I don&amp;rsquo;t like my picture as much as this.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://unchaineddev.github.io/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unchaineddev.github.io/resources/</guid>
+      <description>Books The Yellow Wallpaper (epub) Web &amp;amp; Programming Python Packages
+bs4 - library for pulling data out of HTML and XML files. pretty table - A simple Python library for easily displaying tabular data in a visually appealing ASCII table format. tkinter - Python interface to Tcl/Tk. requests - a simple, yet elegant, HTTP library. smtplib - an SMTP client session object that can be used to send mail to any internet machine with an SMTP or ESMTP listener daemon.</description>
     </item>
     
     <item>

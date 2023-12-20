@@ -3,15 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://unchaineddev.github.io/blog/</loc>
-    <lastmod>2023-11-17T20:00:52+05:30</lastmod>
+    <lastmod>2023-12-16T20:00:39+05:30</lastmod>
   </url><url>
-    <loc>https://unchaineddev.github.io/blog/json-dumps-vs-loads/</loc>
-    <lastmod>2023-11-17T20:00:52+05:30</lastmod>
+    <loc>https://unchaineddev.github.io/tags/django/</loc>
+    <lastmod>2023-12-16T20:00:39+05:30</lastmod>
+  </url><url>
+    <loc>https://unchaineddev.github.io/blog/django-structure/</loc>
+    <lastmod>2023-12-16T20:00:39+05:30</lastmod>
   </url><url>
     <loc>https://unchaineddev.github.io/tags/python/</loc>
-    <lastmod>2023-11-17T20:00:52+05:30</lastmod>
+    <lastmod>2023-12-16T20:00:39+05:30</lastmod>
   </url><url>
     <loc>https://unchaineddev.github.io/tags/</loc>
+    <lastmod>2023-12-16T20:00:39+05:30</lastmod>
+  </url><url>
+    <loc>https://unchaineddev.github.io/blog/json-dumps-vs-loads/</loc>
     <lastmod>2023-11-17T20:00:52+05:30</lastmod>
   </url><url>
     <loc>https://unchaineddev.github.io/blog/archiving-files-using-tar/</loc>
@@ -79,6 +85,8 @@
     <loc>https://unchaineddev.github.io/contact/</loc>
   </url><url>
     <loc>https://unchaineddev.github.io/gallery/</loc>
+  </url><url>
+    <loc>https://unchaineddev.github.io/resources/</loc>
   </url><url>
     <loc>https://unchaineddev.github.io/categories/</loc>
   </url><url>
