@@ -2,8 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://unchaineddev.github.io/blog/best-films-2023/</loc>
+    <lastmod>2023-12-21T20:05:33+05:30</lastmod>
+  </url><url>
     <loc>https://unchaineddev.github.io/blog/</loc>
-    <lastmod>2023-12-16T20:00:39+05:30</lastmod>
+    <lastmod>2023-12-21T20:05:33+05:30</lastmod>
+  </url><url>
+    <loc>https://unchaineddev.github.io/tags/film/</loc>
+    <lastmod>2023-12-21T20:05:33+05:30</lastmod>
+  </url><url>
+    <loc>https://unchaineddev.github.io/tags/</loc>
+    <lastmod>2023-12-21T20:05:33+05:30</lastmod>
   </url><url>
     <loc>https://unchaineddev.github.io/tags/django/</loc>
     <lastmod>2023-12-16T20:00:39+05:30</lastmod>
@@ -12,9 +21,6 @@
     <lastmod>2023-12-16T20:00:39+05:30</lastmod>
   </url><url>
     <loc>https://unchaineddev.github.io/tags/python/</loc>
-    <lastmod>2023-12-16T20:00:39+05:30</lastmod>
-  </url><url>
-    <loc>https://unchaineddev.github.io/tags/</loc>
     <lastmod>2023-12-16T20:00:39+05:30</lastmod>
   </url><url>
     <loc>https://unchaineddev.github.io/blog/json-dumps-vs-loads/</loc>
@@ -58,9 +64,6 @@
   </url><url>
     <loc>https://unchaineddev.github.io/blog/mpv-scripts/</loc>
     <lastmod>2023-09-18T08:36:10+05:30</lastmod>
-  </url><url>
-    <loc>https://unchaineddev.github.io/tags/film/</loc>
-    <lastmod>2023-09-14T19:27:10+05:30</lastmod>
   </url><url>
     <loc>https://unchaineddev.github.io/blog/jawan/</loc>
     <lastmod>2023-09-14T19:27:10+05:30</lastmod>
