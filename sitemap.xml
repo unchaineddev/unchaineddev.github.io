@@ -2,16 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://unchaineddev.github.io/blog/</loc>
+    <lastmod>2024-01-04T18:46:14+05:30</lastmod>
+  </url><url>
+    <loc>https://unchaineddev.github.io/blog/goals-for-2024/</loc>
+    <lastmod>2024-01-04T18:46:14+05:30</lastmod>
+  </url><url>
+    <loc>https://unchaineddev.github.io/tags/lifestyle/</loc>
+    <lastmod>2024-01-04T18:46:14+05:30</lastmod>
+  </url><url>
+    <loc>https://unchaineddev.github.io/tags/</loc>
+    <lastmod>2024-01-04T18:46:14+05:30</lastmod>
+  </url><url>
     <loc>https://unchaineddev.github.io/blog/best-films-2023/</loc>
     <lastmod>2023-12-21T20:05:33+05:30</lastmod>
   </url><url>
-    <loc>https://unchaineddev.github.io/blog/</loc>
-    <lastmod>2023-12-21T20:05:33+05:30</lastmod>
-  </url><url>
     <loc>https://unchaineddev.github.io/tags/film/</loc>
-    <lastmod>2023-12-21T20:05:33+05:30</lastmod>
-  </url><url>
-    <loc>https://unchaineddev.github.io/tags/</loc>
     <lastmod>2023-12-21T20:05:33+05:30</lastmod>
   </url><url>
     <loc>https://unchaineddev.github.io/tags/django/</loc>
@@ -33,9 +39,6 @@
     <lastmod>2023-11-09T19:46:04+05:30</lastmod>
   </url><url>
     <loc>https://unchaineddev.github.io/blog/70-hours-per-week/</loc>
-    <lastmod>2023-11-01T06:02:19+05:30</lastmod>
-  </url><url>
-    <loc>https://unchaineddev.github.io/tags/lifestyle/</loc>
     <lastmod>2023-11-01T06:02:19+05:30</lastmod>
   </url><url>
     <loc>https://unchaineddev.github.io/blog/support-for-palestine/</loc>
