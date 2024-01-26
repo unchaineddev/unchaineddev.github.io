@@ -1,0 +1,56 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unchained Dev – life</title>
+    <link>https://unchaineddev.github.io/tags/life/</link>
+    <description>Recent content in life on Unchained Dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 04 Sep 2023 21:46:50 +0530</lastBuildDate>
+    
+	  <atom:link href="https://unchaineddev.github.io/tags/life/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>first blog</title>
+      <link>https://unchaineddev.github.io/blog/firstblog/</link>
+      <pubDate>Mon, 04 Sep 2023 21:46:50 +0530</pubDate>
+      
+      <guid>https://unchaineddev.github.io/blog/firstblog/</guid>
+      <description>
+        
+        
+        &lt;p&gt;in the vast expanse of the internet, i have constructed a small place of my own &amp;ndash; a webpage, with a philosophy of its own.&lt;/p&gt;
+&lt;p&gt;so if you don&amp;rsquo;t know me, let me tell you, i like simple stuff. and strangely enough i chose not to make this site super responsive with a shit-load of javascript. oh yes, if you have not guessed it already, i used a static site generator for this page. to be precise, &lt;em&gt;hugo&lt;/em&gt;. with a minimal theme under the hood and an elegant design, i am sure you might be really impressed by the responsiveness and the speed of my page.&lt;/p&gt;
+&lt;p&gt;but you might be wondering why a webpage? i am going to tell you even if you are not wondering though.&lt;/p&gt;
+&lt;p&gt;in all honesty, i wanted to have a place of my own on the internet: to have the freedom to put whatever i want in one place,
+rather than scattering it all around social media accounts.
+i can share this one link with anyone and BOOM! access to everything i post. sounds kind of like linktree, which sounds like a great idea if you are lazy to make a simple html page. hehe.&lt;/p&gt;
+&lt;p&gt;i also don&amp;rsquo;t like the idea of getting into social media again, so this would be my ideal place, where random people can find my site and admire the simplicity of it, and of course know me.&lt;/p&gt;
+&lt;p&gt;so if you want to subscribe to my rss or would like to keep visiting my webpage, here are a few things i will &lt;strong&gt;write about&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;cinema&lt;/li&gt;
+&lt;li&gt;technology&lt;/li&gt;
+&lt;li&gt;literature&lt;/li&gt;
+&lt;li&gt;anything about life&lt;/li&gt;
+&lt;li&gt;new stuff i learned&lt;/li&gt;
+&lt;li&gt;linux&lt;/li&gt;
+&lt;li&gt;philosophy&lt;/li&gt;
+&lt;li&gt;sports (cricket, maybe)&lt;/li&gt;
+&lt;li&gt;an endless list of links.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;i have been wanting to do this for about a year now and here we are!
+&lt;br&gt;
+i like my hecking site and i hope you do too.&lt;/p&gt;
+&lt;p&gt;if you find any issues with
+my site, you can submit it &lt;a href=&#34;https://github.com/unchaineddev/unchaineddev.github.io/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; or contact &lt;a href=&#34;https://unchaineddev.github.io/contact&#34; &gt;me&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
