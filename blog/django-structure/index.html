@@ -11,32 +11,32 @@
 <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180" />
 <link fetchpriority="low" href="/site.webmanifest" rel="manifest" />
 
-  <title>custom domain for github pages – Unchained Dev</title>
-  <meta name="description" content="There are far more problems in the world than setting up a custom domain. it’s ridiculous how a simple thing is made so complicated that any new user would break their head trying to make it work.
-in this blog, i will share how to set up a custom domain using github pages.
-i already had github pages1 set up, and i bought a domain from hostinger. if you haven’t purchased a domain, you can get it here, and if you are lazy to create a static page on your own, you can use one of these templates." />
+  <title>Django Project Structure – Unchained Dev</title>
+  <meta name="description" content="I love the Python Programming Language, and its most popular Web Framework - Django. In fact I love it so much that it is reflected in my pseudonym. I am no expert django dev, however I understand the design. this blog post unravels the intricacies of Django’s structural design.
+Design Django follows a Model-View-Template (MVT) architectural design pattern.
+Model: Defines the data structure of the application. Models are used to interact with the database." />
 
   
 
-<meta property="og:title" content="custom domain for github pages" />
-<meta property="og:description" content="There are far more problems in the world than setting up a custom domain. it&rsquo;s ridiculous how a simple thing is made so complicated that any new user would break their head trying to make it work.
-in this blog, i will share how to set up a custom domain using github pages.
-i already had github pages1 set up, and i bought a domain from hostinger. if you haven&rsquo;t purchased a domain, you can get it here, and if you are lazy to create a static page on your own, you can use one of these templates." />
+<meta property="og:title" content="Django Project Structure" />
+<meta property="og:description" content="I love the Python Programming Language, and its most popular Web Framework - Django. In fact I love it so much that it is reflected in my pseudonym. I am no expert django dev, however I understand the design. this blog post unravels the intricacies of Django&rsquo;s structural design.
+Design Django follows a Model-View-Template (MVT) architectural design pattern.
+Model: Defines the data structure of the application. Models are used to interact with the database." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://unchaineddev.github.io/blog/custom-domain/" /><meta property="article:section" content="blog" />
-<meta property="article:published_time" content="2023-09-26T08:16:04+05:30" />
-<meta property="article:modified_time" content="2023-09-26T08:16:04+05:30" />
+<meta property="og:url" content="https://unchaineddev.github.io/blog/django-structure/" /><meta property="article:section" content="blog" />
+<meta property="article:published_time" content="2023-12-16T20:00:39+05:30" />
+<meta property="article:modified_time" content="2023-12-16T20:00:39+05:30" />
 
-  <meta itemprop="name" content="custom domain for github pages">
-<meta itemprop="description" content="There are far more problems in the world than setting up a custom domain. it&rsquo;s ridiculous how a simple thing is made so complicated that any new user would break their head trying to make it work.
-in this blog, i will share how to set up a custom domain using github pages.
-i already had github pages1 set up, and i bought a domain from hostinger. if you haven&rsquo;t purchased a domain, you can get it here, and if you are lazy to create a static page on your own, you can use one of these templates."><meta itemprop="datePublished" content="2023-09-26T08:16:04+05:30" />
-<meta itemprop="dateModified" content="2023-09-26T08:16:04+05:30" />
-<meta itemprop="wordCount" content="342">
-<meta itemprop="keywords" content="web," /><meta name="twitter:card" content="summary"/><meta name="twitter:title" content="custom domain for github pages"/>
-<meta name="twitter:description" content="There are far more problems in the world than setting up a custom domain. it&rsquo;s ridiculous how a simple thing is made so complicated that any new user would break their head trying to make it work.
-in this blog, i will share how to set up a custom domain using github pages.
-i already had github pages1 set up, and i bought a domain from hostinger. if you haven&rsquo;t purchased a domain, you can get it here, and if you are lazy to create a static page on your own, you can use one of these templates."/>
+  <meta itemprop="name" content="Django Project Structure">
+<meta itemprop="description" content="I love the Python Programming Language, and its most popular Web Framework - Django. In fact I love it so much that it is reflected in my pseudonym. I am no expert django dev, however I understand the design. this blog post unravels the intricacies of Django&rsquo;s structural design.
+Design Django follows a Model-View-Template (MVT) architectural design pattern.
+Model: Defines the data structure of the application. Models are used to interact with the database."><meta itemprop="datePublished" content="2023-12-16T20:00:39+05:30" />
+<meta itemprop="dateModified" content="2023-12-16T20:00:39+05:30" />
+<meta itemprop="wordCount" content="337">
+<meta itemprop="keywords" content="python,django," /><meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Django Project Structure"/>
+<meta name="twitter:description" content="I love the Python Programming Language, and its most popular Web Framework - Django. In fact I love it so much that it is reflected in my pseudonym. I am no expert django dev, however I understand the design. this blog post unravels the intricacies of Django&rsquo;s structural design.
+Design Django follows a Model-View-Template (MVT) architectural design pattern.
+Model: Defines the data structure of the application. Models are used to interact with the database."/>
 
     <link rel="preload" href="/css/compiled/main.min.6dd9576ad2b5270b5170e2311568433b48f94cc707c8d924b3fee078ceca669b.css" as="style" integrity="sha256-bdlXatK1JwtRcOIxFWhDO0j5TMcHyNkks/7geM7KZps=" />
     <link href="/css/compiled/main.min.6dd9576ad2b5270b5170e2311568433b48f94cc707c8d924b3fee078ceca669b.css" rel="stylesheet" integrity="sha256-bdlXatK1JwtRcOIxFWhDO0j5TMcHyNkks/7geM7KZps=" />
@@ -209,13 +209,40 @@ i already had github pages1 set up, and i bought a domain from hostinger. if you
   >Best Films - 2023
     </a>
               
-            </li><li class="flex flex-col "><a
+            </li><li class="flex flex-col open"><a
     class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
-      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+      sidebar-active-item bg-primary-100 font-semibold text-primary-800 contrast-more:border contrast-more:border-primary-500 dark:bg-primary-400/10 dark:text-primary-600 contrast-more:dark:border-primary-500"
     href="/blog/django-structure/"
     
   >Django Project Structure
     </a>
+  
+    <ul class='flex flex-col gap-1 relative before:absolute before:inset-y-1 before:w-px before:bg-gray-200 before:content-[""] dark:before:bg-neutral-800 ltr:pl-3 ltr:before:left-0 rtl:pr-3 rtl:before:right-0 ltr:ml-3 rtl:mr-3'><li>
+              <a
+                href="#design"
+                class="flex rounded px-2 py-1.5 text-sm transition-colors [word-break:break-word] cursor-pointer [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] contrast-more:border gap-2 before:opacity-25 before:content-['#'] text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:text-gray-900 contrast-more:dark:text-gray-50 contrast-more:border-transparent contrast-more:hover:border-gray-900 contrast-more:dark:hover:border-gray-50"
+              >Design</a>
+            </li>
+          <li>
+              <a
+                href="#project--app"
+                class="flex rounded px-2 py-1.5 text-sm transition-colors [word-break:break-word] cursor-pointer [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] contrast-more:border gap-2 before:opacity-25 before:content-['#'] text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:text-gray-900 contrast-more:dark:text-gray-50 contrast-more:border-transparent contrast-more:hover:border-gray-900 contrast-more:dark:hover:border-gray-50"
+              >Project &amp;amp; App</a>
+            </li>
+          <li>
+              <a
+                href="#typical-project-structure"
+                class="flex rounded px-2 py-1.5 text-sm transition-colors [word-break:break-word] cursor-pointer [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] contrast-more:border gap-2 before:opacity-25 before:content-['#'] text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:text-gray-900 contrast-more:dark:text-gray-50 contrast-more:border-transparent contrast-more:hover:border-gray-900 contrast-more:dark:hover:border-gray-50"
+              >Typical Project Structure</a>
+            </li>
+          <li>
+              <a
+                href="#app-structure"
+                class="flex rounded px-2 py-1.5 text-sm transition-colors [word-break:break-word] cursor-pointer [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] contrast-more:border gap-2 before:opacity-25 before:content-['#'] text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:text-gray-900 contrast-more:dark:text-gray-50 contrast-more:border-transparent contrast-more:hover:border-gray-900 contrast-more:dark:hover:border-gray-50"
+              >App Structure</a>
+            </li>
+          </ul>
+  
               
             </li><li class="flex flex-col "><a
     class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
@@ -249,46 +276,13 @@ i already had github pages1 set up, and i bought a domain from hostinger. if you
   >The Story Of My Experiments With Truth
     </a>
               
-            </li><li class="flex flex-col open"><a
+            </li><li class="flex flex-col "><a
     class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
-      sidebar-active-item bg-primary-100 font-semibold text-primary-800 contrast-more:border contrast-more:border-primary-500 dark:bg-primary-400/10 dark:text-primary-600 contrast-more:dark:border-primary-500"
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
     href="/blog/custom-domain/"
     
   >custom domain for github pages
     </a>
-  
-    <ul class='flex flex-col gap-1 relative before:absolute before:inset-y-1 before:w-px before:bg-gray-200 before:content-[""] dark:before:bg-neutral-800 ltr:pl-3 ltr:before:left-0 rtl:pr-3 rtl:before:right-0 ltr:ml-3 rtl:mr-3'><li>
-              <a
-                href="#step-1"
-                class="flex rounded px-2 py-1.5 text-sm transition-colors [word-break:break-word] cursor-pointer [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] contrast-more:border gap-2 before:opacity-25 before:content-['#'] text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:text-gray-900 contrast-more:dark:text-gray-50 contrast-more:border-transparent contrast-more:hover:border-gray-900 contrast-more:dark:hover:border-gray-50"
-              >Step 1</a>
-            </li>
-          <li>
-              <a
-                href="#step-2"
-                class="flex rounded px-2 py-1.5 text-sm transition-colors [word-break:break-word] cursor-pointer [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] contrast-more:border gap-2 before:opacity-25 before:content-['#'] text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:text-gray-900 contrast-more:dark:text-gray-50 contrast-more:border-transparent contrast-more:hover:border-gray-900 contrast-more:dark:hover:border-gray-50"
-              >Step 2</a>
-            </li>
-          <li>
-              <a
-                href="#step-3"
-                class="flex rounded px-2 py-1.5 text-sm transition-colors [word-break:break-word] cursor-pointer [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] contrast-more:border gap-2 before:opacity-25 before:content-['#'] text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:text-gray-900 contrast-more:dark:text-gray-50 contrast-more:border-transparent contrast-more:hover:border-gray-900 contrast-more:dark:hover:border-gray-50"
-              >Step 3</a>
-            </li>
-          <li>
-              <a
-                href="#step-4"
-                class="flex rounded px-2 py-1.5 text-sm transition-colors [word-break:break-word] cursor-pointer [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] contrast-more:border gap-2 before:opacity-25 before:content-['#'] text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:text-gray-900 contrast-more:dark:text-gray-50 contrast-more:border-transparent contrast-more:hover:border-gray-900 contrast-more:dark:hover:border-gray-50"
-              >Step 4</a>
-            </li>
-          <li>
-              <a
-                href="#step-5"
-                class="flex rounded px-2 py-1.5 text-sm transition-colors [word-break:break-word] cursor-pointer [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] contrast-more:border gap-2 before:opacity-25 before:content-['#'] text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:text-gray-900 contrast-more:dark:text-gray-50 contrast-more:border-transparent contrast-more:hover:border-gray-900 contrast-more:dark:hover:border-gray-50"
-              >Step 5</a>
-            </li>
-          </ul>
-  
               
             </li><li class="flex flex-col "><a
     class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
@@ -399,25 +393,21 @@ i already had github pages1 set up, and i bought a domain from hostinger. if you
 <nav class="hextra-toc order-last hidden w-64 shrink-0 xl:block print:hidden px-4" aria-label="table of contents">
     <div class="hextra-scrollbar sticky top-16 overflow-y-auto pr-4 pt-6 text-sm [hyphens:auto] max-h-[calc(100vh-var(--navbar-height)-env(safe-area-inset-bottom))] ltr:-mr-4 rtl:-ml-4"><p class="mb-4 font-semibold tracking-tight">On this page</p><ul>
       <li class="my-2 scroll-my-6 scroll-py-6">
-        <a class="font-semibold inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#step-1">Step 1
+        <a class="font-semibold inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#design">Design
         </a>
       </li>
       <li class="my-2 scroll-my-6 scroll-py-6">
-        <a class="font-semibold inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#step-2">Step 2
+        <a class="font-semibold inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#project--app">Project &amp; App
         </a>
       </li>
       <li class="my-2 scroll-my-6 scroll-py-6">
-        <a class="font-semibold inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#step-3">Step 3
+        <a class="font-semibold inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#typical-project-structure">Typical Project Structure
         </a>
       </li>
       <li class="my-2 scroll-my-6 scroll-py-6">
-        <a class="font-semibold inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#step-4">Step 4
+        <a class="font-semibold inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#app-structure">App Structure
         </a>
-      </li>
-      <li class="my-2 scroll-my-6 scroll-py-6">
-        <a class="font-semibold inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#step-5">Step 5
-        </a>
-      </li></ul>
+      </li></ul><ul></ul><ul></ul>
       <div class="mt-8 border-t bg-white pt-8 shadow-[0_-12px_16px_white] dark:bg-dark dark:shadow-[0_-12px_16px_#111] sticky bottom-0 flex flex-col items-start gap-2 pb-8 dark:border-neutral-800 contrast-more:border-t contrast-more:border-neutral-400 contrast-more:shadow-none contrast-more:dark:border-neutral-400">
         <button aria-hidden="true" id="backToTop" onClick="scrollUp();" class="transition-all transition duration-75 opacity-0 text-xs font-medium text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-100 contrast-more:text-gray-800 contrast-more:dark:text-gray-50">
           <span>Scroll to top</span>
@@ -435,100 +425,229 @@ i already had github pages1 set up, and i bought a domain from hostinger. if you
         <div class="mt-1.5 flex items-center gap-1 overflow-hidden text-sm text-gray-500 dark:text-gray-400 contrast-more:text-current">
       <div class="whitespace-nowrap transition-colors min-w-[24px] overflow-hidden text-ellipsis hover:text-gray-900 dark:hover:text-gray-100">
         <a href="https://unchaineddev.github.io/blog/">Blog</a>
-      </div><svg class="w-3.5 shrink-0" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/></svg><div class="whitespace-nowrap transition-colors font-medium text-gray-700 contrast-more:font-bold contrast-more:text-current dark:text-gray-100 contrast-more:dark:text-current">custom domain for github pages</div>
+      </div><svg class="w-3.5 shrink-0" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/></svg><div class="whitespace-nowrap transition-colors font-medium text-gray-700 contrast-more:font-bold contrast-more:text-current dark:text-gray-100 contrast-more:dark:text-current">Django Project Structure</div>
 </div>
 
-        <h1 class="mt-2 text-4xl font-bold tracking-tight text-slate-900 dark:text-slate-100">custom domain for github pages</h1>
-        <div class="mt-4 mb-16 text-gray-500 text-sm flex items-center flex-wrap gap-y-2"><span class="mr-1">September 26, 2023</span></div>
+        <h1 class="mt-2 text-4xl font-bold tracking-tight text-slate-900 dark:text-slate-100">Django Project Structure</h1>
+        <div class="mt-4 mb-16 text-gray-500 text-sm flex items-center flex-wrap gap-y-2"><span class="mr-1">December 16, 2023</span></div>
         <div class="content">
-          <p>There are far more problems in the world than setting up a custom domain. it&rsquo;s ridiculous how a simple thing is made so complicated that any new user would break their head trying to make it work.</p>
-<p>in this blog, i will share how to set up a custom domain using github pages.</p>
-<center>
-<figure><img src="/blog/custom-domain.jpg" width="500px"/>
-</figure>
-
-</center>
-<p>i already had github pages<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> set up, and i bought a domain from hostinger. if you haven&rsquo;t purchased a domain, you can get it <a href="https://hostinger.in/?REFERRALCODE=1YUSUFTECHI58" target="_blank" rel="noopener">here</a>,  and if you are lazy to create a static page on your own, you can use one of these <a href="https://html5up.net/" target="_blank" rel="noopener">templates</a>.</p>
-<h2>Step 1<span class="absolute -mt-20" id="step-1"></span>
-    <a href="#step-1" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><p>Deploying your page to github.</p>
-<ul>
-<li>if you need help, you can refer the <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site" target="_blank" rel="noopener">docs</a>.
-it&rsquo;s pretty straight-forward.</li>
-</ul>
-<h2>Step 2<span class="absolute -mt-20" id="step-2"></span>
-    <a href="#step-2" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><p>Sign in to your domain.</p>
-<ul>
-<li>Go to your domain&rsquo;s home page. for hostinger domains go to: <em><a href="https://hpanel.hostinger.com/" target="_blank" rel="noopener">hpanel</a></em></li>
-<li>Under domains, choose the domain you want to set the custom domain to by clicking on &ldquo;<strong>Manage</strong>&rdquo;</li>
-<li>On the left panel, click on &ldquo;<strong>DNS/Nameservers</strong>&rdquo; to configure the CNAME and A records.</li>
-</ul>
-<h2>Step 3<span class="absolute -mt-20" id="step-3"></span>
-    <a href="#step-3" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><p>Now this is the tricky part where most of the misconfiguration happens.</p>
-<ul>
-<li>If you find any existing &ldquo;CNAME&rdquo; records or &ldquo;A records&rdquo;, <strong>delete</strong> them</li>
-</ul>
-<h2>Step 4<span class="absolute -mt-20" id="step-4"></span>
-    <a href="#step-4" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><p>Adding <em>CNAME and A records</em></p>
+          <p>I love the Python Programming Language, and its most popular Web Framework - Django. In fact I love it so much that it is reflected in my pseudonym. I am no expert django dev, however I understand the design. this blog post unravels the intricacies of Django&rsquo;s structural design.</p>
+<h2>Design<span class="absolute -mt-20" id="design"></span>
+    <a href="#design" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><p>Django follows a Model-View-Template (MVT) architectural design pattern.</p>
 <ul>
 <li>
-<p><ins><strong>CNAME</strong></ins> &ndash; There must be 2 CNAME records, and both records must point to &lsquo;your-github-username.github.io&rsquo;</p>
-<ul>
-<li>First CNAME record must have &lsquo;www&rsquo;</li>
-<li>Second CNAME record must be left blank</li>
-</ul>
+<p><strong>Model</strong>: Defines the data structure of the application. Models are used to interact with the database.</p>
+</li>
+<li>
+<p><strong>View</strong>: Handles user requests, processes data from the model, and renders templates.</p>
+</li>
+<li>
+<p><strong>Template</strong>: Handles how data is displayed. Typically written in HTML with Django template language.</p>
 </li>
 </ul>
-<p>After saving both CNAME records, the result should look like this.</p>
-<center>
-<figure><img src="/blog/add-records.png" width="500px"/>
-</figure>
- 
-</center>
-<ul>
-<li><ins><strong>A Records</strong></ins> &ndash; There are 4 github IPs we need to add to our A records,
-and they are as follows:</li>
+<h2>Project &amp; App<span class="absolute -mt-20" id="project--app"></span>
+    <a href="#project--app" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><ul>
+<li><strong>Project</strong>: A Django project is the entire web application.</li>
+<li><strong>App</strong>: A module within a project that performs a specific function.</li>
 </ul>
-<center>
-185.199.108.153<br>
-185.199.109.153<br>
-185.199.110.153<br>
-185.199.111.153
-</center>
-<p>After saving all the A records, the result should look like this.</p>
-<center>
-<figure><img src="/blog/a-records.png" width="500px"/>
-</figure>
- 
-</center>
-<h2>Step 5<span class="absolute -mt-20" id="step-5"></span>
-    <a href="#step-5" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><p>Add the custom domain to your github.io page.</p>
-<ul>
-<li>Head to your GitHub repository and click on the <strong>Settings</strong> tab.</li>
-<li>Then, click on the <strong>Pages</strong> tab and enter your custom domain in the <strong>Custom Domain</strong> field &ndash;&gt; Hit <strong>Save</strong></li>
-<li>Wait for 15 mins for the TLS cert to be generated.</li>
-</ul>
-<p>And just like that, you have set up your custom domain to GitHub Pages!</p>
-<div class="footnotes" role="doc-endnotes">
-<hr>
-<ol>
-<li id="fn:1">
-<p><a href="https://pages.github.com/" target="_blank" rel="noopener">https://pages.github.com/</a>&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+<h2>Typical Project Structure<span class="absolute -mt-20" id="typical-project-structure"></span>
+    <a href="#typical-project-structure" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><div class="hextra-filetree mt-6 select-none text-sm text-gray-800 dark:text-gray-300 not-prose">
+  <div class="inline-block rounded-lg border px-4 py-2 dark:border-neutral-800">
+  
+
+<li class="group flex list-none flex-col">
+  <button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+    <span data-state="open" class="data-[state=open]:hidden"><svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/></svg></span>
+    <span data-state="open" class="data-[state=closed]:hidden"><svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/></svg></span>
+    <span class="ml-1">myproject</span>
+  </button>
+  <ul data-state="open" class="pl-5 data-[state=closed]:hidden"> 
+  <li class="flex list-none">
+    <span class="inline-flex cursor-default items-center py-1"><svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg><span class="ml-1">manage.py</span>
+    </span>
+  </li>
+
+  
+
+<li class="group flex list-none flex-col">
+  <button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+    <span data-state="open" class="data-[state=open]:hidden"><svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/></svg></span>
+    <span data-state="open" class="data-[state=closed]:hidden"><svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/></svg></span>
+    <span class="ml-1">myproject</span>
+  </button>
+  <ul data-state="open" class="pl-5 data-[state=closed]:hidden"> 
+      <li class="flex list-none">
+        <span class="inline-flex cursor-default items-center py-1"><svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg><span class="ml-1">_<em>init</em>_.py</span>
+        </span>
+      </li>
+
+      <li class="flex list-none">
+        <span class="inline-flex cursor-default items-center py-1"><svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg><span class="ml-1">settings.py</span>
+        </span>
+      </li>
+
+      <li class="flex list-none">
+        <span class="inline-flex cursor-default items-center py-1"><svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg><span class="ml-1">urls.py</span>
+        </span>
+      </li>
+
+      <li class="flex list-none">
+        <span class="inline-flex cursor-default items-center py-1"><svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg><span class="ml-1">wsgi.py</span>
+        </span>
+      </li>
+
+  </ul>
 </li>
-</ol>
+
+
+  
+  
+
+<li class="group flex list-none flex-col">
+  <button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+    <span data-state="open" class="data-[state=open]:hidden"><svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/></svg></span>
+    <span data-state="open" class="data-[state=closed]:hidden"><svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/></svg></span>
+    <span class="ml-1">static</span>
+  </button>
+  <ul data-state="open" class="pl-5 data-[state=closed]:hidden"> 
+   </ul>
+</li>
+
+  
+
+<li class="group flex list-none flex-col">
+  <button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+    <span data-state="open" class="data-[state=open]:hidden"><svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/></svg></span>
+    <span data-state="open" class="data-[state=closed]:hidden"><svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/></svg></span>
+    <span class="ml-1">templates</span>
+  </button>
+  <ul data-state="open" class="pl-5 data-[state=closed]:hidden"> 
+   </ul>
+</li>
+
+  </ul>
+</li>
+
 </div>
+</div>
+
+<p>&ndash; <strong>manage.py</strong>: A command-line utility for interacting with the project, such as running development servers, creating database tables, creating superusers, making migrations, etc.</p>
+<p>&ndash; <strong>myproject/</strong>: Named after the core project. contains global urls, settings.</p>
+<p>&ndash; <b>__init__.py</b> - empty file that indicates that this directory should be treated as a Python Package.</p>
+<p>&ndash; <strong>settings.py</strong>: global configuration settings for the project, including database connections, static files, middleware, and more.</p>
+<p>&ndash; <strong>urls.py</strong>:  Defines the URL patterns for the project.</p>
+<p>&ndash; <strong>wsgi.py</strong>: configuration for the WSGI server, which is responsible for serving the web application.</p>
+<p>&ndash; <strong>asgi.py</strong>: similar to WSGI, but it performs some additional functions</p>
+<h2>App Structure<span class="absolute -mt-20" id="app-structure"></span>
+    <a href="#app-structure" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><div class="hextra-filetree mt-6 select-none text-sm text-gray-800 dark:text-gray-300 not-prose">
+  <div class="inline-block rounded-lg border px-4 py-2 dark:border-neutral-800">
+  
+
+<li class="group flex list-none flex-col">
+  <button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+    <span data-state="open" class="data-[state=open]:hidden"><svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/></svg></span>
+    <span data-state="open" class="data-[state=closed]:hidden"><svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/></svg></span>
+    <span class="ml-1">myproject</span>
+  </button>
+  <ul data-state="open" class="pl-5 data-[state=closed]:hidden"> 
+    <li class="flex list-none">
+      <span class="inline-flex cursor-default items-center py-1"><svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg><span class="ml-1">manage.py</span>
+      </span>
+    </li>
+
+    
+
+<li class="group flex list-none flex-col">
+  <button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+    <span data-state="open" class="data-[state=open]:hidden"><svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/></svg></span>
+    <span data-state="open" class="data-[state=closed]:hidden"><svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/></svg></span>
+    <span class="ml-1">my app</span>
+  </button>
+  <ul data-state="open" class="pl-5 data-[state=closed]:hidden">  
+      
+
+<li class="group flex list-none flex-col">
+  <button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+    <span data-state="open" class="data-[state=open]:hidden"><svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/></svg></span>
+    <span data-state="open" class="data-[state=closed]:hidden"><svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/></svg></span>
+    <span class="ml-1">migrations</span>
+  </button>
+  <ul data-state="open" class="pl-5 data-[state=closed]:hidden">
+      </ul>
+</li>
+
+      <li class="flex list-none">
+        <span class="inline-flex cursor-default items-center py-1"><svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg><span class="ml-1"><strong>init</strong>.py</span>
+        </span>
+      </li>
+
+      <li class="flex list-none">
+        <span class="inline-flex cursor-default items-center py-1"><svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg><span class="ml-1">admin.py</span>
+        </span>
+      </li>
+
+      <li class="flex list-none">
+        <span class="inline-flex cursor-default items-center py-1"><svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg><span class="ml-1">apps.py</span>
+        </span>
+      </li>
+
+      <li class="flex list-none">
+        <span class="inline-flex cursor-default items-center py-1"><svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg><span class="ml-1">models.py</span>
+        </span>
+      </li>
+
+      <li class="flex list-none">
+        <span class="inline-flex cursor-default items-center py-1"><svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg><span class="ml-1">tests.py</span>
+        </span>
+      </li>
+
+      <li class="flex list-none">
+        <span class="inline-flex cursor-default items-center py-1"><svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg><span class="ml-1">views.py</span>
+        </span>
+      </li>
+
+    </ul>
+</li>
+
+    
+
+<li class="group flex list-none flex-col">
+  <button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+    <span data-state="open" class="data-[state=open]:hidden"><svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/></svg></span>
+    <span data-state="open" class="data-[state=closed]:hidden"><svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/></svg></span>
+    <span class="ml-1">myproject</span>
+  </button>
+  <ul data-state="open" class="pl-5 data-[state=closed]:hidden">
+     </ul>
+</li>
+
+  </ul>
+</li>
+
+</div>
+</div>
+
+<p>─ <strong>migrations/</strong>: propagating changes you make to your models</p>
+<p>─ <strong>admin.py</strong>: file used to display the admin panel, connect models to the panel and make changes to admin interface.</p>
+<p>─ <strong>apps.py</strong>: configures the Django app.</p>
+<p>─ <strong>models.py</strong>: To create models so that we can query data.</p>
+<p>─ <strong>tests.py</strong>: contains code for application testing.</p>
+<p>─ <strong>views.py</strong>: Python functions that takes http requests and returns http response.</p>
+<h1>Static</h1><p>&ndash; stores images, CSS, or JS files.</p>
+<h1>Templates</h1><p>&ndash; a HTML document or a Python string mark-up using the Django template language.</p>
 
         </div>
         <div class="mt-16"></div>
         
         <div class="mb-8 flex items-center border-t pt-8 dark:border-neutral-800 contrast-more:border-neutral-400 dark:contrast-more:border-neutral-400 print:hidden"><a
-        href="/blog/mpv-scripts/"
-        title="mpv scripts"
+        href="/blog/archiving-files-using-tar/"
+        title="Archiving Files Using Tar"
         class="flex max-w-[50%] items-center gap-1 py-4 text-base font-medium text-gray-600 transition-colors [word-break:break-word] hover:text-primary-600 dark:text-gray-300 md:text-lg ltr:pr-4 rtl:pl-4"
-      ><svg class="inline h-5 shrink-0 ltr:rotate-180" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/></svg>mpv scripts</a><a
-        href="/blog/gandhi/"
-        title="The Story Of My Experiments With Truth"
+      ><svg class="inline h-5 shrink-0 ltr:rotate-180" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/></svg>Archiving Files Using Tar</a><a
+        href="/blog/best-films-2023/"
+        title="Best Films - 2023"
         class="flex max-w-[50%] items-center gap-1 py-4 text-base font-medium text-gray-600 transition-colors [word-break:break-word] hover:text-primary-600 dark:text-gray-300 md:text-lg ltr:ml-auto ltr:pl-4 ltr:text-right rtl:mr-auto rtl:pr-4 rtl:text-left"
-      >The Story Of My Experiments With Truth<svg class="inline h-5 shrink-0" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/></svg></a></div>
+      >Best Films - 2023<svg class="inline h-5 shrink-0" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/></svg></a></div>
         
       </main>
     </article>
