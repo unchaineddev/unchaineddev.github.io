@@ -2,19 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://unchaineddev.github.io/braindump/</loc>
+    <lastmod>2024-02-11T18:31:46+05:30</lastmod>
+  </url><url>
+    <loc>https://unchaineddev.github.io/braindump/cpu-usage-terminal/</loc>
+    <lastmod>2024-02-11T18:31:46+05:30</lastmod>
+  </url><url>
+    <loc>https://unchaineddev.github.io/tags/linux/</loc>
+    <lastmod>2024-02-11T18:31:46+05:30</lastmod>
+  </url><url>
+    <loc>https://unchaineddev.github.io/tags/</loc>
+    <lastmod>2024-02-11T18:31:46+05:30</lastmod>
+  </url><url>
+    <loc>https://unchaineddev.github.io/</loc>
+    <lastmod>2024-02-11T18:31:46+05:30</lastmod>
+  </url><url>
     <loc>https://unchaineddev.github.io/blog/apple-vision-pro/</loc>
     <lastmod>2024-02-05T19:20:51+05:30</lastmod>
   </url><url>
     <loc>https://unchaineddev.github.io/blog/</loc>
     <lastmod>2024-02-05T19:20:51+05:30</lastmod>
   </url><url>
-    <loc>https://unchaineddev.github.io/tags/</loc>
-    <lastmod>2024-02-05T19:20:51+05:30</lastmod>
-  </url><url>
     <loc>https://unchaineddev.github.io/tags/technology/</loc>
-    <lastmod>2024-02-05T19:20:51+05:30</lastmod>
-  </url><url>
-    <loc>https://unchaineddev.github.io/</loc>
     <lastmod>2024-02-05T19:20:51+05:30</lastmod>
   </url><url>
     <loc>https://unchaineddev.github.io/contact/</loc>
@@ -28,9 +37,6 @@
   </url><url>
     <loc>https://unchaineddev.github.io/tags/film/</loc>
     <lastmod>2024-01-14T07:13:55+05:30</lastmod>
-  </url><url>
-    <loc>https://unchaineddev.github.io/braindump/</loc>
-    <lastmod>2024-01-09T19:27:18+05:30</lastmod>
   </url><url>
     <loc>https://unchaineddev.github.io/tags/literature/</loc>
     <lastmod>2024-01-09T19:27:18+05:30</lastmod>
@@ -54,9 +60,6 @@
     <lastmod>2023-11-17T20:00:52+05:30</lastmod>
   </url><url>
     <loc>https://unchaineddev.github.io/blog/archiving-files-using-tar/</loc>
-    <lastmod>2023-11-09T19:46:04+05:30</lastmod>
-  </url><url>
-    <loc>https://unchaineddev.github.io/tags/linux/</loc>
     <lastmod>2023-11-09T19:46:04+05:30</lastmod>
   </url><url>
     <loc>https://unchaineddev.github.io/blog/70-hours-per-week/</loc>
