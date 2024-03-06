@@ -5,7 +5,7 @@
     <description>Recent content in Blog on Unchained Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 01 Mar 2024 06:33:38 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 03 Mar 2024 07:42:46 +0530</lastBuildDate>
     
 	  <atom:link href="https://unchaineddev.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,6 +14,47 @@
         
       
     
+    
+    <item>
+      <title>Indus App Store</title>
+      <link>https://unchaineddev.github.io/blog/indus-app-store/</link>
+      <pubDate>Sun, 03 Mar 2024 07:42:46 +0530</pubDate>
+      
+      <guid>https://unchaineddev.github.io/blog/indus-app-store/</guid>
+      <description>
+        
+        
+        &lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/indus.jpg&#34;
+         alt=&#34;indus app store&#34; width=&#34;600px&#34;/&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Phonepe launched &lt;a href=&#34;https://www.indusappstore.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Indus App Store&lt;/a&gt; as an alternative to the Google Play Store.
+I wouldn&amp;rsquo;t call it a revolutionary product per se, as phone manufacturers already bundle their own app stores on their phones.&lt;/p&gt;
+&lt;p&gt;It is good news for developers though, as there is 0% commission on in-app subscriptions and low fees in comparison to the Google Play Store.
+As a consumer, to use Indus App Store since it is a &lt;em&gt;&amp;ldquo;Make in India&amp;rdquo;&lt;/em&gt; product does not cut it for me.
+I avoid Samsung Galaxy Store, and God Forbid if I use Xiaomi GetApps out of despair; Similarly Indus lacks a compelling reason for anyone
+to go through the installing process.&lt;/p&gt;
+&lt;p&gt;In a competing market it is a better alternative albeit with a caveat. Indus App Store can be better than GetApps, Galaxy Store,
+or even Google Play Store if the company conducts thorough and rigorous security checks before allowing apps into their app store.
+Executing this task is easier said than done.&lt;/p&gt;
+&lt;p&gt;Assuming they do capture a significant market share from Google, it would be difficult
+for them to screen millions of apps. After all, a tech giant like Google itself suffers from this same problem&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;
+Furthermore, being a for-profit, their focus shifts more towards generating revenue than security of the platform anyways.&lt;/p&gt;
+&lt;p&gt;Another primary challenge for Indus is convince users to install their app. If it fails, I am assuming they would bundle it as a pre-installed app,
+which I would consider bloatware.&lt;/p&gt;
+&lt;p&gt;Indus may be the alternative you are looking for if you want to steer clear from Google, however if I had to install something on my own, I would
+install &lt;a href=&#34;https://f-droid.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;F-droid&lt;/a&gt; as it is free and open-source, that is developed and maintained by a transparent community.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.wired.com/story/google-play-store-malware/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.wired.com/story/google-play-store-malware/&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+
+      </description>
+    </item>
     
     <item>
       <title>Sphinx Setup Guide</title>
