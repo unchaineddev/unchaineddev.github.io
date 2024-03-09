@@ -5,7 +5,7 @@
     <description>Recent content in privacy on Unchained Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Feb 2024 21:05:35 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 06 Mar 2024 11:05:44 +0530</lastBuildDate>
     
 	  <atom:link href="https://unchaineddev.github.io/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,6 +14,29 @@
         
       
     
+    
+    <item>
+      <title>Signal Gets Usernames!</title>
+      <link>https://unchaineddev.github.io/braindump/signal-gets-usernames/</link>
+      <pubDate>Wed, 06 Mar 2024 11:05:44 +0530</pubDate>
+      
+      <guid>https://unchaineddev.github.io/braindump/signal-gets-usernames/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Signal is a great messaging app for private digital communications. Features like end-to-end encryption,
+privacy and security is time-tested.&lt;/p&gt;
+&lt;p&gt;With the introduction to usernames, exposure to phone numbers is minimal. It is a great feature
+to have when you do not want to share your number with someone for a chat. The phone number is used
+for sign up, however it will no longer be visible to everyone on Signal.&lt;/p&gt;
+&lt;p&gt;This is wonderful news for privacy and security enthusiasts, journalists, whistleblowers, and a big win
+for digital freedom.&lt;/p&gt;
+&lt;center&gt;&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/braindump/signal&#34; width=&#34;400px&#34;/&gt;
+&lt;/figure&gt;
+&lt;/center&gt;
+
+      </description>
+    </item>
     
     <item>
       <title>Stop Using Whatsapp</title>
