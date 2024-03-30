@@ -2,26 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://unchaineddev.github.io/braindump/</loc>
-    <lastmod>2024-03-06T11:05:44+05:30</lastmod>
+    <loc>https://unchaineddev.github.io/blog/</loc>
+    <lastmod>2024-03-28T12:47:09+05:30</lastmod>
+  </url><url>
+    <loc>https://unchaineddev.github.io/blog/fb-intercepts-web-traffic/</loc>
+    <lastmod>2024-03-28T12:47:09+05:30</lastmod>
   </url><url>
     <loc>https://unchaineddev.github.io/tags/privacy/</loc>
+    <lastmod>2024-03-28T12:47:09+05:30</lastmod>
+  </url><url>
+    <loc>https://unchaineddev.github.io/tags/</loc>
+    <lastmod>2024-03-28T12:47:09+05:30</lastmod>
+  </url><url>
+    <loc>https://unchaineddev.github.io/tags/technology/</loc>
+    <lastmod>2024-03-28T12:47:09+05:30</lastmod>
+  </url><url>
+    <loc>https://unchaineddev.github.io/tags/web/</loc>
+    <lastmod>2024-03-28T12:47:09+05:30</lastmod>
+  </url><url>
+    <loc>https://unchaineddev.github.io/</loc>
+    <lastmod>2024-03-28T12:47:09+05:30</lastmod>
+  </url><url>
+    <loc>https://unchaineddev.github.io/blog/configparser/</loc>
+    <lastmod>2024-03-27T20:49:21+05:30</lastmod>
+  </url><url>
+    <loc>https://unchaineddev.github.io/tags/python/</loc>
+    <lastmod>2024-03-27T20:49:21+05:30</lastmod>
+  </url><url>
+    <loc>https://unchaineddev.github.io/blog/empire-of-hell/</loc>
+    <lastmod>2024-03-22T07:32:00+05:30</lastmod>
+  </url><url>
+    <loc>https://unchaineddev.github.io/tags/life/</loc>
+    <lastmod>2024-03-22T07:32:00+05:30</lastmod>
+  </url><url>
+    <loc>https://unchaineddev.github.io/tags/lifestyle/</loc>
+    <lastmod>2024-03-22T07:32:00+05:30</lastmod>
+  </url><url>
+    <loc>https://unchaineddev.github.io/tags/poetry/</loc>
+    <lastmod>2024-03-22T07:32:00+05:30</lastmod>
+  </url><url>
+    <loc>https://unchaineddev.github.io/braindump/</loc>
     <lastmod>2024-03-06T11:05:44+05:30</lastmod>
   </url><url>
     <loc>https://unchaineddev.github.io/braindump/signal-gets-usernames/</loc>
     <lastmod>2024-03-06T11:05:44+05:30</lastmod>
-  </url><url>
-    <loc>https://unchaineddev.github.io/tags/</loc>
-    <lastmod>2024-03-06T11:05:44+05:30</lastmod>
-  </url><url>
-    <loc>https://unchaineddev.github.io/tags/technology/</loc>
-    <lastmod>2024-03-06T11:05:44+05:30</lastmod>
-  </url><url>
-    <loc>https://unchaineddev.github.io/</loc>
-    <lastmod>2024-03-06T11:05:44+05:30</lastmod>
-  </url><url>
-    <loc>https://unchaineddev.github.io/blog/</loc>
-    <lastmod>2024-03-03T07:42:46+05:30</lastmod>
   </url><url>
     <loc>https://unchaineddev.github.io/blog/indus-app-store/</loc>
     <lastmod>2024-03-03T07:42:46+05:30</lastmod>
@@ -71,9 +95,6 @@
     <loc>https://unchaineddev.github.io/blog/django-structure/</loc>
     <lastmod>2023-12-16T20:00:39+05:30</lastmod>
   </url><url>
-    <loc>https://unchaineddev.github.io/tags/python/</loc>
-    <lastmod>2023-12-16T20:00:39+05:30</lastmod>
-  </url><url>
     <loc>https://unchaineddev.github.io/braindump/json-dumps-vs-loads/</loc>
     <lastmod>2023-11-17T20:00:52+05:30</lastmod>
   </url><url>
@@ -81,9 +102,6 @@
     <lastmod>2023-11-09T19:46:04+05:30</lastmod>
   </url><url>
     <loc>https://unchaineddev.github.io/blog/70-hours-per-week/</loc>
-    <lastmod>2023-11-01T06:02:19+05:30</lastmod>
-  </url><url>
-    <loc>https://unchaineddev.github.io/tags/lifestyle/</loc>
     <lastmod>2023-11-01T06:02:19+05:30</lastmod>
   </url><url>
     <loc>https://unchaineddev.github.io/blog/support-for-palestine/</loc>
@@ -104,9 +122,6 @@
     <loc>https://unchaineddev.github.io/blog/custom-domain/</loc>
     <lastmod>2023-09-26T08:16:04+05:30</lastmod>
   </url><url>
-    <loc>https://unchaineddev.github.io/tags/web/</loc>
-    <lastmod>2023-09-26T08:16:04+05:30</lastmod>
-  </url><url>
     <loc>https://unchaineddev.github.io/blog/mpv-scripts/</loc>
     <lastmod>2023-09-18T08:36:10+05:30</lastmod>
   </url><url>
@@ -123,9 +138,6 @@
     <lastmod>2023-09-10T09:42:30+05:30</lastmod>
   </url><url>
     <loc>https://unchaineddev.github.io/blog/firstblog/</loc>
-    <lastmod>2023-09-04T21:46:50+05:30</lastmod>
-  </url><url>
-    <loc>https://unchaineddev.github.io/tags/life/</loc>
     <lastmod>2023-09-04T21:46:50+05:30</lastmod>
   </url><url>
     <loc>https://unchaineddev.github.io/categories/</loc>
