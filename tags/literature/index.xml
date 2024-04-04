@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Unchained Dev – Literature</title>
-    <link>https://unchaineddev.github.io/tags/literature/</link>
+    <link>http://localhost:1313/tags/literature/</link>
     <description>Recent content in Literature on Unchained Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 09 Jan 2024 19:27:18 +0530</lastBuildDate>
     
-	  <atom:link href="https://unchaineddev.github.io/tags/literature/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/tags/literature/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,16 +17,16 @@
     
     <item>
       <title>Ram&#39;s Wise Mind</title>
-      <link>https://unchaineddev.github.io/braindump/rams-wise-mind/</link>
+      <link>http://localhost:1313/braindump/rams-wise-mind/</link>
       <pubDate>Tue, 09 Jan 2024 19:27:18 +0530</pubDate>
       
-      <guid>https://unchaineddev.github.io/braindump/rams-wise-mind/</guid>
+      <guid>http://localhost:1313/braindump/rams-wise-mind/</guid>
       <description>
         
         
         &lt;p&gt;Sarat Chandra Chattopadhyay&amp;rsquo;s short story &amp;ldquo;&lt;em&gt;Ram&amp;rsquo;s Wise Mind&lt;/em&gt;&amp;rdquo; (or Ramer Shumoti) is a poignant story of a seventeen year old boy, &lt;em&gt;Ramlaal&lt;/em&gt; and his sister-in-law &lt;em&gt;Narayani&lt;/em&gt;.&lt;/p&gt;
 &lt;center&gt;
-&lt;figure class=&#34;photoswipe&#34;&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/rams-wise-mind.jpg&#34; width=&#34;250px&#34;/&gt;
+&lt;figure class=&#34;photoswipe&#34;&gt;&lt;img src=&#34;http://localhost:1313/blog/rams-wise-mind.jpg&#34; width=&#34;250px&#34;/&gt;
 &lt;/figure&gt;
 
 &lt;/center&gt;
@@ -39,17 +39,17 @@
     
     <item>
       <title>The Story Of My Experiments With Truth</title>
-      <link>https://unchaineddev.github.io/blog/gandhi/</link>
+      <link>http://localhost:1313/blog/gandhi/</link>
       <pubDate>Sun, 01 Oct 2023 00:19:03 +0530</pubDate>
       
-      <guid>https://unchaineddev.github.io/blog/gandhi/</guid>
+      <guid>http://localhost:1313/blog/gandhi/</guid>
       <description>
         
         
         &lt;p&gt;In hindsight it might seem like we are not affected by history, however, for the most part we are. Take a currency note for instance. Did you ever reflect on the man behind the note?
 His truths, legacy, philosophy, or principles for that matter, that left an indelible mark on our history.&lt;/p&gt;
 &lt;center&gt;
-&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/rupee-note.jpg&#34; width=&#34;400px&#34;/&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/blog/rupee-note.jpg&#34; width=&#34;400px&#34;/&gt;
 &lt;/figure&gt;
  
 &lt;/center&gt;
@@ -59,7 +59,7 @@ There are 5 parts in his book, and I will go over all the key learnings from the
     &lt;a href=&#34;#part-1---early-life&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Gandhi was born in Porbandar to a devout Hindu family. His father, Karam Chand was an esteemed minister and his mother, Putlibai, a religious and an intelligent woman. It was from his mother Gandhi reveals, that shaped his spiritual beliefs in the years to come. He was married at the age of thirteen, a child marriage commonplace during the time that weighed heavily on his conscience. a bitter truth he remorsely conveys that cast a shadow on his understanding of personal freedom.&lt;/p&gt;
 &lt;p&gt;Throughout the chapters of &lt;strong&gt;Part 1&lt;/strong&gt;, Gandhi confesses his shy nature and the ingenious ways he overcame it. He was an introvert finding delight in books. While I was eagerly flipping through the pages, it was abundantly clear to me that Gandhi was exceptionally well-read. He devoured knowledge across diverse subjects. Religion, Vegetarianism, Philosophy, you name it. In the truest sense, he was honest unlike any other. It takes an honest man some grit to reveal to his readers his shortcomings. Our man does that throughout these pages. Starting with an incident in his school days, where he was (wait for it) accused of lying! He had skipped a gymnastics class to be a nurse to his sick father. He states that it was the last careless incident of his school days, however, not of his childhood days though.&lt;/p&gt;
 &lt;center&gt;
-&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/young-gandhi.jpg&#34; width=&#34;400px&#34;/&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/blog/young-gandhi.jpg&#34; width=&#34;400px&#34;/&gt;
 &lt;/figure&gt;
  
 &lt;/center&gt;
@@ -70,7 +70,7 @@ There are 5 parts in his book, and I will go over all the key learnings from the
 &lt;p&gt;&lt;em&gt;&amp;lsquo;Do not talk loudly, never address people &amp;ldquo;sir&amp;rdquo; whilst speaking to them, as we do in India; only servants and subordinates address theirs masters that way.&amp;rsquo;&lt;/em&gt;
 &lt;br&gt;&lt;/p&gt;
 &lt;center&gt;
-&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/sir.jpg&#34; width=&#34;400px&#34;/&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/blog/sir.jpg&#34; width=&#34;400px&#34;/&gt;
 &lt;/figure&gt;
  
 &lt;/center&gt;
@@ -81,7 +81,7 @@ There are 5 parts in his book, and I will go over all the key learnings from the
     &lt;a href=&#34;#part-2---experience-in-africa&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;In the annals of history, Gandhi&amp;rsquo;s encounter with racism in South Africa remains a poignant chapter. In this section of the book, he shares his experience at length about being ejected out of his first-class passenger seat, his battle against color prejudice and racism, his Christian contacts whose support helped him deeply in his quest for finding God and spiritual enlightenment.&lt;/p&gt;
 &lt;p&gt;To acquire true knowledge, Gandhi says, one must have a guru. a mentor to mold one&amp;rsquo;s progress and self-growth. A result of which yields a moral standing and strength. He pays tribute to Raychandbhai, who taught him the importance of self-discipline and truthfulness to Gopal Krishna Gokhale&amp;rsquo;s influence that shaped his political activism. Additionally, he speaks of other notable figures namely Leo Tolstoy, whose prose had influenced his view of the world profoundly.&lt;/p&gt;
 &lt;center&gt;
-&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/mentor.jpg&#34; width=&#34;400px&#34;/&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/blog/mentor.jpg&#34; width=&#34;400px&#34;/&gt;
 &lt;/figure&gt;
  
 &lt;/center&gt;
@@ -96,7 +96,7 @@ For instance, he believes, vows don&amp;rsquo;t close the door to freedom but op
 And caring for children is inconsistent (more on this later) with doing public work, which again is quite the contrary.&lt;/p&gt;
 &lt;p&gt;When faced with adversity, Gandhi doesn&amp;rsquo;t succumb. He recounts a tough moment when his son, Manilal fell ill, and the doctor prescribed eggs and chicken broth, which is contrary to Gandhi&amp;rsquo;s vegetarianism principles. This situation truly tested his conviction. Nevertheless, Gandhi perseveres and sticks to his values, and &lt;em&gt;cares&lt;/em&gt; for his son, leaving no stone unturned.&lt;/p&gt;
 &lt;center&gt;
-&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/veggies.jpg&#34; width=&#34;400px&#34;/&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/blog/veggies.jpg&#34; width=&#34;400px&#34;/&gt;
 &lt;/figure&gt;
 
 &lt;/center&gt;
@@ -121,18 +121,18 @@ Truth and non-violence are as old as the hills.
     
     <item>
       <title>My Personal Library</title>
-      <link>https://unchaineddev.github.io/library/</link>
+      <link>http://localhost:1313/library/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://unchaineddev.github.io/library/</guid>
+      <guid>http://localhost:1313/library/</guid>
       <description>
         
         
         &lt;p&gt;This page contains a list of books from my personal library. While I don&amp;rsquo;t consider myself to be a book hoarder, I do have a reasonable number to display them here.&lt;/p&gt;
-&lt;p&gt;if you have any questions or want to recommend or review any book, you can do that &lt;a href=&#34;https://unchaineddev.github.io/contact&#34; &gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;if you have any questions or want to recommend or review any book, you can do that &lt;a href=&#34;http://localhost:1313/contact&#34; &gt;here&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;the books are categorized by genre, and each genre is arranged chronologically based on the author&amp;rsquo;s name.&lt;/p&gt;
 &lt;h2&gt;Fiction&lt;span class=&#34;absolute -mt-20&#34; id=&#34;fiction&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#fiction&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;figure style=&#34;float: right; margin-left: 80px; margin-right: 200px; margin-bottom: 10px; width:160px&#34;&gt; &lt;img src=&#34;https://unchaineddev.github.io/library/crime-and-punishment.png&#34;&gt;&lt;/figure&gt;
+    &lt;a href=&#34;#fiction&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;figure style=&#34;float: right; margin-left: 80px; margin-right: 200px; margin-bottom: 10px; width:160px&#34;&gt; &lt;img src=&#34;http://localhost:1313/library/crime-and-punishment.png&#34;&gt;&lt;/figure&gt;
 &lt;ul&gt;
 &lt;li&gt;Adiga, Arvind &amp;ndash; The White Tiger&lt;/li&gt;
 &lt;li&gt;Alcott, Louisa May &amp;ndash; Little Women&lt;/li&gt;
@@ -156,7 +156,7 @@ Truth and non-violence are as old as the hills.
 &lt;li&gt;Dostoyevsky, Fyodor &amp;ndash; Crime and Punishment&lt;/li&gt;
 &lt;li&gt;Doyle, Arthur Conan &amp;ndash; The Complete Novels of Sherlock Holmes&lt;/li&gt;
 &lt;/ul&gt;
-&lt;figure style=&#34;float: right; margin-left: 80px; margin-right: 200px; margin-bottom: 10px; width:160px&#34;&gt; &lt;img src=&#34;https://unchaineddev.github.io/library/the-metamorphosis.jpg&#34;&gt;&lt;/figure&gt;
+&lt;figure style=&#34;float: right; margin-left: 80px; margin-right: 200px; margin-bottom: 10px; width:160px&#34;&gt; &lt;img src=&#34;http://localhost:1313/library/the-metamorphosis.jpg&#34;&gt;&lt;/figure&gt;
 &lt;ul&gt;
 &lt;li&gt;Doyle, Aruthur Conan &amp;ndash; The Hound of the Baskervilles&lt;/li&gt;
 &lt;li&gt;Fitzgerald, Scott F. &amp;ndash; The Great Gatsby&lt;/li&gt;
@@ -176,7 +176,7 @@ Truth and non-violence are as old as the hills.
 &lt;li&gt;Lee, Harper &amp;ndash; To Kill a Mockingbird&lt;/li&gt;
 &lt;li&gt;Manto, Saadat Hasan &amp;ndash; Selected Short Stories (Aatish Taseer)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;figure style=&#34;float: right; margin-left: 80px; margin-right: 200px; margin-bottom: 10px; width:160px&#34;&gt; &lt;img src=&#34;https://unchaineddev.github.io/library/kafka-on-the-shore.jpg&#34;&gt;&lt;/figure&gt;
+&lt;figure style=&#34;float: right; margin-left: 80px; margin-right: 200px; margin-bottom: 10px; width:160px&#34;&gt; &lt;img src=&#34;http://localhost:1313/library/kafka-on-the-shore.jpg&#34;&gt;&lt;/figure&gt;
 &lt;ul&gt;
 &lt;li&gt;Morrison, Toni &amp;ndash; Beloved&lt;/li&gt;
 &lt;li&gt;Murakami, Haruki &amp;ndash; Birthday Girl&lt;/li&gt;
@@ -204,7 +204,7 @@ Truth and non-violence are as old as the hills.
 &lt;li&gt;Wilde, Oscar &amp;ndash; The Picture of Dorian Grey&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Non-Fiction&lt;span class=&#34;absolute -mt-20&#34; id=&#34;non-fiction&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#non-fiction&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;figure style=&#34;float: right; margin-left: 80px; margin-right: 200px; margin-bottom: 10px; width:160px&#34;&gt; &lt;img src=&#34;https://unchaineddev.github.io/library/night-walks.jpg&#34;&gt;&lt;/figure&gt;
+    &lt;a href=&#34;#non-fiction&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;figure style=&#34;float: right; margin-left: 80px; margin-right: 200px; margin-bottom: 10px; width:160px&#34;&gt; &lt;img src=&#34;http://localhost:1313/library/night-walks.jpg&#34;&gt;&lt;/figure&gt;
 &lt;ul&gt;
 &lt;li&gt;Achebe, Chinua &amp;ndash; Africa&amp;rsquo;s Tarnished Name&lt;/li&gt;
 &lt;li&gt;Albom, Mitch &amp;ndash; Tuesdays with Morrie&lt;/li&gt;
@@ -231,7 +231,7 @@ Truth and non-violence are as old as the hills.
 &lt;li&gt;Seneca - Letters from a Stoic&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Plays&lt;span class=&#34;absolute -mt-20&#34; id=&#34;plays&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#plays&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;figure style=&#34;float: right; margin-left: 80px; margin-right: 200px; margin-bottom: 10px; width:150px&#34;&gt; &lt;img src=&#34;https://unchaineddev.github.io/library/william-shakespeare.jpg&#34;&gt;&lt;/figure&gt;
+    &lt;a href=&#34;#plays&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;figure style=&#34;float: right; margin-left: 80px; margin-right: 200px; margin-bottom: 10px; width:150px&#34;&gt; &lt;img src=&#34;http://localhost:1313/library/william-shakespeare.jpg&#34;&gt;&lt;/figure&gt;
 &lt;ul&gt;
 &lt;li&gt;Christie, Agatha &amp;ndash; The Mousetrap &amp;amp; Selected Plays&lt;/li&gt;
 &lt;li&gt;Miller, Arthur &amp;ndash; Death of a Salesman&lt;/li&gt;

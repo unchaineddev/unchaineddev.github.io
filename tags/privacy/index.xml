@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Unchained Dev – Privacy</title>
-    <link>https://unchaineddev.github.io/tags/privacy/</link>
+    <link>http://localhost:1313/tags/privacy/</link>
     <description>Recent content in Privacy on Unchained Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 28 Mar 2024 12:47:09 +0530</lastBuildDate>
     
-	  <atom:link href="https://unchaineddev.github.io/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>Facebook Intercepts Web Traffic</title>
-      <link>https://unchaineddev.github.io/blog/fb-intercepts-web-traffic/</link>
+      <link>http://localhost:1313/blog/fb-intercepts-web-traffic/</link>
       <pubDate>Thu, 28 Mar 2024 12:47:09 +0530</pubDate>
       
-      <guid>https://unchaineddev.github.io/blog/fb-intercepts-web-traffic/</guid>
+      <guid>http://localhost:1313/blog/fb-intercepts-web-traffic/</guid>
       <description>
         
         
@@ -58,10 +58,10 @@ targeted by malicious actors.&lt;/p&gt;
     
     <item>
       <title>Signal Gets Usernames!</title>
-      <link>https://unchaineddev.github.io/braindump/signal-gets-usernames/</link>
+      <link>http://localhost:1313/braindump/signal-gets-usernames/</link>
       <pubDate>Wed, 06 Mar 2024 11:05:44 +0530</pubDate>
       
-      <guid>https://unchaineddev.github.io/braindump/signal-gets-usernames/</guid>
+      <guid>http://localhost:1313/braindump/signal-gets-usernames/</guid>
       <description>
         
         
@@ -72,7 +72,7 @@ to have when you do not want to share your number with someone for a chat. The p
 for sign up, however it will no longer be visible to everyone on Signal.&lt;/p&gt;
 &lt;p&gt;This is wonderful news for privacy and security enthusiasts, journalists, whistleblowers, and a big win
 for digital freedom.&lt;/p&gt;
-&lt;center&gt;&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/braindump/signal&#34; width=&#34;400px&#34;/&gt;
+&lt;center&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/braindump/signal&#34; width=&#34;400px&#34;/&gt;
 &lt;/figure&gt;
 &lt;/center&gt;
 
@@ -81,10 +81,10 @@ for digital freedom.&lt;/p&gt;
     
     <item>
       <title>Stop Using Whatsapp</title>
-      <link>https://unchaineddev.github.io/blog/stop-using-whatsapp/</link>
+      <link>http://localhost:1313/blog/stop-using-whatsapp/</link>
       <pubDate>Sun, 18 Feb 2024 21:05:35 +0530</pubDate>
       
-      <guid>https://unchaineddev.github.io/blog/stop-using-whatsapp/</guid>
+      <guid>http://localhost:1313/blog/stop-using-whatsapp/</guid>
       <description>
         
         

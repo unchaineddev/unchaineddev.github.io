@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Unchained Dev – Poetry</title>
-    <link>https://unchaineddev.github.io/tags/poetry/</link>
+    <link>http://localhost:1313/tags/poetry/</link>
     <description>Recent content in Poetry on Unchained Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 22 Mar 2024 07:32:00 +0530</lastBuildDate>
     
-	  <atom:link href="https://unchaineddev.github.io/tags/poetry/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/tags/poetry/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>An Empire of Hell</title>
-      <link>https://unchaineddev.github.io/blog/empire-of-hell/</link>
+      <link>http://localhost:1313/blog/empire-of-hell/</link>
       <pubDate>Fri, 22 Mar 2024 07:32:00 +0530</pubDate>
       
-      <guid>https://unchaineddev.github.io/blog/empire-of-hell/</guid>
+      <guid>http://localhost:1313/blog/empire-of-hell/</guid>
       <description>
         
         

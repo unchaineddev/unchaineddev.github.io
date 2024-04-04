@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Unchained Dev – Philosophy</title>
-    <link>https://unchaineddev.github.io/tags/philosophy/</link>
+    <link>http://localhost:1313/tags/philosophy/</link>
     <description>Recent content in Philosophy on Unchained Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 01 Oct 2023 00:19:03 +0530</lastBuildDate>
     
-	  <atom:link href="https://unchaineddev.github.io/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,17 +17,17 @@
     
     <item>
       <title>The Story Of My Experiments With Truth</title>
-      <link>https://unchaineddev.github.io/blog/gandhi/</link>
+      <link>http://localhost:1313/blog/gandhi/</link>
       <pubDate>Sun, 01 Oct 2023 00:19:03 +0530</pubDate>
       
-      <guid>https://unchaineddev.github.io/blog/gandhi/</guid>
+      <guid>http://localhost:1313/blog/gandhi/</guid>
       <description>
         
         
         &lt;p&gt;In hindsight it might seem like we are not affected by history, however, for the most part we are. Take a currency note for instance. Did you ever reflect on the man behind the note?
 His truths, legacy, philosophy, or principles for that matter, that left an indelible mark on our history.&lt;/p&gt;
 &lt;center&gt;
-&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/rupee-note.jpg&#34; width=&#34;400px&#34;/&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/blog/rupee-note.jpg&#34; width=&#34;400px&#34;/&gt;
 &lt;/figure&gt;
  
 &lt;/center&gt;
@@ -37,7 +37,7 @@ There are 5 parts in his book, and I will go over all the key learnings from the
     &lt;a href=&#34;#part-1---early-life&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Gandhi was born in Porbandar to a devout Hindu family. His father, Karam Chand was an esteemed minister and his mother, Putlibai, a religious and an intelligent woman. It was from his mother Gandhi reveals, that shaped his spiritual beliefs in the years to come. He was married at the age of thirteen, a child marriage commonplace during the time that weighed heavily on his conscience. a bitter truth he remorsely conveys that cast a shadow on his understanding of personal freedom.&lt;/p&gt;
 &lt;p&gt;Throughout the chapters of &lt;strong&gt;Part 1&lt;/strong&gt;, Gandhi confesses his shy nature and the ingenious ways he overcame it. He was an introvert finding delight in books. While I was eagerly flipping through the pages, it was abundantly clear to me that Gandhi was exceptionally well-read. He devoured knowledge across diverse subjects. Religion, Vegetarianism, Philosophy, you name it. In the truest sense, he was honest unlike any other. It takes an honest man some grit to reveal to his readers his shortcomings. Our man does that throughout these pages. Starting with an incident in his school days, where he was (wait for it) accused of lying! He had skipped a gymnastics class to be a nurse to his sick father. He states that it was the last careless incident of his school days, however, not of his childhood days though.&lt;/p&gt;
 &lt;center&gt;
-&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/young-gandhi.jpg&#34; width=&#34;400px&#34;/&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/blog/young-gandhi.jpg&#34; width=&#34;400px&#34;/&gt;
 &lt;/figure&gt;
  
 &lt;/center&gt;
@@ -48,7 +48,7 @@ There are 5 parts in his book, and I will go over all the key learnings from the
 &lt;p&gt;&lt;em&gt;&amp;lsquo;Do not talk loudly, never address people &amp;ldquo;sir&amp;rdquo; whilst speaking to them, as we do in India; only servants and subordinates address theirs masters that way.&amp;rsquo;&lt;/em&gt;
 &lt;br&gt;&lt;/p&gt;
 &lt;center&gt;
-&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/sir.jpg&#34; width=&#34;400px&#34;/&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/blog/sir.jpg&#34; width=&#34;400px&#34;/&gt;
 &lt;/figure&gt;
  
 &lt;/center&gt;
@@ -59,7 +59,7 @@ There are 5 parts in his book, and I will go over all the key learnings from the
     &lt;a href=&#34;#part-2---experience-in-africa&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;In the annals of history, Gandhi&amp;rsquo;s encounter with racism in South Africa remains a poignant chapter. In this section of the book, he shares his experience at length about being ejected out of his first-class passenger seat, his battle against color prejudice and racism, his Christian contacts whose support helped him deeply in his quest for finding God and spiritual enlightenment.&lt;/p&gt;
 &lt;p&gt;To acquire true knowledge, Gandhi says, one must have a guru. a mentor to mold one&amp;rsquo;s progress and self-growth. A result of which yields a moral standing and strength. He pays tribute to Raychandbhai, who taught him the importance of self-discipline and truthfulness to Gopal Krishna Gokhale&amp;rsquo;s influence that shaped his political activism. Additionally, he speaks of other notable figures namely Leo Tolstoy, whose prose had influenced his view of the world profoundly.&lt;/p&gt;
 &lt;center&gt;
-&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/mentor.jpg&#34; width=&#34;400px&#34;/&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/blog/mentor.jpg&#34; width=&#34;400px&#34;/&gt;
 &lt;/figure&gt;
  
 &lt;/center&gt;
@@ -74,7 +74,7 @@ For instance, he believes, vows don&amp;rsquo;t close the door to freedom but op
 And caring for children is inconsistent (more on this later) with doing public work, which again is quite the contrary.&lt;/p&gt;
 &lt;p&gt;When faced with adversity, Gandhi doesn&amp;rsquo;t succumb. He recounts a tough moment when his son, Manilal fell ill, and the doctor prescribed eggs and chicken broth, which is contrary to Gandhi&amp;rsquo;s vegetarianism principles. This situation truly tested his conviction. Nevertheless, Gandhi perseveres and sticks to his values, and &lt;em&gt;cares&lt;/em&gt; for his son, leaving no stone unturned.&lt;/p&gt;
 &lt;center&gt;
-&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/veggies.jpg&#34; width=&#34;400px&#34;/&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/blog/veggies.jpg&#34; width=&#34;400px&#34;/&gt;
 &lt;/figure&gt;
 
 &lt;/center&gt;
