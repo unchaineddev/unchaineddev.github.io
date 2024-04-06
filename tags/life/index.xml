@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Unchained Dev – Life</title>
-    <link>http://localhost:1313/tags/life/</link>
+    <link>https://unchaineddev.github.io/tags/life/</link>
     <description>Recent content in Life on Unchained Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 22 Mar 2024 07:32:00 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 03 Apr 2024 05:21:33 +0530</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/tags/life/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://unchaineddev.github.io/tags/life/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,11 +16,51 @@
     
     
     <item>
+      <title>Bangalore Weather is Changing</title>
+      <link>https://unchaineddev.github.io/blog/bangalore-weather/</link>
+      <pubDate>Wed, 03 Apr 2024 05:21:33 +0530</pubDate>
+      
+      <guid>https://unchaineddev.github.io/blog/bangalore-weather/</guid>
+      <description>
+        
+        
+        &lt;center&gt;
+&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/bangalore.jpg&#34;/&gt;
+&lt;/figure&gt;
+
+&lt;/center&gt;
+&lt;p&gt;Bengaluru is like a dear friend who gets along really well with anyone. She&amp;rsquo;s
+known for her pleasant nature, creative mind, love for greens and hanging out
+with people of diverse backgrounds. As someone who has lived with Bengaluru,
+like many of us, who deeply value the essence of her character, I would reject
+the idea if someone told me our beloved city could a face water crisis or reach
+a scorching high temperature of 37 degrees this summer. (again)&lt;/p&gt;
+&lt;p&gt;After all, we love her as we have seen her &amp;ndash; Grow as a quaint garden city to a
+beautiful bustling metropolis. A city crowded by cars and cafes, ignoring the
+effects of climate change and urbanization. And now our dear friend is weary. While
+her heart beats with a passion for technology and innovation, she longs for a
+break from endless development.&lt;/p&gt;
+&lt;p&gt;To ensure her sustainability for years to come, let us recognize her need to
+prioritize self-care. Here are a few simple things you can do to nurture your
+friendsip with Bengaluru.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Conserve water by fixing leaks, taking shorter showers, turning off taps when not in use, and using water wisely.&lt;/li&gt;
+&lt;li&gt;Turn off lights, fans, and electronic devices when not in use to conserve energy and lower utility bills.&lt;/li&gt;
+&lt;li&gt;Advocate for increased tree planting initiatives, and protest against cutting down trees for corporate profit.&lt;/li&gt;
+&lt;li&gt;Practice proper waste management by segregating waste at the source into recyclables and non-recyclables.&lt;/li&gt;
+&lt;li&gt;Opt for public transport whenever possible to alleviate carbon emissions and traffic congestion.&lt;/li&gt;
+&lt;li&gt;Spread awareness about environmental issues and the importance of sustainability through social media and other mediums.&lt;/li&gt;
+&lt;/ol&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>An Empire of Hell</title>
-      <link>http://localhost:1313/blog/empire-of-hell/</link>
+      <link>https://unchaineddev.github.io/blog/empire-of-hell/</link>
       <pubDate>Fri, 22 Mar 2024 07:32:00 +0530</pubDate>
       
-      <guid>http://localhost:1313/blog/empire-of-hell/</guid>
+      <guid>https://unchaineddev.github.io/blog/empire-of-hell/</guid>
       <description>
         
         
@@ -42,10 +82,10 @@ and tell the world, &amp;ldquo;I created an empire of hell.&amp;rdquo;&lt;/p&gt;
     
     <item>
       <title>first blog</title>
-      <link>http://localhost:1313/blog/firstblog/</link>
+      <link>https://unchaineddev.github.io/blog/firstblog/</link>
       <pubDate>Mon, 04 Sep 2023 21:46:50 +0530</pubDate>
       
-      <guid>http://localhost:1313/blog/firstblog/</guid>
+      <guid>https://unchaineddev.github.io/blog/firstblog/</guid>
       <description>
         
         
@@ -72,7 +112,7 @@ i can share this one link with anyone and BOOM! access to everything i post. sou
 &lt;br&gt;
 i like my hecking site and i hope you do too.&lt;/p&gt;
 &lt;p&gt;if you find any issues with
-my site, you can submit it &lt;a href=&#34;https://github.com/unchaineddev/unchaineddev.github.io/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; or contact &lt;a href=&#34;http://localhost:1313/contact&#34; &gt;me&lt;/a&gt;&lt;/p&gt;
+my site, you can submit it &lt;a href=&#34;https://github.com/unchaineddev/unchaineddev.github.io/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; or contact &lt;a href=&#34;https://unchaineddev.github.io/contact&#34; &gt;me&lt;/a&gt;&lt;/p&gt;
 
       </description>
     </item>

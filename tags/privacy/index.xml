@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Unchained Dev – Privacy</title>
-    <link>http://localhost:1313/tags/privacy/</link>
+    <link>https://unchaineddev.github.io/tags/privacy/</link>
     <description>Recent content in Privacy on Unchained Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 Mar 2024 12:47:09 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 02 Apr 2024 05:20:58 +0530</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://unchaineddev.github.io/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,11 +16,41 @@
     
     
     <item>
+      <title>xz has a secret backdoor</title>
+      <link>https://unchaineddev.github.io/blog/xz-backdoor/</link>
+      <pubDate>Tue, 02 Apr 2024 05:20:58 +0530</pubDate>
+      
+      <guid>https://unchaineddev.github.io/blog/xz-backdoor/</guid>
+      <description>
+        
+        
+        &lt;p&gt;I already made a blog post on &lt;a href=&#34;https://unchaineddev.github.io/blog/archiving-files-using-tar/&#34; &gt;archiving files using
+tar&lt;/a&gt; that covered gzip, a utility tool
+to archive files with compression. In the same way, xz utils is an open-source
+lossless data compression tool primarily focused on the &lt;strong&gt;.xz&lt;/strong&gt; file format,
+suitable for archiving large amount of data.&lt;/p&gt;
+&lt;p&gt;Lately xz has been a victim to a highly sophisticated attack aimed at
+injecting a secret backdoor, that resulted in compromise of numerous
+distributions such as Debian, Kali, and openSUSE. This attack gave malicious
+actors Remote Code Execution (RCE) privileges.&lt;/p&gt;
+&lt;p&gt;Luckily though, a Microsoft engineer Andres Freund discovered this issue by pure luck and
+reported the issue when malicious code was found in a tar ball of liblzma (a library to implement compression).&lt;/p&gt;
+&lt;p&gt;The malicious actor who signed the tarball was a long-standing contributor to
+the project, who had built trust for years. While the original maintainer was
+inactive in the project, this bad actor by the name &amp;ldquo;Jia Tan&amp;rdquo; earned the
+community&amp;rsquo;s confidence through their positive contributions.&lt;/p&gt;
+&lt;p&gt;This serves as a reminder to always do your due diligence,as &lt;em&gt;with great power
+comes great responsibility.&lt;/em&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Facebook Intercepts Web Traffic</title>
-      <link>http://localhost:1313/blog/fb-intercepts-web-traffic/</link>
+      <link>https://unchaineddev.github.io/blog/fb-intercepts-web-traffic/</link>
       <pubDate>Thu, 28 Mar 2024 12:47:09 +0530</pubDate>
       
-      <guid>http://localhost:1313/blog/fb-intercepts-web-traffic/</guid>
+      <guid>https://unchaineddev.github.io/blog/fb-intercepts-web-traffic/</guid>
       <description>
         
         
@@ -58,10 +88,10 @@ targeted by malicious actors.&lt;/p&gt;
     
     <item>
       <title>Signal Gets Usernames!</title>
-      <link>http://localhost:1313/braindump/signal-gets-usernames/</link>
+      <link>https://unchaineddev.github.io/braindump/signal-gets-usernames/</link>
       <pubDate>Wed, 06 Mar 2024 11:05:44 +0530</pubDate>
       
-      <guid>http://localhost:1313/braindump/signal-gets-usernames/</guid>
+      <guid>https://unchaineddev.github.io/braindump/signal-gets-usernames/</guid>
       <description>
         
         
@@ -72,7 +102,7 @@ to have when you do not want to share your number with someone for a chat. The p
 for sign up, however it will no longer be visible to everyone on Signal.&lt;/p&gt;
 &lt;p&gt;This is wonderful news for privacy and security enthusiasts, journalists, whistleblowers, and a big win
 for digital freedom.&lt;/p&gt;
-&lt;center&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/braindump/signal&#34; width=&#34;400px&#34;/&gt;
+&lt;center&gt;&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/braindump/signal&#34; width=&#34;400px&#34;/&gt;
 &lt;/figure&gt;
 &lt;/center&gt;
 
@@ -81,10 +111,10 @@ for digital freedom.&lt;/p&gt;
     
     <item>
       <title>Stop Using Whatsapp</title>
-      <link>http://localhost:1313/blog/stop-using-whatsapp/</link>
+      <link>https://unchaineddev.github.io/blog/stop-using-whatsapp/</link>
       <pubDate>Sun, 18 Feb 2024 21:05:35 +0530</pubDate>
       
-      <guid>http://localhost:1313/blog/stop-using-whatsapp/</guid>
+      <guid>https://unchaineddev.github.io/blog/stop-using-whatsapp/</guid>
       <description>
         
         

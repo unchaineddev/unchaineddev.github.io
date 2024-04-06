@@ -11,32 +11,28 @@
 <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180" />
 <link fetchpriority="low" href="/site.webmanifest" rel="manifest" />
 
-  <title>Facebook Intercepts Web Traffic – Unchained Dev</title>
-  <meta name="description" content="In a newly disclosed court document,1 it was revealed that Facebook launched a secretive initiative called GhostBusters in the late 2010s, which could intercept and decrypt the network traffic between people using Snapchat’s app and its servers.
-This enabled them to maintain a competitive advantage over other platforms, primarily Snapchat, later followed with Youtube and Amazon.
-How did they do this? In early 2010s, Facebook acquired Onavo, an Israeli-based VPN service and mobile data analytics company known for data compression technology." />
+  <title>Integrate Umami on your Hugo Site – Unchained Dev</title>
+  <meta name="description" content="I always sought after an open-source solution for web analytics primarily to track visitor counts on my site. While I used Google Analytics for a few months due to its seamless integration with Hugo, it was without a doubt contradicting to my ethical principles.
+So starting today, this site will be using umami1 for web analytics. I opted umami because it is open-source, privacy-focused and the setup takes less than 10 minutes!" />
 
   
 
-<meta property="og:title" content="Facebook Intercepts Web Traffic" />
-<meta property="og:description" content="In a newly disclosed court document,1 it was revealed that Facebook launched a secretive initiative called GhostBusters in the late 2010s, which could intercept and decrypt the network traffic between people using Snapchat’s app and its servers.
-This enabled them to maintain a competitive advantage over other platforms, primarily Snapchat, later followed with Youtube and Amazon.
-How did they do this? In early 2010s, Facebook acquired Onavo, an Israeli-based VPN service and mobile data analytics company known for data compression technology." />
+<meta property="og:title" content="Integrate Umami on your Hugo Site" />
+<meta property="og:description" content="I always sought after an open-source solution for web analytics primarily to track visitor counts on my site. While I used Google Analytics for a few months due to its seamless integration with Hugo, it was without a doubt contradicting to my ethical principles.
+So starting today, this site will be using umami1 for web analytics. I opted umami because it is open-source, privacy-focused and the setup takes less than 10 minutes!" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://unchaineddev.github.io/blog/fb-intercepts-web-traffic/" /><meta property="article:section" content="blog" />
-<meta property="article:published_time" content="2024-03-28T12:47:09+05:30" />
-<meta property="article:modified_time" content="2024-03-28T12:47:09+05:30" />
+<meta property="og:url" content="https://unchaineddev.github.io/blog/umami/" /><meta property="article:section" content="blog" />
+<meta property="article:published_time" content="2024-04-04T06:50:07+05:30" />
+<meta property="article:modified_time" content="2024-04-04T06:50:07+05:30" />
 
-  <meta itemprop="name" content="Facebook Intercepts Web Traffic">
-<meta itemprop="description" content="In a newly disclosed court document,1 it was revealed that Facebook launched a secretive initiative called GhostBusters in the late 2010s, which could intercept and decrypt the network traffic between people using Snapchat’s app and its servers.
-This enabled them to maintain a competitive advantage over other platforms, primarily Snapchat, later followed with Youtube and Amazon.
-How did they do this? In early 2010s, Facebook acquired Onavo, an Israeli-based VPN service and mobile data analytics company known for data compression technology."><meta itemprop="datePublished" content="2024-03-28T12:47:09+05:30" />
-<meta itemprop="dateModified" content="2024-03-28T12:47:09+05:30" />
-<meta itemprop="wordCount" content="184">
-<meta itemprop="keywords" content="technology,privacy,web," /><meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Facebook Intercepts Web Traffic"/>
-<meta name="twitter:description" content="In a newly disclosed court document,1 it was revealed that Facebook launched a secretive initiative called GhostBusters in the late 2010s, which could intercept and decrypt the network traffic between people using Snapchat’s app and its servers.
-This enabled them to maintain a competitive advantage over other platforms, primarily Snapchat, later followed with Youtube and Amazon.
-How did they do this? In early 2010s, Facebook acquired Onavo, an Israeli-based VPN service and mobile data analytics company known for data compression technology."/>
+  <meta itemprop="name" content="Integrate Umami on your Hugo Site">
+<meta itemprop="description" content="I always sought after an open-source solution for web analytics primarily to track visitor counts on my site. While I used Google Analytics for a few months due to its seamless integration with Hugo, it was without a doubt contradicting to my ethical principles.
+So starting today, this site will be using umami1 for web analytics. I opted umami because it is open-source, privacy-focused and the setup takes less than 10 minutes!"><meta itemprop="datePublished" content="2024-04-04T06:50:07+05:30" />
+<meta itemprop="dateModified" content="2024-04-04T06:50:07+05:30" />
+<meta itemprop="wordCount" content="175">
+<meta itemprop="keywords" content="web,technology," /><meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Integrate Umami on your Hugo Site"/>
+<meta name="twitter:description" content="I always sought after an open-source solution for web analytics primarily to track visitor counts on my site. While I used Google Analytics for a few months due to its seamless integration with Hugo, it was without a doubt contradicting to my ethical principles.
+So starting today, this site will be using umami1 for web analytics. I opted umami because it is open-source, privacy-focused and the setup takes less than 10 minutes!"/>
 
     <link rel="preload" href="/css/compiled/main.min.6dd9576ad2b5270b5170e2311568433b48f94cc707c8d924b3fee078ceca669b.css" as="style" integrity="sha256-bdlXatK1JwtRcOIxFWhDO0j5TMcHyNkks/7geM7KZps=" />
     <link href="/css/compiled/main.min.6dd9576ad2b5270b5170e2311568433b48f94cc707c8d924b3fee078ceca669b.css" rel="stylesheet" integrity="sha256-bdlXatK1JwtRcOIxFWhDO0j5TMcHyNkks/7geM7KZps=" />
@@ -173,13 +169,28 @@ How did they do this? In early 2010s, Facebook acquired Onavo, an Israeli-based 
   >Blog
         <span class="hextra-sidebar-collapsible-button"><svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="h-[18px] min-w-[18px] rounded-sm p-0.5 hover:bg-gray-800/5 dark:hover:bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="origin-center transition-transform rtl:-rotate-180"></path></svg></span>
     </a><div class="ltr:pr-0 overflow-hidden">
-        <ul class='relative flex flex-col gap-1 before:absolute before:inset-y-1 before:w-px before:bg-gray-200 before:content-[""] ltr:ml-3 ltr:pl-3 ltr:before:left-0 rtl:mr-3 rtl:pr-3 rtl:before:right-0 dark:before:bg-neutral-800'><li class="flex flex-col "><a
+        <ul class='relative flex flex-col gap-1 before:absolute before:inset-y-1 before:w-px before:bg-gray-200 before:content-[""] ltr:ml-3 ltr:pl-3 ltr:before:left-0 rtl:mr-3 rtl:pr-3 rtl:before:right-0 dark:before:bg-neutral-800'><li class="flex flex-col open"><a
     class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
-      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
+      sidebar-active-item bg-primary-100 font-semibold text-primary-800 contrast-more:border contrast-more:border-primary-500 dark:bg-primary-400/10 dark:text-primary-600 contrast-more:dark:border-primary-500"
     href="/blog/umami/"
     
   >Integrate Umami on your Hugo Site
     </a>
+  
+    <ul class='flex flex-col gap-1 relative before:absolute before:inset-y-1 before:w-px before:bg-gray-200 before:content-[""] dark:before:bg-neutral-800 ltr:pl-3 ltr:before:left-0 rtl:pr-3 rtl:before:right-0 ltr:ml-3 rtl:mr-3'><li>
+              <a
+                href="#prerequisites"
+                class="flex rounded px-2 py-1.5 text-sm transition-colors [word-break:break-word] cursor-pointer [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] contrast-more:border gap-2 before:opacity-25 before:content-['#'] text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:text-gray-900 contrast-more:dark:text-gray-50 contrast-more:border-transparent contrast-more:hover:border-gray-900 contrast-more:dark:hover:border-gray-50"
+              >Prerequisites</a>
+            </li>
+          <li>
+              <a
+                href="#set-up"
+                class="flex rounded px-2 py-1.5 text-sm transition-colors [word-break:break-word] cursor-pointer [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] contrast-more:border gap-2 before:opacity-25 before:content-['#'] text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:text-gray-900 contrast-more:dark:text-gray-50 contrast-more:border-transparent contrast-more:hover:border-gray-900 contrast-more:dark:hover:border-gray-50"
+              >Set Up</a>
+            </li>
+          </ul>
+  
               
             </li><li class="flex flex-col "><a
     class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
@@ -205,22 +216,13 @@ How did they do this? In early 2010s, Facebook acquired Onavo, an Israeli-based 
   >xz has a secret backdoor
     </a>
               
-            </li><li class="flex flex-col open"><a
+            </li><li class="flex flex-col "><a
     class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
-      sidebar-active-item bg-primary-100 font-semibold text-primary-800 contrast-more:border contrast-more:border-primary-500 dark:bg-primary-400/10 dark:text-primary-600 contrast-more:dark:border-primary-500"
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 contrast-more:border contrast-more:border-transparent contrast-more:text-gray-900 contrast-more:hover:border-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:dark:text-gray-50 contrast-more:dark:hover:border-gray-50"
     href="/blog/fb-intercepts-web-traffic/"
     
   >Facebook Intercepts Web Traffic
     </a>
-  
-    <ul class='flex flex-col gap-1 relative before:absolute before:inset-y-1 before:w-px before:bg-gray-200 before:content-[""] dark:before:bg-neutral-800 ltr:pl-3 ltr:before:left-0 rtl:pr-3 rtl:before:right-0 ltr:ml-3 rtl:mr-3'><li>
-              <a
-                href="#"
-                class="flex rounded px-2 py-1.5 text-sm transition-colors [word-break:break-word] cursor-pointer [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] contrast-more:border gap-2 before:opacity-25 before:content-['#'] text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-neutral-400 dark:hover:bg-primary-100/5 dark:hover:text-gray-50 contrast-more:text-gray-900 contrast-more:dark:text-gray-50 contrast-more:border-transparent contrast-more:hover:border-gray-900 contrast-more:dark:hover:border-gray-50"
-              ></a>
-            </li>
-          </ul>
-  
               
             </li><li class="flex flex-col "><a
     class="flex items-center justify-between gap-2 cursor-pointer rounded px-2 py-1.5 text-sm transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
@@ -481,11 +483,19 @@ How did they do this? In early 2010s, Facebook acquired Onavo, an Israeli-based 
 <nav class="hextra-toc order-last hidden w-64 shrink-0 xl:block print:hidden px-4" aria-label="table of contents">
     <div class="hextra-scrollbar sticky top-16 overflow-y-auto pr-4 pt-6 text-sm [hyphens:auto] max-h-[calc(100vh-var(--navbar-height)-env(safe-area-inset-bottom))] ltr:-mr-4 rtl:-ml-4"><p class="mb-4 font-semibold tracking-tight">On this page</p><ul>
       <li class="my-2 scroll-my-6 scroll-py-6">
-        <a class="ltr:pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#how-did-they-do-this">How did they do this?
+        <a class="font-semibold inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#prerequisites">Prerequisites
         </a>
       </li>
       <li class="my-2 scroll-my-6 scroll-py-6">
-        <a class="ltr:pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#what-now">What now?
+        <a class="font-semibold inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#set-up">Set Up
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="ltr:pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#locate-the-base-template-file">Locate the Base Template File
+        </a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="ltr:pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 contrast-more:text-gray-900 contrast-more:underline contrast-more:dark:text-gray-50 w-full break-words" href="#find-the-head-section">Find the Head Section
         </a>
       </li></ul>
       <div class="mt-8 border-t bg-white pt-8 shadow-[0_-12px_16px_white] dark:bg-dark dark:shadow-[0_-12px_16px_#111] sticky bottom-0 flex flex-col items-start gap-2 pb-8 dark:border-neutral-800 contrast-more:border-t contrast-more:border-neutral-400 contrast-more:shadow-none contrast-more:dark:border-neutral-400">
@@ -505,37 +515,46 @@ How did they do this? In early 2010s, Facebook acquired Onavo, an Israeli-based 
         <div class="mt-1.5 flex items-center gap-1 overflow-hidden text-sm text-gray-500 dark:text-gray-400 contrast-more:text-current">
       <div class="whitespace-nowrap transition-colors min-w-[24px] overflow-hidden text-ellipsis hover:text-gray-900 dark:hover:text-gray-100">
         <a href="https://unchaineddev.github.io/blog/">Blog</a>
-      </div><svg class="w-3.5 shrink-0" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/></svg><div class="whitespace-nowrap transition-colors font-medium text-gray-700 contrast-more:font-bold contrast-more:text-current dark:text-gray-100 contrast-more:dark:text-current">Facebook Intercepts Web Traffic</div>
+      </div><svg class="w-3.5 shrink-0" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/></svg><div class="whitespace-nowrap transition-colors font-medium text-gray-700 contrast-more:font-bold contrast-more:text-current dark:text-gray-100 contrast-more:dark:text-current">Integrate Umami on your Hugo Site</div>
 </div>
 
-        <h1 class="mt-2 text-4xl font-bold tracking-tight text-slate-900 dark:text-slate-100">Facebook Intercepts Web Traffic</h1>
-        <div class="mt-4 mb-16 text-gray-500 text-sm flex items-center flex-wrap gap-y-2"><span class="mr-1">March 28, 2024</span></div>
+        <h1 class="mt-2 text-4xl font-bold tracking-tight text-slate-900 dark:text-slate-100">Integrate Umami on your Hugo Site</h1>
+        <div class="mt-4 mb-16 text-gray-500 text-sm flex items-center flex-wrap gap-y-2"><span class="mr-1">April 4, 2024</span></div>
         <div class="content">
-          <p>In a newly disclosed court document,<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> it was revealed that Facebook launched
-a secretive initiative called GhostBusters in the late 2010s, which could
-intercept and decrypt the network traffic between people using Snapchat’s app
-and its servers.</p>
-<p>This enabled them to maintain a competitive advantage over other platforms,
-primarily Snapchat, later followed with Youtube and Amazon.</p>
-<h3>How did they do this?<span class="absolute -mt-20" id="how-did-they-do-this"></span>
-    <a href="#how-did-they-do-this" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><p>In early 2010s, Facebook acquired Onavo, an Israeli-based VPN service and
-mobile data analytics company known for data compression technology. This
-innovative technology was used to mitigate high bandwidth usage due to the high
-mobile data costs at the time.</p>
-<p>After the acquision of this company, they integrated an advert on Facebook
-called &ldquo;protect&rdquo;, which redirected users to download Onavo. Once this was
-enabled, Facebook could easily track any application you use on your phone and
-gather insightful data.</p>
-<h3>What now?<span class="absolute -mt-20" id="what-now"></span>
-    <a href="#what-now" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><p>If you use any meta products, which sadly is the case nowadays, try to isolate
-your environment. By isolating your browsing activities, you can better protect
-your personal information and reduce the likelihood of being tracked or
-targeted by malicious actors.</p>
+          <p>I always sought after an open-source solution for web analytics primarily to track visitor counts on my site. While I used Google Analytics for
+a few months due to its seamless integration with Hugo, it was without a doubt contradicting to my ethical principles.</p>
+<p>So starting today, this site will be using umami<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> for web analytics. I opted umami because it is open-source, privacy-focused and the setup takes less than 10 minutes!
+Here&rsquo;s how you can integrate it in your website &ndash;</p>
+<h2>Prerequisites<span class="absolute -mt-20" id="prerequisites"></span>
+    <a href="#prerequisites" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><ol>
+<li>A working Hugo Site</li>
+<li><a href="https://umami.is/" target="_blank" rel="noopener">Umami Account</a></li>
+</ol>
+<h2>Set Up<span class="absolute -mt-20" id="set-up"></span>
+    <a href="#set-up" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><div class="steps ml-4 mb-12 border-l border-gray-200 pl-6 dark:border-neutral-800 [counter-reset:step]">
+<h3>Locate the Base Template File<span class="absolute -mt-20" id="locate-the-base-template-file"></span>
+    <a href="#locate-the-base-template-file" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><p>In Hugo, the base template file is either <code>baseof.html</code> or <code>base.html</code>.</p>
+<p>You can find this typically in <code>layouts/_default/baseof.html</code></p>
+<h3>Find the Head Section<span class="absolute -mt-20" id="find-the-head-section"></span>
+    <a href="#find-the-head-section" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><p>If you don&rsquo;t find the <code>&lt;head&gt;</code> tag in <code>base.html</code>, look for a <code>head.html</code> file in your <code>partials/</code> folder.</p>
+<p>Inside the head section, you need to add the script tag which was generated after you created your umami account.</p>
+<div class="code-block relative mt-6 first:mt-0 group/code"><pre><code>&lt;script async src=&#34;https://example.com/path/to/script.js&#34; data-website-id=&#34;a1a11aaa1-a1a1a1a-a1a1a1a1-a1a1a1a1&#34;&gt;&lt;/script&gt;</code></pre><div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+    <button
+      class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+      title="Copy code"
+    >
+      <div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4"></div>
+      <div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4"></div>
+    </button>
+  </div>
+</div>
+</div>
+<p>Save the changes and rebuild your Hugo site. Voila, umami is analyzing traffic.. unagi!</p>
 <div class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
 <li id="fn:1">
-<p><a href="https://techcrunch.com/2024/03/26/facebook-secret-project-snooped-snapchat-user-traffic/" target="_blank" rel="noopener">https://techcrunch.com/2024/03/26/facebook-secret-project-snooped-snapchat-user-traffic/</a>&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+<p><a href="https://umami.is/" target="_blank" rel="noopener">https://umami.is/</a>&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
 </div>
@@ -544,14 +563,10 @@ targeted by malicious actors.</p>
         <div class="mt-16"></div>
         
         <div class="mb-8 flex items-center border-t pt-8 dark:border-neutral-800 contrast-more:border-neutral-400 dark:contrast-more:border-neutral-400 print:hidden"><a
-        href="/blog/configparser/"
-        title="Parsing Configuration files in Python"
+        href="/blog/bangalore-weather/"
+        title="Bangalore Weather is Changing"
         class="flex max-w-[50%] items-center gap-1 py-4 text-base font-medium text-gray-600 transition-colors [word-break:break-word] hover:text-primary-600 dark:text-gray-300 md:text-lg ltr:pr-4 rtl:pl-4"
-      ><svg class="inline h-5 shrink-0 ltr:rotate-180" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/></svg>Parsing Configuration files in Python</a><a
-        href="/blog/xz-backdoor/"
-        title="xz has a secret backdoor"
-        class="flex max-w-[50%] items-center gap-1 py-4 text-base font-medium text-gray-600 transition-colors [word-break:break-word] hover:text-primary-600 dark:text-gray-300 md:text-lg ltr:ml-auto ltr:pl-4 ltr:text-right rtl:mr-auto rtl:pr-4 rtl:text-left"
-      >xz has a secret backdoor<svg class="inline h-5 shrink-0" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/></svg></a></div>
+      ><svg class="inline h-5 shrink-0 ltr:rotate-180" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/></svg>Bangalore Weather is Changing</a></div>
         
       </main>
     </article>

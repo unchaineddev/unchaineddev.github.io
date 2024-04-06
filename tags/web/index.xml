@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Unchained Dev – Web</title>
-    <link>http://localhost:1313/tags/web/</link>
+    <link>https://unchaineddev.github.io/tags/web/</link>
     <description>Recent content in Web on Unchained Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 Mar 2024 12:47:09 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2024 06:50:07 +0530</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/tags/web/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://unchaineddev.github.io/tags/web/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,11 +16,61 @@
     
     
     <item>
+      <title>Integrate Umami on your Hugo Site</title>
+      <link>https://unchaineddev.github.io/blog/umami/</link>
+      <pubDate>Thu, 04 Apr 2024 06:50:07 +0530</pubDate>
+      
+      <guid>https://unchaineddev.github.io/blog/umami/</guid>
+      <description>
+        
+        
+        &lt;p&gt;I always sought after an open-source solution for web analytics primarily to track visitor counts on my site. While I used Google Analytics for
+a few months due to its seamless integration with Hugo, it was without a doubt contradicting to my ethical principles.&lt;/p&gt;
+&lt;p&gt;So starting today, this site will be using umami&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; for web analytics. I opted umami because it is open-source, privacy-focused and the setup takes less than 10 minutes!
+Here&amp;rsquo;s how you can integrate it in your website &amp;ndash;&lt;/p&gt;
+&lt;h2&gt;Prerequisites&lt;span class=&#34;absolute -mt-20&#34; id=&#34;prerequisites&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#prerequisites&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;A working Hugo Site&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://umami.is/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Umami Account&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;Set Up&lt;span class=&#34;absolute -mt-20&#34; id=&#34;set-up&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#set-up&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div class=&#34;steps ml-4 mb-12 border-l border-gray-200 pl-6 dark:border-neutral-800 [counter-reset:step]&#34;&gt;
+&lt;h3&gt;Locate the Base Template File&lt;span class=&#34;absolute -mt-20&#34; id=&#34;locate-the-base-template-file&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#locate-the-base-template-file&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;In Hugo, the base template file is either &lt;code&gt;baseof.html&lt;/code&gt; or &lt;code&gt;base.html&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;You can find this typically in &lt;code&gt;layouts/_default/baseof.html&lt;/code&gt;&lt;/p&gt;
+&lt;h3&gt;Find the Head Section&lt;span class=&#34;absolute -mt-20&#34; id=&#34;find-the-head-section&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#find-the-head-section&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;If you don&amp;rsquo;t find the &lt;code&gt;&amp;lt;head&amp;gt;&lt;/code&gt; tag in &lt;code&gt;base.html&lt;/code&gt;, look for a &lt;code&gt;head.html&lt;/code&gt; file in your &lt;code&gt;partials/&lt;/code&gt; folder.&lt;/p&gt;
+&lt;p&gt;Inside the head section, you need to add the script tag which was generated after you created your umami account.&lt;/p&gt;
+&lt;div class=&#34;code-block relative mt-6 first:mt-0 group/code&#34;&gt;&lt;pre&gt;&lt;code&gt;&amp;lt;script async src=&amp;#34;https://example.com/path/to/script.js&amp;#34; data-website-id=&amp;#34;a1a11aaa1-a1a1a1a-a1a1a1a1-a1a1a1a1&amp;#34;&amp;gt;&amp;lt;/script&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;div class=&#34;opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0&#34;&gt;
+    &lt;button
+      class=&#34;code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50&#34;
+      title=&#34;Copy code&#34;
+    &gt;
+      &lt;div class=&#34;group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4&#34;&gt;&lt;/div&gt;
+    &lt;/button&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Save the changes and rebuild your Hugo site. Voila, umami is analyzing traffic.. unagi!&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://umami.is/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://umami.is/&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Facebook Intercepts Web Traffic</title>
-      <link>http://localhost:1313/blog/fb-intercepts-web-traffic/</link>
+      <link>https://unchaineddev.github.io/blog/fb-intercepts-web-traffic/</link>
       <pubDate>Thu, 28 Mar 2024 12:47:09 +0530</pubDate>
       
-      <guid>http://localhost:1313/blog/fb-intercepts-web-traffic/</guid>
+      <guid>https://unchaineddev.github.io/blog/fb-intercepts-web-traffic/</guid>
       <description>
         
         
@@ -58,17 +108,17 @@ targeted by malicious actors.&lt;/p&gt;
     
     <item>
       <title>custom domain for github pages</title>
-      <link>http://localhost:1313/blog/custom-domain/</link>
+      <link>https://unchaineddev.github.io/blog/custom-domain/</link>
       <pubDate>Tue, 26 Sep 2023 08:16:04 +0530</pubDate>
       
-      <guid>http://localhost:1313/blog/custom-domain/</guid>
+      <guid>https://unchaineddev.github.io/blog/custom-domain/</guid>
       <description>
         
         
         &lt;p&gt;There are far more problems in the world than setting up a custom domain. it&amp;rsquo;s ridiculous how a simple thing is made so complicated that any new user would break their head trying to make it work.&lt;/p&gt;
 &lt;p&gt;in this blog, i will share how to set up a custom domain using github pages.&lt;/p&gt;
 &lt;center&gt;
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/blog/custom-domain.jpg&#34; width=&#34;500px&#34;/&gt;
+&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/custom-domain.jpg&#34; width=&#34;500px&#34;/&gt;
 &lt;/figure&gt;
 
 &lt;/center&gt;
@@ -104,7 +154,7 @@ it&amp;rsquo;s pretty straight-forward.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;After saving both CNAME records, the result should look like this.&lt;/p&gt;
 &lt;center&gt;
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/blog/add-records.png&#34; width=&#34;500px&#34;/&gt;
+&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/add-records.png&#34; width=&#34;500px&#34;/&gt;
 &lt;/figure&gt;
  
 &lt;/center&gt;
@@ -120,7 +170,7 @@ and they are as follows:&lt;/li&gt;
 &lt;/center&gt;
 &lt;p&gt;After saving all the A records, the result should look like this.&lt;/p&gt;
 &lt;center&gt;
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/blog/a-records.png&#34; width=&#34;500px&#34;/&gt;
+&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/a-records.png&#34; width=&#34;500px&#34;/&gt;
 &lt;/figure&gt;
  
 &lt;/center&gt;
