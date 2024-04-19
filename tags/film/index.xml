@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Unchained Dev – Film</title>
-    <link>https://unchaineddev.github.io/tags/film/</link>
+    <link>http://localhost:1313/tags/film/</link>
     <description>Recent content in Film on Unchained Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 02 Apr 2024 06:37:14 +0530</lastBuildDate>
     
-	  <atom:link href="https://unchaineddev.github.io/tags/film/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/tags/film/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,15 +17,15 @@
     
     <item>
       <title>Dune: Part Two - A Review</title>
-      <link>https://unchaineddev.github.io/blog/dune-part-two/</link>
+      <link>http://localhost:1313/blog/dune-part-two/</link>
       <pubDate>Tue, 02 Apr 2024 06:37:14 +0530</pubDate>
       
-      <guid>https://unchaineddev.github.io/blog/dune-part-two/</guid>
+      <guid>http://localhost:1313/blog/dune-part-two/</guid>
       <description>
         
         
         &lt;center&gt;
-&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/dune2.png&#34; width=&#34;800px&#34;/&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/blog/dune2.png&#34; width=&#34;800px&#34;/&gt;
 &lt;/figure&gt;
 
 &lt;/center&gt;
@@ -89,15 +89,15 @@ miss this film.&lt;/p&gt;
     
     <item>
       <title>12th Fail</title>
-      <link>https://unchaineddev.github.io/blog/12th-fail/</link>
+      <link>http://localhost:1313/blog/12th-fail/</link>
       <pubDate>Sun, 14 Jan 2024 07:13:55 +0530</pubDate>
       
-      <guid>https://unchaineddev.github.io/blog/12th-fail/</guid>
+      <guid>http://localhost:1313/blog/12th-fail/</guid>
       <description>
         
         
         &lt;center&gt;
-&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/12th-fail.jpg&#34; width=&#34;500px&#34;/&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/blog/12th-fail.jpg&#34; width=&#34;500px&#34;/&gt;
 &lt;/figure&gt;
 
 &lt;/center&gt;
@@ -112,10 +112,10 @@ miss this film.&lt;/p&gt;
     
     <item>
       <title>Best Films - 2023</title>
-      <link>https://unchaineddev.github.io/blog/best-films-2023/</link>
+      <link>http://localhost:1313/blog/best-films-2023/</link>
       <pubDate>Thu, 21 Dec 2023 20:05:33 +0530</pubDate>
       
-      <guid>https://unchaineddev.github.io/blog/best-films-2023/</guid>
+      <guid>http://localhost:1313/blog/best-films-2023/</guid>
       <description>
         
         
@@ -205,17 +205,17 @@ miss this film.&lt;/p&gt;
     
     <item>
       <title>jawan - a review</title>
-      <link>https://unchaineddev.github.io/blog/jawan/</link>
+      <link>http://localhost:1313/blog/jawan/</link>
       <pubDate>Thu, 14 Sep 2023 19:27:10 +0530</pubDate>
       
-      <guid>https://unchaineddev.github.io/blog/jawan/</guid>
+      <guid>http://localhost:1313/blog/jawan/</guid>
       <description>
         
         
         &lt;p&gt;last thursday, i went to watch the socio-political action thriller, &amp;ldquo;Jawan&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;there were two compelling reasons i couldn&amp;rsquo;t afford to miss this film: first, my unwavering admiration for the superstar &lt;em&gt;Shah Rukh Khan&lt;/em&gt;, and second, my curiosity about the unique mummified look that had been teased.&lt;/p&gt;
 &lt;center&gt;
-&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/jawan.png&#34; width=&#34;400px&#34;/&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/blog/jawan.png&#34; width=&#34;400px&#34;/&gt;
 &lt;/figure&gt;
 
 &lt;/center&gt;

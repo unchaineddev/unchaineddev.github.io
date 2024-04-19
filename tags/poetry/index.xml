@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Unchained Dev – Poetry</title>
-    <link>https://unchaineddev.github.io/tags/poetry/</link>
+    <link>http://localhost:1313/tags/poetry/</link>
     <description>Recent content in Poetry on Unchained Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 22 Mar 2024 07:32:00 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 07:54:08 +0530</lastBuildDate>
     
-	  <atom:link href="https://unchaineddev.github.io/tags/poetry/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/tags/poetry/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,11 +16,115 @@
     
     
     <item>
+      <title>Letters From A Stoic</title>
+      <link>http://localhost:1313/blog/letters-from-a-stoic/</link>
+      <pubDate>Fri, 19 Apr 2024 07:54:08 +0530</pubDate>
+      
+      <guid>http://localhost:1313/blog/letters-from-a-stoic/</guid>
+      <description>
+        
+        
+        &lt;p&gt;This post contains letters from &lt;em&gt;Seneca&lt;/em&gt;, a Stoic philosopher of Ancient Rome,
+and my thoughts on his philosophy.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;What is Stoicism?&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;     Stoics identified the path to achieving it
+[ good spirit ] with a life spent practicing the four virtues in everyday life:
+&lt;br&gt;
+     wisdom, courage, temperance or moderation, and
+justice, and living in accordance with nature. &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;h2&gt;Letter II&lt;span class=&#34;absolute -mt-20&#34; id=&#34;letter-ii&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#letter-ii&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;center&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/blog/book.jpg&#34; width=&#34;400px&#34;/&gt;
+&lt;/figure&gt;
+
+&lt;/center&gt;
+&lt;p&gt;Seneca&amp;rsquo;s second letter is addressed to Lucilius, emphasising significance of
+settling one&amp;rsquo;s self and deriving joy from solitude. He advises against
+consuming books from different authors, instead &lt;em&gt;&amp;ldquo;focusing on authors whose
+genius is unquestionable&amp;rdquo;&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;I would slightly disagree with him on this point. There is no doubt genius
+writers would have a great effect on one&amp;rsquo;s mind, however you cannot ignore the
+impact of the human experience. If you are reading something not-so-genius but
+you learn a valuable lesson from it, I would argue it would be a wise choice.
+While Seneca&amp;rsquo;s analogy of a wound not healing if subjected to experiments of
+several ointments, or a plant weakening from constant uprooting is compelling,
+engaging with a multitude of viewpoints and getting perspective deepens your
+understanding of things. With this in mind, I would not say reading a lot of
+garbage self-help authors or a bunch of phony writers would do your life any
+good. Picking the right authors is without a doubt a good first step.&lt;/p&gt;
+&lt;p&gt;Seneca also suggests focusing more on the quality than the quantity of books.
+This resonates with my philosphy and it is something I really struggle with
+sometimes. Whenever I start a book, my heart &lt;strong&gt;wants&lt;/strong&gt; to finish it (as most of
+us would like to). However, this is a key point to keep in mind:&lt;/p&gt;
+&lt;br&gt;
+&lt;center&gt;&lt;i&gt;To read that brings pleasure, and to let go of books that cause pain.&lt;/i&gt;&lt;/center&gt;
+&lt;p&gt;To use this knowledge as a shield against life&amp;rsquo;s adversities and cultivate the
+habit of resilience is valuable advice. I couldn&amp;rsquo;t agree more with Seneca when
+he says, &amp;ldquo;It is not the man who has too little who is poor, but the one who
+hankers after more&amp;rdquo;&lt;/p&gt;
+&lt;h2&gt;Letter III&lt;span class=&#34;absolute -mt-20&#34; id=&#34;letter-iii&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#letter-iii&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Remember the popular proverb, &lt;em&gt;A friend in need is a friend indeed&lt;/em&gt;?&lt;/p&gt;
+&lt;p&gt;In this letter, Seneca addresses Lucilius&amp;rsquo;s distrust towards his friend, and
+&lt;em&gt;dramatically&lt;/em&gt; questions him if he &amp;ldquo;actually&amp;rdquo; called him a friend or if it was
+merely out of courtesy. This debate evokes a point in my life, when I stood by
+this philosophy of &lt;em&gt;true friendship&lt;/em&gt;. (as ridiculous as it sounds) I reserved
+the title of a &lt;em&gt;friend&lt;/em&gt; with those I shared a deep friendship, while others,
+less intimately known, remained acquaintances. The significance of words may be
+overlooked in today&amp;rsquo;s world, yet the value words hold must remain.&lt;/p&gt;
+&lt;p&gt;To me, &lt;em&gt;Friendship&lt;/em&gt; is a bond built on trust, where we willingly place our
+hearts and souls at our friend&amp;rsquo;s feet, trusting they will not deceive us.
+Overcoming fear of betrayal demands reflecting the same trust we have in
+ourselves. Seneca offers timeless wisdom on this matter, advising against both
+indiscriminately confiding in everyone and keeping secrets from our closest
+friends. Certainly judgement must precede freely sharing thoughts.&lt;/p&gt;
+&lt;p&gt;Seneca believes being busy in life doesn&amp;rsquo;t always equate to productivity,
+rather signifies a troubled mind. Likewise, condemning all activity leads to
+laziness and not a relaxed mind. He advocates for striking a balance and
+suggests looking towards nature for relaxation. Below is a quote I really found
+interesting in this letter:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;Some men have shrunk so far into dark corners that objects in broad daylight
+seem quite blurred to them&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Letter V&lt;span class=&#34;absolute -mt-20&#34; id=&#34;letter-v&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#letter-v&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Seneca earnest approves of those constantly learning, determined for
+self-improvement. To be a better man (or woman) is essential, however he warns
+against doing it to seek attention, or for solely provoking others through
+appearances or ways of living. This is profoundly accurate in an era, dominated
+by FAANG mania, Instagram reelz and TikTok trends.&lt;/p&gt;
+&lt;p&gt;It is fascinating how a philosopher born centuries ago accurately describes our
+reality. Better yet shares his ideas on how to lead a simple life. Maybe, this
+philosophy is deeply rooted in the essence of humanity, passed down through
+generations a promise of belonging to one race, one global community.&lt;/p&gt;
+&lt;p&gt;Seneca puts this beautifully: &lt;i&gt;&lt;em&gt;Our motto, as one knows, is to live in
+conformity with nature.&lt;/em&gt;&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;Here are some key points I found fascinating in this letter:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Admiring one&amp;rsquo;s way of life, and appreciate the beauty in its simplicity.&lt;/li&gt;
+&lt;li&gt;Admire one&amp;rsquo;s character and values, rather than merely for material possessions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Seneca also highlights how &lt;em&gt;fear&lt;/em&gt; and &lt;em&gt;hope&lt;/em&gt; march in unison &amp;ldquo;like a prisoner
+and escort he is handcuffed to&amp;rdquo;. This theme is widely explored, so I would just
+like to add how memory brings back the agony of fear, and as philosophical as
+it sounds, one must live in the present.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Stoicism&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://en.wikipedia.org/wiki/Stoicism&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>An Empire of Hell</title>
-      <link>https://unchaineddev.github.io/blog/empire-of-hell/</link>
+      <link>http://localhost:1313/blog/empire-of-hell/</link>
       <pubDate>Fri, 22 Mar 2024 07:32:00 +0530</pubDate>
       
-      <guid>https://unchaineddev.github.io/blog/empire-of-hell/</guid>
+      <guid>http://localhost:1313/blog/empire-of-hell/</guid>
       <description>
         
         

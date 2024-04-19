@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Unchained Dev – Privacy</title>
-    <link>https://unchaineddev.github.io/tags/privacy/</link>
+    <link>http://localhost:1313/tags/privacy/</link>
     <description>Recent content in Privacy on Unchained Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 13 Apr 2024 06:49:22 +0530</lastBuildDate>
     
-	  <atom:link href="https://unchaineddev.github.io/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>Two Phones, Too Much?</title>
-      <link>https://unchaineddev.github.io/blog/two-phones/</link>
+      <link>http://localhost:1313/blog/two-phones/</link>
       <pubDate>Sat, 13 Apr 2024 06:49:22 +0530</pubDate>
       
-      <guid>https://unchaineddev.github.io/blog/two-phones/</guid>
+      <guid>http://localhost:1313/blog/two-phones/</guid>
       <description>
         
         
@@ -33,7 +33,7 @@ carry two phones to compartmentalize my online activity.&lt;/p&gt;
 11 (without Google Services). My work/non-free software running phone is a
 Samsung M12 running Google Android 13 with OneUI version 5.1.&lt;/p&gt;
 &lt;center&gt;
-&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/redmi-samsung.jpg&#34; width=&#34;500px&#34;/&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/blog/redmi-samsung.jpg&#34; width=&#34;500px&#34;/&gt;
 &lt;/figure&gt;
 
 &lt;/center&gt;
@@ -85,14 +85,14 @@ publicly available for free.&lt;/p&gt;
     
     <item>
       <title>xz has a secret backdoor</title>
-      <link>https://unchaineddev.github.io/blog/xz-backdoor/</link>
+      <link>http://localhost:1313/blog/xz-backdoor/</link>
       <pubDate>Tue, 02 Apr 2024 05:20:58 +0530</pubDate>
       
-      <guid>https://unchaineddev.github.io/blog/xz-backdoor/</guid>
+      <guid>http://localhost:1313/blog/xz-backdoor/</guid>
       <description>
         
         
-        &lt;p&gt;I already made a blog post on &lt;a href=&#34;https://unchaineddev.github.io/blog/archiving-files-using-tar/&#34; &gt;archiving files using
+        &lt;p&gt;I already made a blog post on &lt;a href=&#34;http://localhost:1313/blog/archiving-files-using-tar/&#34; &gt;archiving files using
 tar&lt;/a&gt; that covered gzip, a utility tool
 to archive files with compression. In the same way, xz utils is an open-source
 lossless data compression tool primarily focused on the &lt;strong&gt;.xz&lt;/strong&gt; file format,
@@ -115,10 +115,10 @@ comes great responsibility.&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>Facebook Intercepts Web Traffic</title>
-      <link>https://unchaineddev.github.io/blog/fb-intercepts-web-traffic/</link>
+      <link>http://localhost:1313/blog/fb-intercepts-web-traffic/</link>
       <pubDate>Thu, 28 Mar 2024 12:47:09 +0530</pubDate>
       
-      <guid>https://unchaineddev.github.io/blog/fb-intercepts-web-traffic/</guid>
+      <guid>http://localhost:1313/blog/fb-intercepts-web-traffic/</guid>
       <description>
         
         
@@ -156,10 +156,10 @@ targeted by malicious actors.&lt;/p&gt;
     
     <item>
       <title>Signal Gets Usernames!</title>
-      <link>https://unchaineddev.github.io/braindump/signal-gets-usernames/</link>
+      <link>http://localhost:1313/braindump/signal-gets-usernames/</link>
       <pubDate>Wed, 06 Mar 2024 11:05:44 +0530</pubDate>
       
-      <guid>https://unchaineddev.github.io/braindump/signal-gets-usernames/</guid>
+      <guid>http://localhost:1313/braindump/signal-gets-usernames/</guid>
       <description>
         
         
@@ -170,7 +170,7 @@ to have when you do not want to share your number with someone for a chat. The p
 for sign up, however it will no longer be visible to everyone on Signal.&lt;/p&gt;
 &lt;p&gt;This is wonderful news for privacy and security enthusiasts, journalists, whistleblowers, and a big win
 for digital freedom.&lt;/p&gt;
-&lt;center&gt;&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/braindump/signal&#34; width=&#34;400px&#34;/&gt;
+&lt;center&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/braindump/signal&#34; width=&#34;400px&#34;/&gt;
 &lt;/figure&gt;
 &lt;/center&gt;
 
@@ -179,10 +179,10 @@ for digital freedom.&lt;/p&gt;
     
     <item>
       <title>Stop Using Whatsapp</title>
-      <link>https://unchaineddev.github.io/blog/stop-using-whatsapp/</link>
+      <link>http://localhost:1313/blog/stop-using-whatsapp/</link>
       <pubDate>Sun, 18 Feb 2024 21:05:35 +0530</pubDate>
       
-      <guid>https://unchaineddev.github.io/blog/stop-using-whatsapp/</guid>
+      <guid>http://localhost:1313/blog/stop-using-whatsapp/</guid>
       <description>
         
         

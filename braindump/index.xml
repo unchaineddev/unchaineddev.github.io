@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Unchained Dev – Braindump</title>
-    <link>https://unchaineddev.github.io/braindump/</link>
+    <link>http://localhost:1313/braindump/</link>
     <description>Recent content in Braindump on Unchained Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 06 Mar 2024 11:05:44 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 18:19:29 +0530</lastBuildDate>
     
-	  <atom:link href="https://unchaineddev.github.io/braindump/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/braindump/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,11 +16,99 @@
     
     
     <item>
+      <title>MongoDB Setup</title>
+      <link>http://localhost:1313/braindump/mongodb-setup/</link>
+      <pubDate>Tue, 16 Apr 2024 18:19:29 +0530</pubDate>
+      
+      <guid>http://localhost:1313/braindump/mongodb-setup/</guid>
+      <description>
+        
+        
+        &lt;h3&gt;Install&lt;span class=&#34;absolute -mt-20&#34; id=&#34;install&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#install&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mongodb.com/try/download/community&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download&lt;/a&gt; the community version of MongoDB.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mongodb.com/docs/mongodb-shell/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download&lt;/a&gt; Mongo Shell.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Set up Mongosh&lt;span class=&#34;absolute -mt-20&#34; id=&#34;set-up-mongosh&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#set-up-mongosh&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;While you set up mongosh (Mongo Shell), you typically get the error below when you type &lt;code&gt;mongosh&lt;/code&gt; on your terminal:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;code-block relative mt-6 first:mt-0 group/code&#34;&gt;&lt;div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-text&#34; data-lang=&#34;text&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;mongosh : The term &amp;#39;mongosh&amp;#39; is not recognized as the name of a cmdlet,
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;function, script file, or operable program. Check the spelling of the name, or
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;if a path was included, verify that the path is correct and try again.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;At line:1 char:1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;+ mongosh $Env:MDB_CONNECTION_STRING;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;+ ~~~~~~~
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    + CategoryInfo          : ObjectNotFound: (mongosh:String) [], CommandNotFoundException
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    + FullyQualifiedErrorId : CommandNotFoundException&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0&#34;&gt;
+    &lt;button
+      class=&#34;code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50&#34;
+      title=&#34;Copy code&#34;
+    &gt;
+      &lt;div class=&#34;group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4&#34;&gt;&lt;/div&gt;
+    &lt;/button&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Solution&lt;span class=&#34;absolute -mt-20&#34; id=&#34;solution&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#solution&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;To resolve this, you need to add Environment Variables. To do this:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;Go to &amp;ldquo;Edit System Environment Variables&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Click on &amp;ldquo;Environment Variables&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Under &amp;ldquo;System Variables&amp;rdquo;, Edit &amp;ldquo;Path&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Add Two paths as follows:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;MongoDB bin path&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;code&gt;C:\Program Files\MongoDB\Server\7.0\bin&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Depending on where you have downloaded mongosh:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;code&gt;C:\Users\yusuf\Downloads\mongosh-2.2.3-win32-x64\mongosh-2.2.3-win32-x64\bin&lt;/code&gt;&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-yellow-100 bg-yellow-50 text-yellow-900 dark:border-yellow-200/30 dark:bg-yellow-700/30 dark:text-yellow-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ⚠️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      Important: Restart your editor. If it does not work, go to services and restart mongoDB.
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+      </description>
+    </item>
+    
+    <item>
       <title>Signal Gets Usernames!</title>
-      <link>https://unchaineddev.github.io/braindump/signal-gets-usernames/</link>
+      <link>http://localhost:1313/braindump/signal-gets-usernames/</link>
       <pubDate>Wed, 06 Mar 2024 11:05:44 +0530</pubDate>
       
-      <guid>https://unchaineddev.github.io/braindump/signal-gets-usernames/</guid>
+      <guid>http://localhost:1313/braindump/signal-gets-usernames/</guid>
       <description>
         
         
@@ -31,7 +119,7 @@ to have when you do not want to share your number with someone for a chat. The p
 for sign up, however it will no longer be visible to everyone on Signal.&lt;/p&gt;
 &lt;p&gt;This is wonderful news for privacy and security enthusiasts, journalists, whistleblowers, and a big win
 for digital freedom.&lt;/p&gt;
-&lt;center&gt;&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/braindump/signal&#34; width=&#34;400px&#34;/&gt;
+&lt;center&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/braindump/signal&#34; width=&#34;400px&#34;/&gt;
 &lt;/figure&gt;
 &lt;/center&gt;
 
@@ -40,10 +128,10 @@ for digital freedom.&lt;/p&gt;
     
     <item>
       <title>Best way to download Youtube Videos</title>
-      <link>https://unchaineddev.github.io/braindump/ytdlp/</link>
+      <link>http://localhost:1313/braindump/ytdlp/</link>
       <pubDate>Sat, 17 Feb 2024 09:09:37 +0530</pubDate>
       
-      <guid>https://unchaineddev.github.io/braindump/ytdlp/</guid>
+      <guid>http://localhost:1313/braindump/ytdlp/</guid>
       <description>
         
         
@@ -127,10 +215,10 @@ for digital freedom.&lt;/p&gt;
     
     <item>
       <title>How to check CPU Usage in the Terminal?</title>
-      <link>https://unchaineddev.github.io/braindump/cpu-usage-terminal/</link>
+      <link>http://localhost:1313/braindump/cpu-usage-terminal/</link>
       <pubDate>Sun, 11 Feb 2024 18:31:46 +0530</pubDate>
       
-      <guid>https://unchaineddev.github.io/braindump/cpu-usage-terminal/</guid>
+      <guid>http://localhost:1313/braindump/cpu-usage-terminal/</guid>
       <description>
         
         
@@ -185,16 +273,16 @@ for digital freedom.&lt;/p&gt;
     
     <item>
       <title>Ram&#39;s Wise Mind</title>
-      <link>https://unchaineddev.github.io/braindump/rams-wise-mind/</link>
+      <link>http://localhost:1313/braindump/rams-wise-mind/</link>
       <pubDate>Tue, 09 Jan 2024 19:27:18 +0530</pubDate>
       
-      <guid>https://unchaineddev.github.io/braindump/rams-wise-mind/</guid>
+      <guid>http://localhost:1313/braindump/rams-wise-mind/</guid>
       <description>
         
         
         &lt;p&gt;Sarat Chandra Chattopadhyay&amp;rsquo;s short story &amp;ldquo;&lt;em&gt;Ram&amp;rsquo;s Wise Mind&lt;/em&gt;&amp;rdquo; (or Ramer Shumoti) is a poignant story of a seventeen year old boy, &lt;em&gt;Ramlaal&lt;/em&gt; and his sister-in-law &lt;em&gt;Narayani&lt;/em&gt;.&lt;/p&gt;
 &lt;center&gt;
-&lt;figure class=&#34;photoswipe&#34;&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/rams-wise-mind.jpg&#34; width=&#34;250px&#34;/&gt;
+&lt;figure class=&#34;photoswipe&#34;&gt;&lt;img src=&#34;http://localhost:1313/blog/rams-wise-mind.jpg&#34; width=&#34;250px&#34;/&gt;
 &lt;/figure&gt;
 
 &lt;/center&gt;
@@ -207,10 +295,10 @@ for digital freedom.&lt;/p&gt;
     
     <item>
       <title>Json Dump(s) vs Load(s)</title>
-      <link>https://unchaineddev.github.io/braindump/json-dumps-vs-loads/</link>
+      <link>http://localhost:1313/braindump/json-dumps-vs-loads/</link>
       <pubDate>Fri, 17 Nov 2023 20:00:52 +0530</pubDate>
       
-      <guid>https://unchaineddev.github.io/braindump/json-dumps-vs-loads/</guid>
+      <guid>http://localhost:1313/braindump/json-dumps-vs-loads/</guid>
       <description>
         
         
@@ -409,10 +497,10 @@ for digital freedom.&lt;/p&gt;
     
     <item>
       <title>Activate Virtual Environments in Powershell</title>
-      <link>https://unchaineddev.github.io/braindump/venv/</link>
+      <link>http://localhost:1313/braindump/venv/</link>
       <pubDate>Mon, 02 Oct 2023 21:27:10 +0530</pubDate>
       
-      <guid>https://unchaineddev.github.io/braindump/venv/</guid>
+      <guid>http://localhost:1313/braindump/venv/</guid>
       <description>
         
         
@@ -446,10 +534,10 @@ Nonetheless I am using it to familiarize myself with the commands.&lt;/p&gt;
     
     <item>
       <title>setting up proxies in selenium</title>
-      <link>https://unchaineddev.github.io/braindump/proxy-auth/</link>
+      <link>http://localhost:1313/braindump/proxy-auth/</link>
       <pubDate>Mon, 11 Sep 2023 20:32:32 +0530</pubDate>
       
-      <guid>https://unchaineddev.github.io/braindump/proxy-auth/</guid>
+      <guid>http://localhost:1313/braindump/proxy-auth/</guid>
       <description>
         
         
