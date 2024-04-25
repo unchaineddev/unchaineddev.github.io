@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Unchained Dev – Blog</title>
-    <link>http://localhost:1313/blog/</link>
+    <link>https://unchaineddev.github.io/blog/</link>
     <description>Recent content in Blog on Unchained Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Apr 2024 07:54:08 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 20:40:58 +0530</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://unchaineddev.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,11 +16,83 @@
     
     
     <item>
+      <title>The Crooked Timber Of New India</title>
+      <link>https://unchaineddev.github.io/blog/new-india/</link>
+      <pubDate>Wed, 24 Apr 2024 20:40:58 +0530</pubDate>
+      
+      <guid>https://unchaineddev.github.io/blog/new-india/</guid>
+      <description>
+        
+        
+        &lt;p&gt;I stumbled upon a &lt;a href=&#34;https://www.youtube.com/watch?v=DLy3YOJeogA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YouTube video&lt;/a&gt;
+featuring &lt;em&gt;Mr. Parakala Prabhakar&lt;/em&gt;, interviewed by few of the last esteemed
+journalists left in our country today: &lt;em&gt;Mr. Karan Thapar&lt;/em&gt;. The discussion delved
+into the current state of politics, economy and social fabric of our country.&lt;/p&gt;
+&lt;p&gt;Mr. &lt;em&gt;Parakala Prabhakar&lt;/em&gt; is a political activist, &lt;em&gt;economist&lt;/em&gt;, scholar, and
+author. Parakala, if you are unaware, is also the husband of the current
+Finance Minister, &lt;em&gt;Nirmala Sitharaman&lt;/em&gt;. This adds an intriguing level to this
+discussion.&lt;/p&gt;
+&lt;p&gt;Parakala&amp;rsquo;s unapologetic honesty and unwavering stance against the Modi Regime
+is profoundly shocking, yet not entirely unprecedented. It was really
+compelling to see a man speak truths in a world of men and women intolerant of
+criticism in any shape or form. My decision to to pick his book, &lt;em&gt;&amp;ldquo;The Crooked
+Timber Of New India&amp;rdquo;&lt;/em&gt; was with a desire for a deeper understanding of our
+polity, economy and progress as a nation.&lt;/p&gt;
+&lt;p&gt;In his book, he speaks in length of the failures of the Modi Government,
+particularly the false promises to reduce unemployment, abolish corruption,
+demonetization of currency notes that broke the backbone of our economy,
+mishandling of COVID-19, amongst others. In a chapter, Parakala skillfully
+employs the &amp;ldquo;Rabbit-duck illusion&amp;rdquo; as an analogy to depict the state of affairs
+within the ruling party. I found it very clever and insightful.&lt;/p&gt;
+&lt;p&gt;Mishandling of COVID-19 by the Central Government is unforgettable. It is marked
+in history, as they conveniently prioritized their crony capitalists over
+public good. The illusionary schemes were merely for show, nothing helped
+citizens. Poverty was at an all-time high since 1990s. 75 Million were pushed
+to poverty, and the government did nothing but praise itself for &amp;ldquo;2.5 Cr Jabs&amp;rdquo;.
+Parakala shares one story of a young boy victim to the poverty of the New
+India, and then shares a powerful quote by Gandhiji which made me feel hopeful
+of a future leader that would bring about change like this &amp;ndash;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;&amp;ldquo;Whenever you are faced with a difficult situation, imagine the poorest of the
+poor and see if your decision brings a smile to their faces.&amp;rdquo;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Another fascinating chapter was: &amp;ldquo;Egocracy: Digital Freedom and Data Privacy&amp;rdquo;.
+Parakala deeply examines the rising internet shutdowns, concerning accumulation
+of data from Big Tech Companies collected for government use, pervasive erosion
+of privacy, content moderation, removing posts by targeting critics, and data
+breaches. I was happy to read a well-researched and accurate account of the
+state of privacy in India. It felt like a breath of fresh air to read this
+essay, and I was glad to realize people like Parakala exist, to fight against
+lost causes.&lt;/p&gt;
+&lt;p&gt;Speaking of lost causes, there is a lot of horrible attempts to rewrite and
+portray history. The fear of an incompetant leader swaying masses through media
+and his oracy, calling his reign as &lt;em&gt;The New India&lt;/em&gt;, and what ever came before
+him were all but an underwhelming effect says a lot about him. In addition, the
+push for a singular national identity at the expense of democratic values is a
+cause for deep concern.&lt;/p&gt;
+&lt;p&gt;There is lot of wistful politics at play, rather than focusing on pressing
+issues. Obvious one is polarizing Hindu-Muslim dynamics, push for a singular
+Hindu-Hindi identity for being hailed as truly Indian, population control of a
+certain community by stoking fear about an imagined scenario of numerical
+equality.&lt;/p&gt;
+&lt;p&gt;After reading this book, you feel a void in your heart. Something you cannot
+fill, something you cannot mend. The state of affairs in India today as
+portrayed by Parakala makes your blood boil. Sadly, this is a harsh reality we
+as citizens have conformed to. Yet, amidst the despair, the solution is a call
+to action. Between we &lt;em&gt;as a people&lt;/em&gt; against governments who divide us by caste,
+creed or religion. Against media houses who spread propaganda and cannot stand
+criticism of the government. It is also a battle against the people amongst us
+who undermine democracy and stay hidden behind an idelogy.&lt;/p&gt;
+&lt;br&gt;
+&lt;hr&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Letters From A Stoic</title>
-      <link>http://localhost:1313/blog/letters-from-a-stoic/</link>
+      <link>https://unchaineddev.github.io/blog/letters-from-a-stoic/</link>
       <pubDate>Fri, 19 Apr 2024 07:54:08 +0530</pubDate>
       
-      <guid>http://localhost:1313/blog/letters-from-a-stoic/</guid>
+      <guid>https://unchaineddev.github.io/blog/letters-from-a-stoic/</guid>
       <description>
         
         
@@ -36,7 +108,7 @@ and my thoughts on his philosophy.&lt;/p&gt;
 justice, and living in accordance with nature. &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;h2&gt;Letter II&lt;span class=&#34;absolute -mt-20&#34; id=&#34;letter-ii&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#letter-ii&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;center&gt;
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/blog/book.jpg&#34; width=&#34;400px&#34;/&gt;
+&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/book.jpg&#34; width=&#34;400px&#34;/&gt;
 &lt;/figure&gt;
 
 &lt;/center&gt;
@@ -74,7 +146,7 @@ the title of a &lt;em&gt;friend&lt;/em&gt; with those I shared a deep friendship
 less intimately known, remained acquaintances. The significance of words may be
 overlooked in today&amp;rsquo;s world, yet the value words hold must remain.&lt;/p&gt;
 &lt;center&gt;
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/blog/friends.jpg&#34; width=&#34;400px&#34;/&gt;
+&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/friends.jpg&#34; width=&#34;400px&#34;/&gt;
 &lt;/figure&gt;
 
 &lt;/center&gt;
@@ -112,6 +184,17 @@ conformity with nature.&lt;/em&gt;&lt;/i&gt;&lt;/p&gt;
 and escort he is handcuffed to&amp;rdquo;. This theme is widely explored, so I would just
 like to add how memory brings back the agony of fear, and as philosophical as
 it sounds, one must live in the present.&lt;/p&gt;
+&lt;h2&gt;Letter VI&lt;span class=&#34;absolute -mt-20&#34; id=&#34;letter-vi&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#letter-vi&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;In this letter, Seneca writes to Lucilius that he observes not only
+improvement, but also transformation within himself. While humbly admitting his
+imperfections, Seneca admits the significance of sharing his feelings with his
+friend (as discussed in a previous letter). Additionally, he highlights the
+mutual benefit of exchanging insights through shared books. Knowledge is
+valuable if shared, useless if held in secret. My philosophy on this remains.
+Talking to someone each day and studying their character benefits more than
+conversing with someone rarely. More often than not, to be your own friend too
+is a wonderful idea of progress, atleast in theory. Nonetheless to share-it-all
+with a friend is a priceless benefit.&lt;/p&gt;
 &lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
@@ -126,10 +209,10 @@ it sounds, one must live in the present.&lt;/p&gt;
     
     <item>
       <title>Two Phones, Too Much?</title>
-      <link>http://localhost:1313/blog/two-phones/</link>
+      <link>https://unchaineddev.github.io/blog/two-phones/</link>
       <pubDate>Sat, 13 Apr 2024 06:49:22 +0530</pubDate>
       
-      <guid>http://localhost:1313/blog/two-phones/</guid>
+      <guid>https://unchaineddev.github.io/blog/two-phones/</guid>
       <description>
         
         
@@ -142,7 +225,7 @@ carry two phones to compartmentalize my online activity.&lt;/p&gt;
 11 (without Google Services). My work/non-free software running phone is a
 Samsung M12 running Google Android 13 with OneUI version 5.1.&lt;/p&gt;
 &lt;center&gt;
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/blog/redmi-samsung.jpg&#34; width=&#34;500px&#34;/&gt;
+&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/redmi-samsung.jpg&#34; width=&#34;500px&#34;/&gt;
 &lt;/figure&gt;
 
 &lt;/center&gt;
@@ -194,10 +277,10 @@ publicly available for free.&lt;/p&gt;
     
     <item>
       <title>Coffee Can Investing - A Review</title>
-      <link>http://localhost:1313/blog/coffee-can-investing/</link>
+      <link>https://unchaineddev.github.io/blog/coffee-can-investing/</link>
       <pubDate>Sat, 06 Apr 2024 11:58:39 +0530</pubDate>
       
-      <guid>http://localhost:1313/blog/coffee-can-investing/</guid>
+      <guid>https://unchaineddev.github.io/blog/coffee-can-investing/</guid>
       <description>
         
         
@@ -220,10 +303,10 @@ skimming through to understand the core philosophy should do the trick.&lt;/p&gt
     
     <item>
       <title>Integrate Umami on your Hugo Site</title>
-      <link>http://localhost:1313/blog/umami/</link>
+      <link>https://unchaineddev.github.io/blog/umami/</link>
       <pubDate>Thu, 04 Apr 2024 06:50:07 +0530</pubDate>
       
-      <guid>http://localhost:1313/blog/umami/</guid>
+      <guid>https://unchaineddev.github.io/blog/umami/</guid>
       <description>
         
         
@@ -270,15 +353,15 @@ Here&amp;rsquo;s how you can integrate it in your website &amp;ndash;&lt;/p&gt;
     
     <item>
       <title>Bangalore Weather is Changing</title>
-      <link>http://localhost:1313/blog/bangalore-weather/</link>
+      <link>https://unchaineddev.github.io/blog/bangalore-weather/</link>
       <pubDate>Wed, 03 Apr 2024 05:21:33 +0530</pubDate>
       
-      <guid>http://localhost:1313/blog/bangalore-weather/</guid>
+      <guid>https://unchaineddev.github.io/blog/bangalore-weather/</guid>
       <description>
         
         
         &lt;center&gt;
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/blog/bangalore.jpg&#34;/&gt;
+&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/bangalore.jpg&#34;/&gt;
 &lt;/figure&gt;
 
 &lt;/center&gt;
@@ -310,15 +393,15 @@ friendsip with Bengaluru.&lt;/p&gt;
     
     <item>
       <title>Dune: Part Two - A Review</title>
-      <link>http://localhost:1313/blog/dune-part-two/</link>
+      <link>https://unchaineddev.github.io/blog/dune-part-two/</link>
       <pubDate>Tue, 02 Apr 2024 06:37:14 +0530</pubDate>
       
-      <guid>http://localhost:1313/blog/dune-part-two/</guid>
+      <guid>https://unchaineddev.github.io/blog/dune-part-two/</guid>
       <description>
         
         
         &lt;center&gt;
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/blog/dune2.png&#34; width=&#34;800px&#34;/&gt;
+&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/dune2.png&#34; width=&#34;800px&#34;/&gt;
 &lt;/figure&gt;
 
 &lt;/center&gt;
@@ -382,14 +465,14 @@ miss this film.&lt;/p&gt;
     
     <item>
       <title>xz has a secret backdoor</title>
-      <link>http://localhost:1313/blog/xz-backdoor/</link>
+      <link>https://unchaineddev.github.io/blog/xz-backdoor/</link>
       <pubDate>Tue, 02 Apr 2024 05:20:58 +0530</pubDate>
       
-      <guid>http://localhost:1313/blog/xz-backdoor/</guid>
+      <guid>https://unchaineddev.github.io/blog/xz-backdoor/</guid>
       <description>
         
         
-        &lt;p&gt;I already made a blog post on &lt;a href=&#34;http://localhost:1313/blog/archiving-files-using-tar/&#34; &gt;archiving files using
+        &lt;p&gt;I already made a blog post on &lt;a href=&#34;https://unchaineddev.github.io/blog/archiving-files-using-tar/&#34; &gt;archiving files using
 tar&lt;/a&gt; that covered gzip, a utility tool
 to archive files with compression. In the same way, xz utils is an open-source
 lossless data compression tool primarily focused on the &lt;strong&gt;.xz&lt;/strong&gt; file format,
@@ -412,10 +495,10 @@ comes great responsibility.&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>Facebook Intercepts Web Traffic</title>
-      <link>http://localhost:1313/blog/fb-intercepts-web-traffic/</link>
+      <link>https://unchaineddev.github.io/blog/fb-intercepts-web-traffic/</link>
       <pubDate>Thu, 28 Mar 2024 12:47:09 +0530</pubDate>
       
-      <guid>http://localhost:1313/blog/fb-intercepts-web-traffic/</guid>
+      <guid>https://unchaineddev.github.io/blog/fb-intercepts-web-traffic/</guid>
       <description>
         
         
@@ -453,10 +536,10 @@ targeted by malicious actors.&lt;/p&gt;
     
     <item>
       <title>Parsing Configuration files in Python</title>
-      <link>http://localhost:1313/blog/configparser/</link>
+      <link>https://unchaineddev.github.io/blog/configparser/</link>
       <pubDate>Wed, 27 Mar 2024 20:49:21 +0530</pubDate>
       
-      <guid>http://localhost:1313/blog/configparser/</guid>
+      <guid>https://unchaineddev.github.io/blog/configparser/</guid>
       <description>
         
         
@@ -620,10 +703,10 @@ datatypes, you should convert on your own.&lt;/li&gt;
     
     <item>
       <title>An Empire of Hell</title>
-      <link>http://localhost:1313/blog/empire-of-hell/</link>
+      <link>https://unchaineddev.github.io/blog/empire-of-hell/</link>
       <pubDate>Fri, 22 Mar 2024 07:32:00 +0530</pubDate>
       
-      <guid>http://localhost:1313/blog/empire-of-hell/</guid>
+      <guid>https://unchaineddev.github.io/blog/empire-of-hell/</guid>
       <description>
         
         
@@ -645,14 +728,14 @@ and tell the world, &amp;ldquo;I created an empire of hell.&amp;rdquo;&lt;/p&gt;
     
     <item>
       <title>Indus App Store</title>
-      <link>http://localhost:1313/blog/indus-app-store/</link>
+      <link>https://unchaineddev.github.io/blog/indus-app-store/</link>
       <pubDate>Sun, 03 Mar 2024 07:42:46 +0530</pubDate>
       
-      <guid>http://localhost:1313/blog/indus-app-store/</guid>
+      <guid>https://unchaineddev.github.io/blog/indus-app-store/</guid>
       <description>
         
         
-        &lt;figure&gt;&lt;img src=&#34;http://localhost:1313/blog/indus.jpg&#34;
+        &lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/indus.jpg&#34;
          alt=&#34;indus app store&#34; width=&#34;600px&#34;/&gt;
 &lt;/figure&gt;
 
@@ -686,10 +769,10 @@ install &lt;a href=&#34;https://f-droid.org/&#34; target=&#34;_blank&#34; rel=&#
     
     <item>
       <title>Sphinx Setup Guide</title>
-      <link>http://localhost:1313/blog/sphinx/</link>
+      <link>https://unchaineddev.github.io/blog/sphinx/</link>
       <pubDate>Fri, 01 Mar 2024 06:33:38 +0530</pubDate>
       
-      <guid>http://localhost:1313/blog/sphinx/</guid>
+      <guid>https://unchaineddev.github.io/blog/sphinx/</guid>
       <description>
         
         
@@ -831,10 +914,10 @@ Project language [en]: en &lt;/code&gt;&lt;/pre&gt;&lt;div class=&#34;opacity-0 
     
     <item>
       <title>Stop Using Whatsapp</title>
-      <link>http://localhost:1313/blog/stop-using-whatsapp/</link>
+      <link>https://unchaineddev.github.io/blog/stop-using-whatsapp/</link>
       <pubDate>Sun, 18 Feb 2024 21:05:35 +0530</pubDate>
       
-      <guid>http://localhost:1313/blog/stop-using-whatsapp/</guid>
+      <guid>https://unchaineddev.github.io/blog/stop-using-whatsapp/</guid>
       <description>
         
         
@@ -881,20 +964,20 @@ It is a better app for personal and intimate conversations with your friends and
     
     <item>
       <title>Apple Vision Pro is Trash</title>
-      <link>http://localhost:1313/blog/apple-vision-pro/</link>
+      <link>https://unchaineddev.github.io/blog/apple-vision-pro/</link>
       <pubDate>Mon, 05 Feb 2024 19:20:51 +0530</pubDate>
       
-      <guid>http://localhost:1313/blog/apple-vision-pro/</guid>
+      <guid>https://unchaineddev.github.io/blog/apple-vision-pro/</guid>
       <description>
         
         
-        &lt;figure&gt;&lt;img src=&#34;http://localhost:1313/blog/apple-vision-pro.jpeg&#34; width=&#34;300px&#34;/&gt;
+        &lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/apple-vision-pro.jpeg&#34; width=&#34;300px&#34;/&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;Have you ever had of something called a Bad Apple? Well you might be amazed to hear that all the normies have assembled together again to admire a new addition to their walled-garden, The all new VR Headset, or as apple
 likes to call it their first &amp;ldquo;&lt;a href=&#34;https://www.apple.com/in/newsroom/2023/06/introducing-apple-vision-pro/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;spatial computer&lt;/a&gt;&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;This device is supposed to be put on your head so that you seamlessly switch between the physical and digital world. The best part about it is you can take it out after two minutes, because it is such a headache to have it on. If you don&amp;rsquo;t believe me, try putting a 500 gram object on your head - which will be lighter than this headset. it is just too unnecessary. they really expect people to keep wearing this like a bunch of zombies; And whenever they feel like activating their digital world, it is a button away, all of which is controlled by (you guessed it) &lt;em&gt;apple!&lt;/em&gt;&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/blog/normie-using-apple-vision-pro.png&#34; width=&#34;500px&#34;/&gt;
+&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/normie-using-apple-vision-pro.png&#34; width=&#34;500px&#34;/&gt;
 &lt;/figure&gt;
 
 &lt;center&gt;
@@ -908,15 +991,15 @@ likes to call it their first &amp;ldquo;&lt;a href=&#34;https://www.apple.com/in
     
     <item>
       <title>12th Fail</title>
-      <link>http://localhost:1313/blog/12th-fail/</link>
+      <link>https://unchaineddev.github.io/blog/12th-fail/</link>
       <pubDate>Sun, 14 Jan 2024 07:13:55 +0530</pubDate>
       
-      <guid>http://localhost:1313/blog/12th-fail/</guid>
+      <guid>https://unchaineddev.github.io/blog/12th-fail/</guid>
       <description>
         
         
         &lt;center&gt;
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/blog/12th-fail.jpg&#34; width=&#34;500px&#34;/&gt;
+&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/12th-fail.jpg&#34; width=&#34;500px&#34;/&gt;
 &lt;/figure&gt;
 
 &lt;/center&gt;
@@ -931,10 +1014,10 @@ likes to call it their first &amp;ldquo;&lt;a href=&#34;https://www.apple.com/in
     
     <item>
       <title>Best Films - 2023</title>
-      <link>http://localhost:1313/blog/best-films-2023/</link>
+      <link>https://unchaineddev.github.io/blog/best-films-2023/</link>
       <pubDate>Thu, 21 Dec 2023 20:05:33 +0530</pubDate>
       
-      <guid>http://localhost:1313/blog/best-films-2023/</guid>
+      <guid>https://unchaineddev.github.io/blog/best-films-2023/</guid>
       <description>
         
         
@@ -1024,10 +1107,10 @@ likes to call it their first &amp;ldquo;&lt;a href=&#34;https://www.apple.com/in
     
     <item>
       <title>Django Project Structure</title>
-      <link>http://localhost:1313/blog/django-structure/</link>
+      <link>https://unchaineddev.github.io/blog/django-structure/</link>
       <pubDate>Sat, 16 Dec 2023 20:00:39 +0530</pubDate>
       
-      <guid>http://localhost:1313/blog/django-structure/</guid>
+      <guid>https://unchaineddev.github.io/blog/django-structure/</guid>
       <description>
         
         
@@ -1241,10 +1324,10 @@ likes to call it their first &amp;ldquo;&lt;a href=&#34;https://www.apple.com/in
     
     <item>
       <title>Archiving Files Using Tar</title>
-      <link>http://localhost:1313/blog/archiving-files-using-tar/</link>
+      <link>https://unchaineddev.github.io/blog/archiving-files-using-tar/</link>
       <pubDate>Thu, 09 Nov 2023 19:46:04 +0530</pubDate>
       
-      <guid>http://localhost:1313/blog/archiving-files-using-tar/</guid>
+      <guid>https://unchaineddev.github.io/blog/archiving-files-using-tar/</guid>
       <description>
         
         
@@ -1344,17 +1427,17 @@ likes to call it their first &amp;ldquo;&lt;a href=&#34;https://www.apple.com/in
     
     <item>
       <title>70 Hours per Week</title>
-      <link>http://localhost:1313/blog/70-hours-per-week/</link>
+      <link>https://unchaineddev.github.io/blog/70-hours-per-week/</link>
       <pubDate>Wed, 01 Nov 2023 06:02:19 +0530</pubDate>
       
-      <guid>http://localhost:1313/blog/70-hours-per-week/</guid>
+      <guid>https://unchaineddev.github.io/blog/70-hours-per-week/</guid>
       <description>
         
         
         &lt;p&gt;&lt;em&gt;Infosys&lt;/em&gt; founder Narayana Murthy recently said that, young Indians must work 70 hours a week. &amp;ndash; a phenomenal recommendation from a prominent capitalist. I respect his achievements but a statement like this makes me want to question his intelligence or, take any of these wise old men seriously. His idea is if you want India to realize its economic potential every young Indian must say: &lt;em&gt;&amp;ldquo;This is my country. I want to work 70 hours a week.&amp;rdquo;&lt;/em&gt; &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;br&gt; 
 &lt;center&gt;
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/blog/modern-slave.jpg&#34; width=&#34;400px&#34;/&gt;
+&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/modern-slave.jpg&#34; width=&#34;400px&#34;/&gt;
 &lt;/figure&gt;
  
 &lt;/center&gt;
@@ -1381,10 +1464,10 @@ you are our &lt;em&gt;modern slave&lt;/em&gt;.&lt;/p&gt;
     
     <item>
       <title>In Support for Palestine</title>
-      <link>http://localhost:1313/blog/support-for-palestine/</link>
+      <link>https://unchaineddev.github.io/blog/support-for-palestine/</link>
       <pubDate>Fri, 20 Oct 2023 20:09:31 +0530</pubDate>
       
-      <guid>http://localhost:1313/blog/support-for-palestine/</guid>
+      <guid>https://unchaineddev.github.io/blog/support-for-palestine/</guid>
       <description>
         
         
@@ -1400,7 +1483,7 @@ If it does not happen to you, that doesn&amp;rsquo;t mean you need to turn a bli
 &lt;ul&gt;
 &lt;li&gt;Social tensions after World War II convinced the &amp;ldquo;Zionist Jews&amp;rdquo; that they need their own country.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. 20 years later, here&amp;rsquo;s how Palestine occupied area looks like:&lt;/li&gt;
 &lt;/ul&gt;
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/blog/palestine.jpg&#34; width=&#34;400px&#34;/&gt;
+&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/palestine.jpg&#34; width=&#34;400px&#34;/&gt;
 &lt;/figure&gt;
 
 &lt;ul&gt;
@@ -1437,17 +1520,17 @@ It seems to me a matter of simple common sense that we cannot ask to be given po
     
     <item>
       <title>The Story Of My Experiments With Truth</title>
-      <link>http://localhost:1313/blog/gandhi/</link>
+      <link>https://unchaineddev.github.io/blog/gandhi/</link>
       <pubDate>Sun, 01 Oct 2023 00:19:03 +0530</pubDate>
       
-      <guid>http://localhost:1313/blog/gandhi/</guid>
+      <guid>https://unchaineddev.github.io/blog/gandhi/</guid>
       <description>
         
         
         &lt;p&gt;In hindsight it might seem like we are not affected by history, however, for the most part we are. Take a currency note for instance. Did you ever reflect on the man behind the note?
 His truths, legacy, philosophy, or principles for that matter, that left an indelible mark on our history.&lt;/p&gt;
 &lt;center&gt;
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/blog/rupee-note.jpg&#34; width=&#34;400px&#34;/&gt;
+&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/rupee-note.jpg&#34; width=&#34;400px&#34;/&gt;
 &lt;/figure&gt;
  
 &lt;/center&gt;
@@ -1457,7 +1540,7 @@ There are 5 parts in his book, and I will go over all the key learnings from the
     &lt;a href=&#34;#part-1---early-life&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Gandhi was born in Porbandar to a devout Hindu family. His father, Karam Chand was an esteemed minister and his mother, Putlibai, a religious and an intelligent woman. It was from his mother Gandhi reveals, that shaped his spiritual beliefs in the years to come. He was married at the age of thirteen, a child marriage commonplace during the time that weighed heavily on his conscience. a bitter truth he remorsely conveys that cast a shadow on his understanding of personal freedom.&lt;/p&gt;
 &lt;p&gt;Throughout the chapters of &lt;strong&gt;Part 1&lt;/strong&gt;, Gandhi confesses his shy nature and the ingenious ways he overcame it. He was an introvert finding delight in books. While I was eagerly flipping through the pages, it was abundantly clear to me that Gandhi was exceptionally well-read. He devoured knowledge across diverse subjects. Religion, Vegetarianism, Philosophy, you name it. In the truest sense, he was honest unlike any other. It takes an honest man some grit to reveal to his readers his shortcomings. Our man does that throughout these pages. Starting with an incident in his school days, where he was (wait for it) accused of lying! He had skipped a gymnastics class to be a nurse to his sick father. He states that it was the last careless incident of his school days, however, not of his childhood days though.&lt;/p&gt;
 &lt;center&gt;
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/blog/young-gandhi.jpg&#34; width=&#34;400px&#34;/&gt;
+&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/young-gandhi.jpg&#34; width=&#34;400px&#34;/&gt;
 &lt;/figure&gt;
  
 &lt;/center&gt;
@@ -1468,7 +1551,7 @@ There are 5 parts in his book, and I will go over all the key learnings from the
 &lt;p&gt;&lt;em&gt;&amp;lsquo;Do not talk loudly, never address people &amp;ldquo;sir&amp;rdquo; whilst speaking to them, as we do in India; only servants and subordinates address theirs masters that way.&amp;rsquo;&lt;/em&gt;
 &lt;br&gt;&lt;/p&gt;
 &lt;center&gt;
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/blog/sir.jpg&#34; width=&#34;400px&#34;/&gt;
+&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/sir.jpg&#34; width=&#34;400px&#34;/&gt;
 &lt;/figure&gt;
  
 &lt;/center&gt;
@@ -1479,7 +1562,7 @@ There are 5 parts in his book, and I will go over all the key learnings from the
     &lt;a href=&#34;#part-2---experience-in-africa&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;In the annals of history, Gandhi&amp;rsquo;s encounter with racism in South Africa remains a poignant chapter. In this section of the book, he shares his experience at length about being ejected out of his first-class passenger seat, his battle against color prejudice and racism, his Christian contacts whose support helped him deeply in his quest for finding God and spiritual enlightenment.&lt;/p&gt;
 &lt;p&gt;To acquire true knowledge, Gandhi says, one must have a guru. a mentor to mold one&amp;rsquo;s progress and self-growth. A result of which yields a moral standing and strength. He pays tribute to Raychandbhai, who taught him the importance of self-discipline and truthfulness to Gopal Krishna Gokhale&amp;rsquo;s influence that shaped his political activism. Additionally, he speaks of other notable figures namely Leo Tolstoy, whose prose had influenced his view of the world profoundly.&lt;/p&gt;
 &lt;center&gt;
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/blog/mentor.jpg&#34; width=&#34;400px&#34;/&gt;
+&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/mentor.jpg&#34; width=&#34;400px&#34;/&gt;
 &lt;/figure&gt;
  
 &lt;/center&gt;
@@ -1494,7 +1577,7 @@ For instance, he believes, vows don&amp;rsquo;t close the door to freedom but op
 And caring for children is inconsistent (more on this later) with doing public work, which again is quite the contrary.&lt;/p&gt;
 &lt;p&gt;When faced with adversity, Gandhi doesn&amp;rsquo;t succumb. He recounts a tough moment when his son, Manilal fell ill, and the doctor prescribed eggs and chicken broth, which is contrary to Gandhi&amp;rsquo;s vegetarianism principles. This situation truly tested his conviction. Nevertheless, Gandhi perseveres and sticks to his values, and &lt;em&gt;cares&lt;/em&gt; for his son, leaving no stone unturned.&lt;/p&gt;
 &lt;center&gt;
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/blog/veggies.jpg&#34; width=&#34;400px&#34;/&gt;
+&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/veggies.jpg&#34; width=&#34;400px&#34;/&gt;
 &lt;/figure&gt;
 
 &lt;/center&gt;
@@ -1519,17 +1602,17 @@ Truth and non-violence are as old as the hills.
     
     <item>
       <title>custom domain for github pages</title>
-      <link>http://localhost:1313/blog/custom-domain/</link>
+      <link>https://unchaineddev.github.io/blog/custom-domain/</link>
       <pubDate>Tue, 26 Sep 2023 08:16:04 +0530</pubDate>
       
-      <guid>http://localhost:1313/blog/custom-domain/</guid>
+      <guid>https://unchaineddev.github.io/blog/custom-domain/</guid>
       <description>
         
         
         &lt;p&gt;There are far more problems in the world than setting up a custom domain. it&amp;rsquo;s ridiculous how a simple thing is made so complicated that any new user would break their head trying to make it work.&lt;/p&gt;
 &lt;p&gt;in this blog, i will share how to set up a custom domain using github pages.&lt;/p&gt;
 &lt;center&gt;
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/blog/custom-domain.jpg&#34; width=&#34;500px&#34;/&gt;
+&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/custom-domain.jpg&#34; width=&#34;500px&#34;/&gt;
 &lt;/figure&gt;
 
 &lt;/center&gt;
@@ -1565,7 +1648,7 @@ it&amp;rsquo;s pretty straight-forward.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;After saving both CNAME records, the result should look like this.&lt;/p&gt;
 &lt;center&gt;
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/blog/add-records.png&#34; width=&#34;500px&#34;/&gt;
+&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/add-records.png&#34; width=&#34;500px&#34;/&gt;
 &lt;/figure&gt;
  
 &lt;/center&gt;
@@ -1581,7 +1664,7 @@ and they are as follows:&lt;/li&gt;
 &lt;/center&gt;
 &lt;p&gt;After saving all the A records, the result should look like this.&lt;/p&gt;
 &lt;center&gt;
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/blog/a-records.png&#34; width=&#34;500px&#34;/&gt;
+&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/a-records.png&#34; width=&#34;500px&#34;/&gt;
 &lt;/figure&gt;
  
 &lt;/center&gt;
@@ -1607,10 +1690,10 @@ and they are as follows:&lt;/li&gt;
     
     <item>
       <title>mpv scripts</title>
-      <link>http://localhost:1313/blog/mpv-scripts/</link>
+      <link>https://unchaineddev.github.io/blog/mpv-scripts/</link>
       <pubDate>Mon, 18 Sep 2023 08:36:10 +0530</pubDate>
       
-      <guid>http://localhost:1313/blog/mpv-scripts/</guid>
+      <guid>https://unchaineddev.github.io/blog/mpv-scripts/</guid>
       <description>
         
         
@@ -1628,7 +1711,7 @@ and they are as follows:&lt;/li&gt;
 &lt;li&gt;&lt;i&gt;as easy as saving the file in your &lt;code&gt;scripts/&lt;/code&gt; folder.&lt;/i&gt;&lt;/li&gt;
 &lt;li&gt;press &lt;em&gt;TAB&lt;/em&gt; to display the chapters.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/blog/mpv-chapters.png&#34;
+&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/mpv-chapters.png&#34;
          alt=&#34;https://github.com/zxhzxhz/mpv-chapters&#34;/&gt;&lt;figcaption&gt;
             &lt;p&gt;&lt;a href=&#34;https://github.com/zxhzxhz/mpv-chapters&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/zxhzxhz/mpv-chapters&lt;/a&gt;&lt;/p&gt;
         &lt;/figcaption&gt;
@@ -1637,7 +1720,7 @@ and they are as follows:&lt;/li&gt;
 &lt;h4&gt;2. mpv thumbnails script&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;2-mpv-thumbnails-script2&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#2-mpv-thumbnails-script2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;&lt;br&gt;
 Display preview thumbnails when hovering over the seekbar.&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/blog/mpv-thumbnails.gif&#34;
+&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/mpv-thumbnails.gif&#34;
          alt=&#34;https://github.com/marzzzello/mpv_thumbnail_script&#34;/&gt;&lt;figcaption&gt;
             &lt;p&gt;&lt;a href=&#34;https://github.com/marzzzello/mpv_thumbnail_script&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/marzzzello/mpv_thumbnail_script&lt;/a&gt;&lt;/p&gt;
         &lt;/figcaption&gt;
@@ -1666,17 +1749,17 @@ Display preview thumbnails when hovering over the seekbar.&lt;/p&gt;
     
     <item>
       <title>jawan - a review</title>
-      <link>http://localhost:1313/blog/jawan/</link>
+      <link>https://unchaineddev.github.io/blog/jawan/</link>
       <pubDate>Thu, 14 Sep 2023 19:27:10 +0530</pubDate>
       
-      <guid>http://localhost:1313/blog/jawan/</guid>
+      <guid>https://unchaineddev.github.io/blog/jawan/</guid>
       <description>
         
         
         &lt;p&gt;last thursday, i went to watch the socio-political action thriller, &amp;ldquo;Jawan&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;there were two compelling reasons i couldn&amp;rsquo;t afford to miss this film: first, my unwavering admiration for the superstar &lt;em&gt;Shah Rukh Khan&lt;/em&gt;, and second, my curiosity about the unique mummified look that had been teased.&lt;/p&gt;
 &lt;center&gt;
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/blog/jawan.png&#34; width=&#34;400px&#34;/&gt;
+&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/jawan.png&#34; width=&#34;400px&#34;/&gt;
 &lt;/figure&gt;
 
 &lt;/center&gt;
@@ -1692,10 +1775,10 @@ Display preview thumbnails when hovering over the seekbar.&lt;/p&gt;
     
     <item>
       <title>solving captchas</title>
-      <link>http://localhost:1313/blog/solving-captchas/</link>
+      <link>https://unchaineddev.github.io/blog/solving-captchas/</link>
       <pubDate>Sun, 10 Sep 2023 09:42:30 +0530</pubDate>
       
-      <guid>http://localhost:1313/blog/solving-captchas/</guid>
+      <guid>https://unchaineddev.github.io/blog/solving-captchas/</guid>
       <description>
         
         
@@ -1703,7 +1786,7 @@ Display preview thumbnails when hovering over the seekbar.&lt;/p&gt;
 solving captcha programatically is a pain. me and this other dude at work took about two weeks to solve version 2 of google recaptcha which we learned later, was an enterprise versioned captcha. i did not understand what that meant, until i read between the lines of the docs.&lt;/p&gt;
 &lt;p&gt;this blog is a simple sidenote on how to solve recaptcha (v2) with 2captcha API. you can read the &lt;a href=&#34;https://2captcha.com/2captcha-api#solving_captchas&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;docs&lt;/a&gt;, which btw, is amazing.&lt;/p&gt;
 &lt;center&gt;
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/blog/recaptchav2.gif&#34; width=&#34;250px&#34;/&gt;
+&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/recaptchav2.gif&#34; width=&#34;250px&#34;/&gt;
 &lt;/figure&gt;
 
 &lt;/center&gt;
@@ -1715,13 +1798,13 @@ solving captcha programatically is a pain. me and this other dude at work took a
 &lt;h3&gt;step 1&lt;span class=&#34;absolute -mt-20&#34; id=&#34;step-1&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#step-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;right click around the captcha area &amp;ndash;&amp;gt; inspect element&lt;/p&gt;
 &lt;center&gt;
-&lt;figure class=&#34;photoswipe&#34;&gt;&lt;img src=&#34;http://localhost:1313/blog/inspectelement.png&#34; width=&#34;350px&#34;/&gt;
+&lt;figure class=&#34;photoswipe&#34;&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/inspectelement.png&#34; width=&#34;350px&#34;/&gt;
 &lt;/figure&gt;
 &lt;/center&gt;
 &lt;h3&gt;step 2&lt;span class=&#34;absolute -mt-20&#34; id=&#34;step-2&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#step-2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;find the &amp;ldquo;data-sitekey&amp;rdquo; parameter and copy the value. this will be the &amp;lsquo;googlekey&amp;rsquo; value.&lt;/p&gt;
 &lt;center&gt;
-&lt;figure class=&#34;photoswipe&#34;&gt;&lt;img src=&#34;http://localhost:1313/blog/sitekey_recaptcha.png&#34; width=&#34;600px&#34;/&gt;
+&lt;figure class=&#34;photoswipe&#34;&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/sitekey_recaptcha.png&#34; width=&#34;600px&#34;/&gt;
 &lt;/figure&gt;
 &lt;/center&gt;
 &lt;h3&gt;step 3&lt;span class=&#34;absolute -mt-20&#34; id=&#34;step-3&#34;&gt;&lt;/span&gt;
@@ -1784,7 +1867,7 @@ refer the &lt;a href=&#34;https://2captcha.com/2captcha-api#error_handling&#34; 
 &lt;h3&gt;step 6&lt;span class=&#34;absolute -mt-20&#34; id=&#34;step-6&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#step-6&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;in developer&amp;rsquo;s console, find the textarea with id=&amp;ldquo;g-recaptcha-response&amp;rdquo;, and send the received code.&lt;/p&gt;
 &lt;center&gt;
-&lt;figure class=&#34;photoswipe&#34;&gt;&lt;img src=&#34;http://localhost:1313/blog/g_recaptcha_response.png&#34; width=&#34;600px&#34;/&gt;
+&lt;figure class=&#34;photoswipe&#34;&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/g_recaptcha_response.png&#34; width=&#34;600px&#34;/&gt;
 &lt;/figure&gt;
 &lt;/center&gt;
 &lt;p&gt;i used selenium to send the code back like so:&lt;/p&gt;
@@ -1811,10 +1894,10 @@ refer the &lt;a href=&#34;https://2captcha.com/2captcha-api#error_handling&#34; 
     
     <item>
       <title>first blog</title>
-      <link>http://localhost:1313/blog/firstblog/</link>
+      <link>https://unchaineddev.github.io/blog/firstblog/</link>
       <pubDate>Mon, 04 Sep 2023 21:46:50 +0530</pubDate>
       
-      <guid>http://localhost:1313/blog/firstblog/</guid>
+      <guid>https://unchaineddev.github.io/blog/firstblog/</guid>
       <description>
         
         
@@ -1841,7 +1924,7 @@ i can share this one link with anyone and BOOM! access to everything i post. sou
 &lt;br&gt;
 i like my hecking site and i hope you do too.&lt;/p&gt;
 &lt;p&gt;if you find any issues with
-my site, you can submit it &lt;a href=&#34;https://github.com/unchaineddev/unchaineddev.github.io/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; or contact &lt;a href=&#34;http://localhost:1313/contact&#34; &gt;me&lt;/a&gt;&lt;/p&gt;
+my site, you can submit it &lt;a href=&#34;https://github.com/unchaineddev/unchaineddev.github.io/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; or contact &lt;a href=&#34;https://unchaineddev.github.io/contact&#34; &gt;me&lt;/a&gt;&lt;/p&gt;
 
       </description>
     </item>
