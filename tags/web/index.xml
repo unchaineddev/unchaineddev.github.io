@@ -118,7 +118,7 @@ targeted by malicious actors.&lt;/p&gt;
         &lt;p&gt;There are far more problems in the world than setting up a custom domain. it&amp;rsquo;s ridiculous how a simple thing is made so complicated that any new user would break their head trying to make it work.&lt;/p&gt;
 &lt;p&gt;in this blog, i will share how to set up a custom domain using github pages.&lt;/p&gt;
 &lt;center&gt;
-&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/custom-domain.jpg&#34; width=&#34;500px&#34;/&gt;
+&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/custom-domain.jpg&#34; width=&#34;500px&#34;&gt;
 &lt;/figure&gt;
 
 &lt;/center&gt;
@@ -154,7 +154,7 @@ it&amp;rsquo;s pretty straight-forward.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;After saving both CNAME records, the result should look like this.&lt;/p&gt;
 &lt;center&gt;
-&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/add-records.png&#34; width=&#34;500px&#34;/&gt;
+&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/add-records.png&#34; width=&#34;500px&#34;&gt;
 &lt;/figure&gt;
  
 &lt;/center&gt;
@@ -170,7 +170,7 @@ and they are as follows:&lt;/li&gt;
 &lt;/center&gt;
 &lt;p&gt;After saving all the A records, the result should look like this.&lt;/p&gt;
 &lt;center&gt;
-&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/a-records.png&#34; width=&#34;500px&#34;/&gt;
+&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/a-records.png&#34; width=&#34;500px&#34;&gt;
 &lt;/figure&gt;
  
 &lt;/center&gt;

@@ -230,18 +230,18 @@ comes great responsibility.&lt;/em&gt;&lt;/p&gt;
 &lt;li&gt;press &lt;em&gt;TAB&lt;/em&gt; to display the chapters.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/mpv-chapters.png&#34;
-         alt=&#34;https://github.com/zxhzxhz/mpv-chapters&#34;/&gt;&lt;figcaption&gt;
-            &lt;p&gt;&lt;a href=&#34;https://github.com/zxhzxhz/mpv-chapters&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/zxhzxhz/mpv-chapters&lt;/a&gt;&lt;/p&gt;
-        &lt;/figcaption&gt;
+    alt=&#34;https://github.com/zxhzxhz/mpv-chapters&#34;&gt;&lt;figcaption&gt;
+      &lt;p&gt;&lt;a href=&#34;https://github.com/zxhzxhz/mpv-chapters&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/zxhzxhz/mpv-chapters&lt;/a&gt;&lt;/p&gt;
+    &lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;h4&gt;2. mpv thumbnails script&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;2-mpv-thumbnails-script2&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#2-mpv-thumbnails-script2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;&lt;br&gt;
 Display preview thumbnails when hovering over the seekbar.&lt;/p&gt;
 &lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/mpv-thumbnails.gif&#34;
-         alt=&#34;https://github.com/marzzzello/mpv_thumbnail_script&#34;/&gt;&lt;figcaption&gt;
-            &lt;p&gt;&lt;a href=&#34;https://github.com/marzzzello/mpv_thumbnail_script&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/marzzzello/mpv_thumbnail_script&lt;/a&gt;&lt;/p&gt;
-        &lt;/figcaption&gt;
+    alt=&#34;https://github.com/marzzzello/mpv_thumbnail_script&#34;&gt;&lt;figcaption&gt;
+      &lt;p&gt;&lt;a href=&#34;https://github.com/marzzzello/mpv_thumbnail_script&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/marzzzello/mpv_thumbnail_script&lt;/a&gt;&lt;/p&gt;
+    &lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;h5&gt;Setup&lt;span class=&#34;absolute -mt-20&#34; id=&#34;setup&#34;&gt;&lt;/span&gt;
