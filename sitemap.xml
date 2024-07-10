@@ -2,13 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://unchaineddev.github.io/blog/</loc>
+    <lastmod>2024-06-29T07:12:53+05:30</lastmod>
+  </url><url>
+    <loc>https://unchaineddev.github.io/blog/keeping-pictures/</loc>
+    <lastmod>2024-06-29T07:12:53+05:30</lastmod>
+  </url><url>
+    <loc>https://unchaineddev.github.io/tags/life/</loc>
+    <lastmod>2024-06-29T07:12:53+05:30</lastmod>
+  </url><url>
+    <loc>https://unchaineddev.github.io/tags/lifestyle/</loc>
+    <lastmod>2024-06-29T07:12:53+05:30</lastmod>
+  </url><url>
+    <loc>https://unchaineddev.github.io/tags/philosophy/</loc>
+    <lastmod>2024-06-29T07:12:53+05:30</lastmod>
+  </url><url>
+    <loc>https://unchaineddev.github.io/tags/privacy/</loc>
+    <lastmod>2024-06-29T07:12:53+05:30</lastmod>
+  </url><url>
+    <loc>https://unchaineddev.github.io/tags/</loc>
+    <lastmod>2024-06-29T07:12:53+05:30</lastmod>
+  </url><url>
+    <loc>https://unchaineddev.github.io/</loc>
+    <lastmod>2024-06-29T07:12:53+05:30</lastmod>
+  </url><url>
     <loc>https://unchaineddev.github.io/blog/best-films-so-far-2024/</loc>
     <lastmod>2024-06-24T20:13:56+05:30</lastmod>
   </url><url>
-    <loc>https://unchaineddev.github.io/blog/</loc>
-    <lastmod>2024-06-24T20:13:56+05:30</lastmod>
-  </url><url>
-    <loc>https://unchaineddev.github.io/</loc>
+    <loc>https://unchaineddev.github.io/tags/film/</loc>
     <lastmod>2024-06-24T20:13:56+05:30</lastmod>
   </url><url>
     <loc>https://unchaineddev.github.io/tools/</loc>
@@ -23,13 +44,7 @@
     <loc>https://unchaineddev.github.io/braindump/shutil/</loc>
     <lastmod>2024-06-01T08:55:22+05:30</lastmod>
   </url><url>
-    <loc>https://unchaineddev.github.io/tags/</loc>
-    <lastmod>2024-06-01T08:55:22+05:30</lastmod>
-  </url><url>
     <loc>https://unchaineddev.github.io/tags/finance/</loc>
-    <lastmod>2024-05-01T08:19:00+05:30</lastmod>
-  </url><url>
-    <loc>https://unchaineddev.github.io/tags/life/</loc>
     <lastmod>2024-05-01T08:19:00+05:30</lastmod>
   </url><url>
     <loc>https://unchaineddev.github.io/braindump/zero1-fest-2024/</loc>
@@ -44,13 +59,7 @@
     <loc>https://unchaineddev.github.io/blog/letters-from-a-stoic/</loc>
     <lastmod>2024-04-19T07:54:08+05:30</lastmod>
   </url><url>
-    <loc>https://unchaineddev.github.io/tags/lifestyle/</loc>
-    <lastmod>2024-04-19T07:54:08+05:30</lastmod>
-  </url><url>
     <loc>https://unchaineddev.github.io/tags/literature/</loc>
-    <lastmod>2024-04-19T07:54:08+05:30</lastmod>
-  </url><url>
-    <loc>https://unchaineddev.github.io/tags/philosophy/</loc>
     <lastmod>2024-04-19T07:54:08+05:30</lastmod>
   </url><url>
     <loc>https://unchaineddev.github.io/tags/poetry/</loc>
@@ -61,12 +70,6 @@
   </url><url>
     <loc>https://unchaineddev.github.io/tags/technology/</loc>
     <lastmod>2024-04-16T18:19:29+05:30</lastmod>
-  </url><url>
-    <loc>https://unchaineddev.github.io/tags/privacy/</loc>
-    <lastmod>2024-04-13T06:49:22+05:30</lastmod>
-  </url><url>
-    <loc>https://unchaineddev.github.io/blog/two-phones/</loc>
-    <lastmod>2024-04-13T06:49:22+05:30</lastmod>
   </url><url>
     <loc>https://unchaineddev.github.io/blog/coffee-can-investing/</loc>
     <lastmod>2024-04-06T11:58:39+05:30</lastmod>
@@ -81,9 +84,6 @@
     <lastmod>2024-04-03T05:21:33+05:30</lastmod>
   </url><url>
     <loc>https://unchaineddev.github.io/blog/dune-part-two/</loc>
-    <lastmod>2024-04-02T06:37:14+05:30</lastmod>
-  </url><url>
-    <loc>https://unchaineddev.github.io/tags/film/</loc>
     <lastmod>2024-04-02T06:37:14+05:30</lastmod>
   </url><url>
     <loc>https://unchaineddev.github.io/tags/linux/</loc>
@@ -109,9 +109,6 @@
   </url><url>
     <loc>https://unchaineddev.github.io/blog/sphinx/</loc>
     <lastmod>2024-03-01T06:33:38+05:30</lastmod>
-  </url><url>
-    <loc>https://unchaineddev.github.io/blog/stop-using-whatsapp/</loc>
-    <lastmod>2024-02-18T21:05:35+05:30</lastmod>
   </url><url>
     <loc>https://unchaineddev.github.io/braindump/ytdlp/</loc>
     <lastmod>2024-02-17T09:09:37+05:30</lastmod>

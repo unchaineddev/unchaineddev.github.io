@@ -5,7 +5,7 @@
     <description>Recent content in Philosophy on Unchained Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Apr 2024 07:54:08 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jun 2024 07:12:53 +0530</lastBuildDate>
     
 	  <atom:link href="https://unchaineddev.github.io/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,6 +14,41 @@
         
       
     
+    
+    <item>
+      <title>Keeping Pictures</title>
+      <link>https://unchaineddev.github.io/blog/keeping-pictures/</link>
+      <pubDate>Sat, 29 Jun 2024 07:12:53 +0530</pubDate>
+      
+      <guid>https://unchaineddev.github.io/blog/keeping-pictures/</guid>
+      <description>
+        
+        
+        &lt;p&gt;For as long as I can remember, I hated the idea of keeping old pictures. I have
+always found myself deleting them like &lt;u&gt; bad memories. &lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;In a world where marketing and physical appearance reign supreme, I shied away
+from keeping pictures in my adolescent years. My insecurities often kept me
+from embracing moments, making me uncomfortable whenever someone wanted to take
+a picture with me.&lt;/p&gt;
+&lt;p&gt;I believe this worsened from the profound impact of social media in my life.
+With great severity, big tech companies were aggressively pushing their apps on
+our faces during that period. It was truly overwhelming. Falling victim to such
+a phenomenon feels more or less being enslaved. Facebook, Instagram, Snapchat,
+Twitter: these are apps which you do not really need in your day-to-day life. I
+have come to realize they thrive on your insecurities. Nonetheless, I digress.&lt;/p&gt;
+&lt;p&gt;I had this unusual philosophy about pictures. I&amp;rsquo;m not sure where I picked it
+from — maybe something I read or heard, I don&amp;rsquo;t know. I can be a bit
+philosophical &lt;del&gt;sometimes&lt;/del&gt;, you know. The idea centered around &lt;em&gt;complete focus
+on the moment itself, rather than documenting it&lt;/em&gt;. Extending to this idea,
+there was another that suggested &lt;em&gt;great memories are those deeply etched in
+your mind, something you can look back on and feel, rather than just see in the
+form of media.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Funny thing as I write this and reflect on the past few years, I&amp;rsquo;ve noticed a
+strange habit: I find myself meticulously organizing my pictures in different
+folders.&lt;/p&gt;
+
+      </description>
+    </item>
     
     <item>
       <title>Letters From A Stoic</title>
@@ -140,74 +175,6 @@ mutual improvement.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Two Phones, Too Much?</title>
-      <link>https://unchaineddev.github.io/blog/two-phones/</link>
-      <pubDate>Sat, 13 Apr 2024 06:49:22 +0530</pubDate>
-      
-      <guid>https://unchaineddev.github.io/blog/two-phones/</guid>
-      <description>
-        
-        
-        &lt;p&gt;When I was starting out as a working professional two years ago, I made a
-pivotal decision that would redefine the way I interact with technologies. As a
-privacy advocate and free software enthusiast, my aim was to reduce my reliance
-on Google Services and other non-free software. This decision propelled me to
-carry two phones to compartmentalize my online activity.&lt;/p&gt;
-&lt;p&gt;My primary phone is a Xiaomi Redmi Note 8, running LineageOS 18.1 and Android
-11 (without Google Services). My work/non-free software running phone is a
-Samsung M12 running Google Android 13 with OneUI version 5.1.&lt;/p&gt;
-&lt;center&gt;
-&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/redmi-samsung.jpg&#34; width=&#34;500px&#34;&gt;
-&lt;/figure&gt;
-
-&lt;/center&gt;
-&lt;p&gt;I bought Redmi a couple of months before covid-19. I loved how it boasted an
-impressive camera, long-lasting battery, in-fact it checked every box in
-the features department. The catch-22 was the intrusive personalized
-advertising and the burden of pre-installed bloatware on the device.&lt;/p&gt;
-&lt;p&gt;For obvious reasons, I switched to LineageOS because it offered a clean user
-experience, particularly enjoying its UI. Additionally, it provided regular
-security patches, a feature often lacking in the original MIUI. To this day, I
-still receive security patches in lineageOS which is just awesome. The
-trade-off sadly was a borked camera. * which I kind of got accustomed too :(&lt;/p&gt;
-&lt;p&gt;On the other hand, I relied on my Samsung Google Android device, particularly
-for financial transactions via UPI, using proprietary spyware like WhatsApp to
-be a part of pointless groups, order food through Zomato/Swiggy, book Uber, or
-engage in work activities such as checking mail.&lt;/p&gt;
-&lt;p&gt;Amidst all of this, I was consciously using free and open source applications
-(whenever possible) across both my devices. Some of them include:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;F-Droid&lt;/li&gt;
-&lt;li&gt;Brave Browser&lt;/li&gt;
-&lt;li&gt;KDE Connect&lt;/li&gt;
-&lt;li&gt;Mozilla Firefox (or any fork of it)&lt;/li&gt;
-&lt;li&gt;Signal Messenger&lt;/li&gt;
-&lt;li&gt;A few Simple Mobile Tools applications - Contacts, Gallery, Dialer. ( do not
-use it anymore since the apps are not open-source)&lt;/li&gt;
-&lt;li&gt;VLC Media Player&lt;/li&gt;
-&lt;li&gt;Telegram FOSS (fork)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Having two phones offer some other advantages which I can appreciate. Firstly,
-I won&amp;rsquo;t have to worry about battery life. With two devices, I can distribute my
-usage, lessening the strain on each battery. This ensures I always have a backup
-available in case one device runs out of power. Also since I&amp;rsquo;m not particularly
-fond of power banks, this setup suited me perfectly.&lt;/p&gt;
-&lt;p&gt;I also prefer keeping my data locally rather than storing it in the cloud. So I
-transitioned to storing all my media, documents, and important files on a hard
-drive, with backups stored on my devices. This approach ensures my data is
-easily accessible, under control and compartmentalized. This was perfect for
-my threat modeling, however it does come at a cost of inconvenience. Carrying
-two phones isn&amp;rsquo;t particularly comfortable, but it&amp;rsquo;s a compromise I&amp;rsquo;m willing to
-make.&lt;/p&gt;
-&lt;p&gt;So yeah, I am glad to have made this decision, and I am grateful for the community
-of developers and contributors who have built foss projects and made them
-publicly available for free.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Free software is a matter of liberty, not price. To understand the concept, you should think of &amp;lsquo;free&amp;rsquo; as in &amp;lsquo;free speech,&amp;rsquo; not as in &amp;lsquo;free beer&amp;rsquo;.&lt;/em&gt;&lt;/p&gt;
 
       </description>
     </item>
