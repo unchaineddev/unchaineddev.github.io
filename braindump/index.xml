@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Unchained Dev – Braindump</title>
-    <link>https://unchaineddev.github.io/braindump/</link>
+    <link>http://localhost:1313/braindump/</link>
     <description>Recent content in Braindump on Unchained Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 01 Jun 2024 08:55:22 +0530</lastBuildDate>
     
-	  <atom:link href="https://unchaineddev.github.io/braindump/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/braindump/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>shutil in python</title>
-      <link>https://unchaineddev.github.io/braindump/shutil/</link>
+      <link>http://localhost:1313/braindump/shutil/</link>
       <pubDate>Sat, 01 Jun 2024 08:55:22 +0530</pubDate>
       
-      <guid>https://unchaineddev.github.io/braindump/shutil/</guid>
+      <guid>http://localhost:1313/braindump/shutil/</guid>
       <description>
         
         
@@ -81,10 +81,10 @@
     
     <item>
       <title>MongoDB Setup</title>
-      <link>https://unchaineddev.github.io/braindump/mongodb-setup/</link>
+      <link>http://localhost:1313/braindump/mongodb-setup/</link>
       <pubDate>Tue, 16 Apr 2024 18:19:29 +0530</pubDate>
       
-      <guid>https://unchaineddev.github.io/braindump/mongodb-setup/</guid>
+      <guid>http://localhost:1313/braindump/mongodb-setup/</guid>
       <description>
         
         
@@ -169,10 +169,10 @@
     
     <item>
       <title>Signal Gets Usernames!</title>
-      <link>https://unchaineddev.github.io/braindump/signal-gets-usernames/</link>
+      <link>http://localhost:1313/braindump/signal-gets-usernames/</link>
       <pubDate>Wed, 06 Mar 2024 11:05:44 +0530</pubDate>
       
-      <guid>https://unchaineddev.github.io/braindump/signal-gets-usernames/</guid>
+      <guid>http://localhost:1313/braindump/signal-gets-usernames/</guid>
       <description>
         
         
@@ -183,7 +183,7 @@ to have when you do not want to share your number with someone for a chat. The p
 for sign up, however it will no longer be visible to everyone on Signal.&lt;/p&gt;
 &lt;p&gt;This is wonderful news for privacy and security enthusiasts, journalists, whistleblowers, and a big win
 for digital freedom.&lt;/p&gt;
-&lt;center&gt;&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/braindump/signal&#34; width=&#34;400px&#34;&gt;
+&lt;center&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/braindump/signal&#34; width=&#34;400px&#34;&gt;
 &lt;/figure&gt;
 &lt;/center&gt;
 
@@ -192,10 +192,10 @@ for digital freedom.&lt;/p&gt;
     
     <item>
       <title>Best way to download Youtube Videos</title>
-      <link>https://unchaineddev.github.io/braindump/ytdlp/</link>
+      <link>http://localhost:1313/braindump/ytdlp/</link>
       <pubDate>Sat, 17 Feb 2024 09:09:37 +0530</pubDate>
       
-      <guid>https://unchaineddev.github.io/braindump/ytdlp/</guid>
+      <guid>http://localhost:1313/braindump/ytdlp/</guid>
       <description>
         
         
@@ -279,10 +279,10 @@ for digital freedom.&lt;/p&gt;
     
     <item>
       <title>How to check CPU Usage in the Terminal?</title>
-      <link>https://unchaineddev.github.io/braindump/cpu-usage-terminal/</link>
+      <link>http://localhost:1313/braindump/cpu-usage-terminal/</link>
       <pubDate>Sun, 11 Feb 2024 18:31:46 +0530</pubDate>
       
-      <guid>https://unchaineddev.github.io/braindump/cpu-usage-terminal/</guid>
+      <guid>http://localhost:1313/braindump/cpu-usage-terminal/</guid>
       <description>
         
         
@@ -337,10 +337,10 @@ for digital freedom.&lt;/p&gt;
     
     <item>
       <title>Json Dump(s) vs Load(s)</title>
-      <link>https://unchaineddev.github.io/braindump/json-dumps-vs-loads/</link>
+      <link>http://localhost:1313/braindump/json-dumps-vs-loads/</link>
       <pubDate>Fri, 17 Nov 2023 20:00:52 +0530</pubDate>
       
-      <guid>https://unchaineddev.github.io/braindump/json-dumps-vs-loads/</guid>
+      <guid>http://localhost:1313/braindump/json-dumps-vs-loads/</guid>
       <description>
         
         
@@ -539,10 +539,10 @@ for digital freedom.&lt;/p&gt;
     
     <item>
       <title>Activate Virtual Environments in Powershell</title>
-      <link>https://unchaineddev.github.io/braindump/venv/</link>
+      <link>http://localhost:1313/braindump/venv/</link>
       <pubDate>Mon, 02 Oct 2023 21:27:10 +0530</pubDate>
       
-      <guid>https://unchaineddev.github.io/braindump/venv/</guid>
+      <guid>http://localhost:1313/braindump/venv/</guid>
       <description>
         
         
@@ -576,10 +576,10 @@ Nonetheless I am using it to familiarize myself with the commands.&lt;/p&gt;
     
     <item>
       <title>setting up proxies in selenium</title>
-      <link>https://unchaineddev.github.io/braindump/proxy-auth/</link>
+      <link>http://localhost:1313/braindump/proxy-auth/</link>
       <pubDate>Mon, 11 Sep 2023 20:32:32 +0530</pubDate>
       
-      <guid>https://unchaineddev.github.io/braindump/proxy-auth/</guid>
+      <guid>http://localhost:1313/braindump/proxy-auth/</guid>
       <description>
         
         

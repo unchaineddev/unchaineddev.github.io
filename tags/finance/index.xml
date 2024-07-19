@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Unchained Dev – Finance</title>
-    <link>https://unchaineddev.github.io/tags/finance/</link>
+    <link>http://localhost:1313/tags/finance/</link>
     <description>Recent content in Finance on Unchained Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 01 May 2024 08:19:00 +0530</lastBuildDate>
     
-	  <atom:link href="https://unchaineddev.github.io/tags/finance/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/tags/finance/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,15 +17,15 @@
     
     <item>
       <title>Zero1 Fest 2024</title>
-      <link>https://unchaineddev.github.io/blog/zero1-fest-2024/</link>
+      <link>http://localhost:1313/blog/zero1-fest-2024/</link>
       <pubDate>Wed, 01 May 2024 08:19:00 +0530</pubDate>
       
-      <guid>https://unchaineddev.github.io/blog/zero1-fest-2024/</guid>
+      <guid>http://localhost:1313/blog/zero1-fest-2024/</guid>
       <description>
         
         
         &lt;center&gt;
-&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/braindump/zero1.jpg&#34; width=&#34;700px&#34;&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/braindump/zero1.jpg&#34; width=&#34;700px&#34;&gt;
 &lt;/figure&gt;
 
 &lt;/center&gt;
@@ -48,10 +48,10 @@ Rahul Subramanian, Nas, among others, I still had a wonderful time!&lt;/p&gt;
     
     <item>
       <title>Coffee Can Investing - A Review</title>
-      <link>https://unchaineddev.github.io/blog/coffee-can-investing/</link>
+      <link>http://localhost:1313/blog/coffee-can-investing/</link>
       <pubDate>Sat, 06 Apr 2024 11:58:39 +0530</pubDate>
       
-      <guid>https://unchaineddev.github.io/blog/coffee-can-investing/</guid>
+      <guid>http://localhost:1313/blog/coffee-can-investing/</guid>
       <description>
         
         
