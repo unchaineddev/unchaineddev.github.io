@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Unchained Dev – Web</title>
-    <link>http://localhost:1313/tags/web/</link>
+    <link>https://unchaineddev.github.io/tags/web/</link>
     <description>Recent content in Web on Unchained Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 04 Apr 2024 06:50:07 +0530</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/tags/web/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://unchaineddev.github.io/tags/web/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>Integrate Umami on your Hugo Site</title>
-      <link>http://localhost:1313/blog/umami/</link>
+      <link>https://unchaineddev.github.io/blog/umami/</link>
       <pubDate>Thu, 04 Apr 2024 06:50:07 +0530</pubDate>
       
-      <guid>http://localhost:1313/blog/umami/</guid>
+      <guid>https://unchaineddev.github.io/blog/umami/</guid>
       <description>
         
         
@@ -67,10 +67,10 @@ Here&amp;rsquo;s how you can integrate it in your website &amp;ndash;&lt;/p&gt;
     
     <item>
       <title>Facebook Intercepts Web Traffic</title>
-      <link>http://localhost:1313/blog/fb-intercepts-web-traffic/</link>
+      <link>https://unchaineddev.github.io/blog/fb-intercepts-web-traffic/</link>
       <pubDate>Thu, 28 Mar 2024 12:47:09 +0530</pubDate>
       
-      <guid>http://localhost:1313/blog/fb-intercepts-web-traffic/</guid>
+      <guid>https://unchaineddev.github.io/blog/fb-intercepts-web-traffic/</guid>
       <description>
         
         
@@ -108,17 +108,17 @@ targeted by malicious actors.&lt;/p&gt;
     
     <item>
       <title>custom domain for github pages</title>
-      <link>http://localhost:1313/blog/custom-domain/</link>
+      <link>https://unchaineddev.github.io/blog/custom-domain/</link>
       <pubDate>Tue, 26 Sep 2023 08:16:04 +0530</pubDate>
       
-      <guid>http://localhost:1313/blog/custom-domain/</guid>
+      <guid>https://unchaineddev.github.io/blog/custom-domain/</guid>
       <description>
         
         
         &lt;p&gt;There are far more problems in the world than setting up a custom domain. it&amp;rsquo;s ridiculous how a simple thing is made so complicated that any new user would break their head trying to make it work.&lt;/p&gt;
 &lt;p&gt;in this blog, i will share how to set up a custom domain using github pages.&lt;/p&gt;
 &lt;center&gt;
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/blog/custom-domain.jpg&#34; width=&#34;500px&#34;&gt;
+&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/custom-domain.jpg&#34; width=&#34;500px&#34;&gt;
 &lt;/figure&gt;
 
 &lt;/center&gt;
@@ -154,7 +154,7 @@ it&amp;rsquo;s pretty straight-forward.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;After saving both CNAME records, the result should look like this.&lt;/p&gt;
 &lt;center&gt;
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/blog/add-records.png&#34; width=&#34;500px&#34;&gt;
+&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/add-records.png&#34; width=&#34;500px&#34;&gt;
 &lt;/figure&gt;
  
 &lt;/center&gt;
@@ -170,7 +170,7 @@ and they are as follows:&lt;/li&gt;
 &lt;/center&gt;
 &lt;p&gt;After saving all the A records, the result should look like this.&lt;/p&gt;
 &lt;center&gt;
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/blog/a-records.png&#34; width=&#34;500px&#34;&gt;
+&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/a-records.png&#34; width=&#34;500px&#34;&gt;
 &lt;/figure&gt;
  
 &lt;/center&gt;

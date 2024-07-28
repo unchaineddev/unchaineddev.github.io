@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Unchained Dev – Technology</title>
-    <link>http://localhost:1313/tags/technology/</link>
+    <link>https://unchaineddev.github.io/tags/technology/</link>
     <description>Recent content in Technology on Unchained Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 19 Jul 2024 17:31:19 +0530</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://unchaineddev.github.io/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,27 +16,40 @@
     
     
     <item>
-      <title>Classy Way to Go Down</title>
-      <link>http://localhost:1313/blog/classy-windows-move/</link>
+      <title>Classy Windows Way to Go Down</title>
+      <link>https://unchaineddev.github.io/blog/windows-ways-bsod/</link>
       <pubDate>Fri, 19 Jul 2024 17:31:19 +0530</pubDate>
       
-      <guid>http://localhost:1313/blog/classy-windows-move/</guid>
+      <guid>https://unchaineddev.github.io/blog/windows-ways-bsod/</guid>
       <description>
         
         
-        &lt;figure&gt;&lt;img src=&#34;http://localhost:1313/blog/bsod.jpeg&#34; width=&#34;300px&#34;&gt;
+        &lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/bsod.jpg&#34; width=&#34;800px&#34;&gt;
 &lt;/figure&gt;
 
+&lt;p&gt;Well, Well, Well! Looks like the &lt;em&gt;Windows&lt;/em&gt; experience today, July 19th 2024 was
+unprecedented.&lt;/p&gt;
+&lt;p&gt;In a truly Windows fashion, several systems running the operating system
+encountered the dreaded &lt;em&gt;Blue Screen Of Death&lt;/em&gt;, causing disruptions in banking,
+airlines, supermarkets, broadcasters, and corporate, to name a few.&lt;/p&gt;
+&lt;p&gt;It is funny to me, because I have dealt with so many BSODs in the past, that my
+last resort used to be a fresh install. I can only imagine the losses companies
+and other entities must have endured due to this, and the frustration of
+dealing with such an issue must be unmatched. I can also imagine people using
+linux systems having a good giggle on the side.&lt;/p&gt;
+&lt;p&gt;There are a lot of resources to fix the dreaded BSOD, but if you ask me, I&amp;rsquo;d
+say start with a reboot or two; If that doesn&amp;rsquo;t work, it might be time to close
+the Windows and embrace the penguin 🐧 with open arms.&lt;/p&gt;
 
       </description>
     </item>
     
     <item>
       <title>MongoDB Setup</title>
-      <link>http://localhost:1313/braindump/mongodb-setup/</link>
+      <link>https://unchaineddev.github.io/braindump/mongodb-setup/</link>
       <pubDate>Tue, 16 Apr 2024 18:19:29 +0530</pubDate>
       
-      <guid>http://localhost:1313/braindump/mongodb-setup/</guid>
+      <guid>https://unchaineddev.github.io/braindump/mongodb-setup/</guid>
       <description>
         
         
@@ -121,10 +134,10 @@
     
     <item>
       <title>Integrate Umami on your Hugo Site</title>
-      <link>http://localhost:1313/blog/umami/</link>
+      <link>https://unchaineddev.github.io/blog/umami/</link>
       <pubDate>Thu, 04 Apr 2024 06:50:07 +0530</pubDate>
       
-      <guid>http://localhost:1313/blog/umami/</guid>
+      <guid>https://unchaineddev.github.io/blog/umami/</guid>
       <description>
         
         
@@ -171,14 +184,14 @@ Here&amp;rsquo;s how you can integrate it in your website &amp;ndash;&lt;/p&gt;
     
     <item>
       <title>xz has a secret backdoor</title>
-      <link>http://localhost:1313/blog/xz-backdoor/</link>
+      <link>https://unchaineddev.github.io/blog/xz-backdoor/</link>
       <pubDate>Tue, 02 Apr 2024 05:20:58 +0530</pubDate>
       
-      <guid>http://localhost:1313/blog/xz-backdoor/</guid>
+      <guid>https://unchaineddev.github.io/blog/xz-backdoor/</guid>
       <description>
         
         
-        &lt;p&gt;I already made a blog post on &lt;a href=&#34;http://localhost:1313/blog/archiving-files-using-tar/&#34; &gt;archiving files using
+        &lt;p&gt;I already made a blog post on &lt;a href=&#34;https://unchaineddev.github.io/blog/archiving-files-using-tar/&#34; &gt;archiving files using
 tar&lt;/a&gt; that covered gzip, a utility tool
 to archive files with compression. In the same way, xz utils is an open-source
 lossless data compression tool primarily focused on the &lt;strong&gt;.xz&lt;/strong&gt; file format,
@@ -201,10 +214,10 @@ comes great responsibility.&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>Facebook Intercepts Web Traffic</title>
-      <link>http://localhost:1313/blog/fb-intercepts-web-traffic/</link>
+      <link>https://unchaineddev.github.io/blog/fb-intercepts-web-traffic/</link>
       <pubDate>Thu, 28 Mar 2024 12:47:09 +0530</pubDate>
       
-      <guid>http://localhost:1313/blog/fb-intercepts-web-traffic/</guid>
+      <guid>https://unchaineddev.github.io/blog/fb-intercepts-web-traffic/</guid>
       <description>
         
         
@@ -242,10 +255,10 @@ targeted by malicious actors.&lt;/p&gt;
     
     <item>
       <title>Signal Gets Usernames!</title>
-      <link>http://localhost:1313/braindump/signal-gets-usernames/</link>
+      <link>https://unchaineddev.github.io/braindump/signal-gets-usernames/</link>
       <pubDate>Wed, 06 Mar 2024 11:05:44 +0530</pubDate>
       
-      <guid>http://localhost:1313/braindump/signal-gets-usernames/</guid>
+      <guid>https://unchaineddev.github.io/braindump/signal-gets-usernames/</guid>
       <description>
         
         
@@ -256,7 +269,7 @@ to have when you do not want to share your number with someone for a chat. The p
 for sign up, however it will no longer be visible to everyone on Signal.&lt;/p&gt;
 &lt;p&gt;This is wonderful news for privacy and security enthusiasts, journalists, whistleblowers, and a big win
 for digital freedom.&lt;/p&gt;
-&lt;center&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/braindump/signal&#34; width=&#34;400px&#34;&gt;
+&lt;center&gt;&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/braindump/signal&#34; width=&#34;400px&#34;&gt;
 &lt;/figure&gt;
 &lt;/center&gt;
 
@@ -265,14 +278,14 @@ for digital freedom.&lt;/p&gt;
     
     <item>
       <title>Indus App Store</title>
-      <link>http://localhost:1313/blog/indus-app-store/</link>
+      <link>https://unchaineddev.github.io/blog/indus-app-store/</link>
       <pubDate>Sun, 03 Mar 2024 07:42:46 +0530</pubDate>
       
-      <guid>http://localhost:1313/blog/indus-app-store/</guid>
+      <guid>https://unchaineddev.github.io/blog/indus-app-store/</guid>
       <description>
         
         
-        &lt;figure&gt;&lt;img src=&#34;http://localhost:1313/blog/indus.jpg&#34;
+        &lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/indus.jpg&#34;
     alt=&#34;indus app store&#34; width=&#34;600px&#34;&gt;
 &lt;/figure&gt;
 
@@ -306,20 +319,20 @@ install &lt;a href=&#34;https://f-droid.org/&#34; target=&#34;_blank&#34; rel=&#
     
     <item>
       <title>Apple Vision Pro is Trash</title>
-      <link>http://localhost:1313/blog/apple-vision-pro/</link>
+      <link>https://unchaineddev.github.io/blog/apple-vision-pro/</link>
       <pubDate>Mon, 05 Feb 2024 19:20:51 +0530</pubDate>
       
-      <guid>http://localhost:1313/blog/apple-vision-pro/</guid>
+      <guid>https://unchaineddev.github.io/blog/apple-vision-pro/</guid>
       <description>
         
         
-        &lt;figure&gt;&lt;img src=&#34;http://localhost:1313/blog/apple-vision-pro.jpeg&#34; width=&#34;300px&#34;&gt;
+        &lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/apple-vision-pro.jpeg&#34; width=&#34;300px&#34;&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;Have you ever had of something called a Bad Apple? Well you might be amazed to hear that all the normies have assembled together again to admire a new addition to their walled-garden, The all new VR Headset, or as apple
 likes to call it their first &amp;ldquo;&lt;a href=&#34;https://www.apple.com/in/newsroom/2023/06/introducing-apple-vision-pro/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;spatial computer&lt;/a&gt;&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;This device is supposed to be put on your head so that you seamlessly switch between the physical and digital world. The best part about it is you can take it out after two minutes, because it is such a headache to have it on. If you don&amp;rsquo;t believe me, try putting a 500 gram object on your head - which will be lighter than this headset. it is just too unnecessary. they really expect people to keep wearing this like a bunch of zombies; And whenever they feel like activating their digital world, it is a button away, all of which is controlled by (you guessed it) &lt;em&gt;apple!&lt;/em&gt;&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/blog/normie-using-apple-vision-pro.png&#34; width=&#34;500px&#34;&gt;
+&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/normie-using-apple-vision-pro.png&#34; width=&#34;500px&#34;&gt;
 &lt;/figure&gt;
 
 &lt;center&gt;

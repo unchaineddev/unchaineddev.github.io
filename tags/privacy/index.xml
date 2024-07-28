@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Unchained Dev – Privacy</title>
-    <link>http://localhost:1313/tags/privacy/</link>
+    <link>https://unchaineddev.github.io/tags/privacy/</link>
     <description>Recent content in Privacy on Unchained Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 29 Jun 2024 07:12:53 +0530</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://unchaineddev.github.io/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>Keeping Pictures</title>
-      <link>http://localhost:1313/blog/keeping-pictures/</link>
+      <link>https://unchaineddev.github.io/blog/keeping-pictures/</link>
       <pubDate>Sat, 29 Jun 2024 07:12:53 +0530</pubDate>
       
-      <guid>http://localhost:1313/blog/keeping-pictures/</guid>
+      <guid>https://unchaineddev.github.io/blog/keeping-pictures/</guid>
       <description>
         
         
@@ -52,14 +52,14 @@ folders.&lt;/p&gt;
     
     <item>
       <title>xz has a secret backdoor</title>
-      <link>http://localhost:1313/blog/xz-backdoor/</link>
+      <link>https://unchaineddev.github.io/blog/xz-backdoor/</link>
       <pubDate>Tue, 02 Apr 2024 05:20:58 +0530</pubDate>
       
-      <guid>http://localhost:1313/blog/xz-backdoor/</guid>
+      <guid>https://unchaineddev.github.io/blog/xz-backdoor/</guid>
       <description>
         
         
-        &lt;p&gt;I already made a blog post on &lt;a href=&#34;http://localhost:1313/blog/archiving-files-using-tar/&#34; &gt;archiving files using
+        &lt;p&gt;I already made a blog post on &lt;a href=&#34;https://unchaineddev.github.io/blog/archiving-files-using-tar/&#34; &gt;archiving files using
 tar&lt;/a&gt; that covered gzip, a utility tool
 to archive files with compression. In the same way, xz utils is an open-source
 lossless data compression tool primarily focused on the &lt;strong&gt;.xz&lt;/strong&gt; file format,
@@ -82,10 +82,10 @@ comes great responsibility.&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>Facebook Intercepts Web Traffic</title>
-      <link>http://localhost:1313/blog/fb-intercepts-web-traffic/</link>
+      <link>https://unchaineddev.github.io/blog/fb-intercepts-web-traffic/</link>
       <pubDate>Thu, 28 Mar 2024 12:47:09 +0530</pubDate>
       
-      <guid>http://localhost:1313/blog/fb-intercepts-web-traffic/</guid>
+      <guid>https://unchaineddev.github.io/blog/fb-intercepts-web-traffic/</guid>
       <description>
         
         
@@ -123,10 +123,10 @@ targeted by malicious actors.&lt;/p&gt;
     
     <item>
       <title>Signal Gets Usernames!</title>
-      <link>http://localhost:1313/braindump/signal-gets-usernames/</link>
+      <link>https://unchaineddev.github.io/braindump/signal-gets-usernames/</link>
       <pubDate>Wed, 06 Mar 2024 11:05:44 +0530</pubDate>
       
-      <guid>http://localhost:1313/braindump/signal-gets-usernames/</guid>
+      <guid>https://unchaineddev.github.io/braindump/signal-gets-usernames/</guid>
       <description>
         
         
@@ -137,7 +137,7 @@ to have when you do not want to share your number with someone for a chat. The p
 for sign up, however it will no longer be visible to everyone on Signal.&lt;/p&gt;
 &lt;p&gt;This is wonderful news for privacy and security enthusiasts, journalists, whistleblowers, and a big win
 for digital freedom.&lt;/p&gt;
-&lt;center&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/braindump/signal&#34; width=&#34;400px&#34;&gt;
+&lt;center&gt;&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/braindump/signal&#34; width=&#34;400px&#34;&gt;
 &lt;/figure&gt;
 &lt;/center&gt;
 

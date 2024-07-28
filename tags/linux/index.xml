@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Unchained Dev – Linux</title>
-    <link>http://localhost:1313/tags/linux/</link>
+    <link>https://unchaineddev.github.io/tags/linux/</link>
     <description>Recent content in Linux on Unchained Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 02 Apr 2024 05:20:58 +0530</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://unchaineddev.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,14 +17,14 @@
     
     <item>
       <title>xz has a secret backdoor</title>
-      <link>http://localhost:1313/blog/xz-backdoor/</link>
+      <link>https://unchaineddev.github.io/blog/xz-backdoor/</link>
       <pubDate>Tue, 02 Apr 2024 05:20:58 +0530</pubDate>
       
-      <guid>http://localhost:1313/blog/xz-backdoor/</guid>
+      <guid>https://unchaineddev.github.io/blog/xz-backdoor/</guid>
       <description>
         
         
-        &lt;p&gt;I already made a blog post on &lt;a href=&#34;http://localhost:1313/blog/archiving-files-using-tar/&#34; &gt;archiving files using
+        &lt;p&gt;I already made a blog post on &lt;a href=&#34;https://unchaineddev.github.io/blog/archiving-files-using-tar/&#34; &gt;archiving files using
 tar&lt;/a&gt; that covered gzip, a utility tool
 to archive files with compression. In the same way, xz utils is an open-source
 lossless data compression tool primarily focused on the &lt;strong&gt;.xz&lt;/strong&gt; file format,
@@ -47,10 +47,10 @@ comes great responsibility.&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>How to check CPU Usage in the Terminal?</title>
-      <link>http://localhost:1313/braindump/cpu-usage-terminal/</link>
+      <link>https://unchaineddev.github.io/braindump/cpu-usage-terminal/</link>
       <pubDate>Sun, 11 Feb 2024 18:31:46 +0530</pubDate>
       
-      <guid>http://localhost:1313/braindump/cpu-usage-terminal/</guid>
+      <guid>https://unchaineddev.github.io/braindump/cpu-usage-terminal/</guid>
       <description>
         
         
@@ -105,10 +105,10 @@ comes great responsibility.&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>Archiving Files Using Tar</title>
-      <link>http://localhost:1313/blog/archiving-files-using-tar/</link>
+      <link>https://unchaineddev.github.io/blog/archiving-files-using-tar/</link>
       <pubDate>Thu, 09 Nov 2023 19:46:04 +0530</pubDate>
       
-      <guid>http://localhost:1313/blog/archiving-files-using-tar/</guid>
+      <guid>https://unchaineddev.github.io/blog/archiving-files-using-tar/</guid>
       <description>
         
         
@@ -208,10 +208,10 @@ comes great responsibility.&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>mpv scripts</title>
-      <link>http://localhost:1313/blog/mpv-scripts/</link>
+      <link>https://unchaineddev.github.io/blog/mpv-scripts/</link>
       <pubDate>Mon, 18 Sep 2023 08:36:10 +0530</pubDate>
       
-      <guid>http://localhost:1313/blog/mpv-scripts/</guid>
+      <guid>https://unchaineddev.github.io/blog/mpv-scripts/</guid>
       <description>
         
         
@@ -229,7 +229,7 @@ comes great responsibility.&lt;/em&gt;&lt;/p&gt;
 &lt;li&gt;&lt;i&gt;as easy as saving the file in your &lt;code&gt;scripts/&lt;/code&gt; folder.&lt;/i&gt;&lt;/li&gt;
 &lt;li&gt;press &lt;em&gt;TAB&lt;/em&gt; to display the chapters.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/blog/mpv-chapters.png&#34;
+&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/mpv-chapters.png&#34;
     alt=&#34;https://github.com/zxhzxhz/mpv-chapters&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;&lt;a href=&#34;https://github.com/zxhzxhz/mpv-chapters&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/zxhzxhz/mpv-chapters&lt;/a&gt;&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -238,7 +238,7 @@ comes great responsibility.&lt;/em&gt;&lt;/p&gt;
 &lt;h4&gt;2. mpv thumbnails script&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;2-mpv-thumbnails-script2&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#2-mpv-thumbnails-script2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;&lt;br&gt;
 Display preview thumbnails when hovering over the seekbar.&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/blog/mpv-thumbnails.gif&#34;
+&lt;figure&gt;&lt;img src=&#34;https://unchaineddev.github.io/blog/mpv-thumbnails.gif&#34;
     alt=&#34;https://github.com/marzzzello/mpv_thumbnail_script&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;&lt;a href=&#34;https://github.com/marzzzello/mpv_thumbnail_script&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/marzzzello/mpv_thumbnail_script&lt;/a&gt;&lt;/p&gt;
     &lt;/figcaption&gt;

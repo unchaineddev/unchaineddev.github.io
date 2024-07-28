@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Unchained Dev – Django</title>
-    <link>http://localhost:1313/tags/django/</link>
+    <link>https://unchaineddev.github.io/tags/django/</link>
     <description>Recent content in Django on Unchained Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 16 Dec 2023 20:00:39 +0530</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/tags/django/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://unchaineddev.github.io/tags/django/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>Django Project Structure</title>
-      <link>http://localhost:1313/blog/django-structure/</link>
+      <link>https://unchaineddev.github.io/blog/django-structure/</link>
       <pubDate>Sat, 16 Dec 2023 20:00:39 +0530</pubDate>
       
-      <guid>http://localhost:1313/blog/django-structure/</guid>
+      <guid>https://unchaineddev.github.io/blog/django-structure/</guid>
       <description>
         
         
