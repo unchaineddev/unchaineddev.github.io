@@ -5,7 +5,7 @@
     <description>Recent content in Blog on Unchained Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Dec 2024 15:44:33 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 16 Dec 2024 11:20:13 +0530</lastBuildDate>
     
 	  <atom:link href="https://unchaineddev.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,6 +14,69 @@
         
       
     
+    
+    <item>
+      <title>2024 Updates &amp; Goals for 2025</title>
+      <link>https://unchaineddev.github.io/blog/goals-for-2025/</link>
+      <pubDate>Mon, 16 Dec 2024 11:20:13 +0530</pubDate>
+      
+      <guid>https://unchaineddev.github.io/blog/goals-for-2025/</guid>
+      <description>
+        
+        
+        &lt;p&gt;It feels like only &lt;em&gt;yesterday&lt;/em&gt; I was setting &lt;a href=&#34;https://unchaineddev.github.io/blog/goals-for-2024/&#34; &gt;my goals&lt;/a&gt;, and now here we are,
+wrapping up 2024! Phew, can you beleive how fast time has flown by?&lt;/p&gt;
+&lt;p&gt;As the year draws to a close, it’s the perfect moment to pause, reflect on the progress
+I’ve made, but it’s not just about looking back — this is also the time to set my sights on 2025 and all
+the exciting possibilities it holds. 🥂&lt;/p&gt;
+&lt;h4&gt;🏃🏼‍♂️ Physical Health 🏊🏼‍♂️&lt;span class=&#34;absolute -mt-20&#34; id=&#34;-physical-health-&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-physical-health-&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Unlike 2023, when walking to work was part of my daily routine, I did not walk as much in comparison. In compensation,
+I made an effort to stay active by walking in the weekends, followed by working out at home (also learnt to skip rope!)&lt;/p&gt;
+&lt;p&gt;Finally, I took things up a notch by hitting the gym, lifting weights, and finally incorporated running into my routine &amp;ndash; and I plan to
+continue building onto these habits in the coming year ++ adding a new sport to my routine.&lt;/p&gt;
+&lt;h4&gt;🥬 Diet 🥬&lt;span class=&#34;absolute -mt-20&#34; id=&#34;-diet-&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-diet-&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;This year, my diet underwent a massive transformation. Over the past few months, I’ve become highly
+mindful of what I put in my mouth — some might even call it an obsession. While I’ve always leaned
+toward healthy eating, I didn’t shy away from having junk food.&lt;/p&gt;
+&lt;p&gt;This year marked a steady decline in my junk food consumption, paving the way for a more balanced lifestyle.
+I have been focusing on eating clean and I have managed to be disciplined and consistent so far. (Proud? &lt;em&gt;Maybe&lt;/em&gt;)&lt;/p&gt;
+&lt;h4&gt;Learning &amp;amp; Self-Improvement 🧠&lt;span class=&#34;absolute -mt-20&#34; id=&#34;learning--self-improvement-&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#learning--self-improvement-&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;&amp;ndash; &lt;em&gt;&lt;strong&gt;Reading&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;I cannot figure why I do not get the time to read. There’s a stack of books waiting for me, yet I often
+find myself watching movies, or youtube instead. &lt;em&gt;Classic, right?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;I wish the &amp;ldquo;read 10-20 pages a day&amp;rdquo; trick like all these
+influencers suggest worked for me, but I don&amp;rsquo;t know, the joy of immersing myself in an entire book all
+at once feels like a completely different experience.&lt;/p&gt;
+&lt;p&gt;Here’s hoping the new year brings with it the opportunity (and discipline) for me to get into some truly good reads.&lt;/p&gt;
+&lt;p&gt;&amp;ndash; &lt;em&gt;&lt;strong&gt;Programming&lt;/strong&gt; &amp;amp; &lt;strong&gt;Tech&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Python is my official language of choice. Will it change anytime soon? &lt;strong&gt;HELL NO!&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;With that aside, I do need to improve my JS &amp;amp; React skills, &amp;lsquo;cause Rust seems to be a tough nut for me.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Self-hosting some projects is still on the to-do list, but the maintenance aspect keeps pushing it further down.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;I got my hands dirty with tools like Docker, Jenkins, and other DevOps essentials, broadening my
+technical toolkit.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;So much to learn, yet so little time. (what the hell, right?)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&amp;ndash; &lt;em&gt;&lt;strong&gt;Other Stuff&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Learning&lt;/strong&gt; to trade&lt;/em&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Contributed&lt;/strong&gt; to a few open-source projects&lt;/em&gt; &amp;amp; more to come.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
     
     <item>
       <title>Book Collecting</title>
@@ -40,7 +103,7 @@ maybe it is the greedy heart driven by a deep and unrelenting passion of art.&lt
 and healing works, disguised as pure entertainment. Mental note to self: &lt;em&gt;No more of these.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;I remember a particular lazy sunday from a dozens of sundays, where I perch on the floor
 and sort the paperbacks. The excitement of cataloguing, or lack thereof. This desire to turn
-pages and finished the unfinished business is immeasurable. It is like buying lost time.&lt;/p&gt;
+pages and finish the unfinished business is immeasurable. It is like buying lost time.&lt;/p&gt;
 &lt;p&gt;After a through inspection of my shelf, I faced an undeniable truth. a man&amp;rsquo;s books is his mindset.
 Seneca said it best: The importance of picking the right books and authors matters, because the
 quality of the books you read directly impacts your character and wisdom. In the same breath,
