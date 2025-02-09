@@ -5,7 +5,7 @@
     <description>Recent content in Blog on Unchained Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 28 Dec 2024 19:42:58 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 09 Feb 2025 07:37:11 +0530</lastBuildDate>
     
 	  <atom:link href="https://unchaineddev.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,6 +14,55 @@
         
       
     
+    
+    <item>
+      <title>The A.I Wars Begin</title>
+      <link>https://unchaineddev.github.io/blog/ai-wars/</link>
+      <pubDate>Sun, 09 Feb 2025 07:37:11 +0530</pubDate>
+      
+      <guid>https://unchaineddev.github.io/blog/ai-wars/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Imagine a world without AI-powered chatbots like ChatGPT, where finding answers meant looking through endless forums,
+browsing Stack Overflow, or spending hours searching the web. With all the innovation humanity has achieved, it’s hard
+to imagine going back. Today, most of us turn to ChatGPT for a quick response whether it is a coding problem or a question
+we’ve never encountered before.&lt;/p&gt;
+&lt;p&gt;What makes ChatGPT so popular isn’t just that it was the first large language model (which set the standard for LLMs)&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; —
+it’s also because of easy accessibility to the public and more importantly, free. &lt;em&gt;Think:&lt;/em&gt; Free as in free to use, not free software.&lt;/p&gt;
+&lt;p&gt;&amp;lsquo;OpenAI&amp;rsquo; being Closed A.I, became a victim of their own game. Deepseek AI’s R1 model, trained entirely through reinforcement learning (RL)
+matched — or even outperformed—OpenAI’s o1 across multiple benchmarks. This left stakeholders and investors in the U.S. increasingly anxious, which turned the US markets into a bloodbath. Notably, NVIDIA lost 600 billion dollars&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;, their highest market cap devaluation on a single day!&lt;/p&gt;
+&lt;p&gt;Despite being a Chinese company, Deepseek is open-source, making its underlying code freely available to everyone—and even allowing users to run its LLM locally. So, dismissing it solely because of its origin is out of the question.&lt;/p&gt;
+&lt;p&gt;It’s fascinating to see nations competing in AI, and honestly, healthy competition is a good thing. You can’t always rely on one country to lead in cutting-edge technology forever. China has proven its capabilities, and there’s no reason India, or any other nation can’t do the same.&lt;/p&gt;
+&lt;p&gt;DeepSeek is now the most downloaded A.I app across 140+ markets&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;, with India contributing to 15% of the total app downloads. (Nearly 2X downloads in comparison to ChatGPT&amp;rsquo;s launch)&lt;/p&gt;
+&lt;p&gt;With India gearing up to launch a homegrown AI model by the end of this year, here’s what I believe should be the absolute standard:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Free and Open-Source&lt;/strong&gt; – This is non-negotiable. Accessibility and transparency will be key to mass adoption.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Timely Data Updates&lt;/strong&gt; – The model should continuously collect and refresh relevant data to stay up-to-date.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Robust Training Algorithms&lt;/strong&gt; – Developing strong algorithms and feeding the model with high-quality data is essential.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Parameter Optimization &amp;amp; Testing&lt;/strong&gt; – Fine-tuning parameters and rigorously testing performance will be crucial to staying competitive.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Accuracy &amp;amp; Benchmarking&lt;/strong&gt; – Regularly fine-tuning the model and comparing its performance against global competitors.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cross-Platform Accessibility&lt;/strong&gt; – Make the model available across devices, with a focus on affordability. Most of India prefers solutions that come at zero cost—so a mobile app is a must.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Developer-Friendly Ecosystem&lt;/strong&gt; – Provide extensive documentation, APIs, and how-to guides to foster a strong developer community.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;If India gets these right, it could establish itself as a major player in the AI race.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://toloka.ai/blog/history-of-llms/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://toloka.ai/blog/history-of-llms/&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.forbes.com/sites/dereksaul/2025/01/27/biggest-market-loss-in-history-nvidia-stock-sheds-nearly-600-billion-as-deepseek-shakes-ai-darling/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.forbes.com/sites/dereksaul/2025/01/27/biggest-market-loss-in-history-nvidia-stock-sheds-nearly-600-billion-as-deepseek-shakes-ai-darling/&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://economictimes.indiatimes.com/tech/technology/deepseek-app-holds-top-global-spot-in-downloads-led-by-india/articleshow/117835222.cms&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://economictimes.indiatimes.com/tech/technology/deepseek-app-holds-top-global-spot-in-downloads-led-by-india/articleshow/117835222.cms&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+
+      </description>
+    </item>
     
     <item>
       <title>2024: The Year I Got The Watch Bug</title>
